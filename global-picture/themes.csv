@@ -1,4 +1,4 @@
-id,name,default,theme-order
+id,name,default,order
 poorest20pct,Poverty,poorest-20-percent,1
 vulnerability,Vulnerability,fragile-states,2
 dpf,Government finance,non-grant-revenue-ppp-pc,3
