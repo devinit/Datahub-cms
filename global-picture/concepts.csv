@@ -22,7 +22,151 @@ out-oof-net,official,"Net other official flows provided, US$","Net other officia
 out-ssc-net,official,"Net south-south development cooperation provided, US$","Net south-south development cooperation provided, US$",dark-purple,constant 2015 US$,US$,
 oof-bundle,official, ,Modality of other official flows (OOFs),
 out-oof-gross,official,"Gross other official flows provided, US$","Gross other official flows provided, US$", ,constant 2015 US$,US$,
-oof,official,Other official",
+oof,official,Other official flows,Gross OOF, ,constant 2015 US$,US$,
+warehouse/recipient_profile/oda_per_poor_person_2015,official,"ODA per person living on under $1.90 a day", US$"ODA per person living on under $1.90 a day, US$",dark-purple,constant 2015 US$,US$,
+warehouse/fact/in_oda_gross_2015,official,"Gross ODA received, US$","Gross ODA received, US$",dark-purple,constant 2015 US$,US$,2015,
+warehouse/fact/in_oda_net_2015,official,"Net ODA received, US$","Net ODA received, US$",dark-purple,constant 2015 US$,US$,
+warehouse/fact/out_oda_gross_2015,official,"Gross ODA provided by OECD DAC members, US$","Gross ODA provided by OECD DAC members, US$",dark-purple,constant 2015 US$,US$,
+in-oof-gross,official,"Gross other official flows received, US$","Gross other official flows received, US$",dark-purple,constant 2015 US$,US$,
+fdi-pp,intlmix,"Foreign direct investment per person, US$","Foreign direct investment per person (note that negative values, which occur when disinvestment exceeds new investments, are excluded)",orange,US$ per person,US$,2015
+intl-resources-total-percent-gdp,intlmix,"Total international resource flows, % of GDP","Total international resource flows received by each country divided by the country's GDP, for each year",red,percent,%,2015
+remittances-pp,intlmix,"Remittances received per person, US$",Remittances per person,blue,constant 2015 US$,US$,2015,
+intl-flows-donors,intlmix,International resource flows to and from developed countries,"Estimates of international resource flows into the country, 2015 US$. Estimates are gross inflows where available, with the following exceptions: foreign direct investment and portfolio equity are net inflows (new investments minus disinvestments) and short-term debt is net flows (disbursements minus capital repayments). See methodology for detailed notes on the data for each resource flow", ,constant 2015 US$,US$,
+intl-flows-recipients-wide,intlmix,International resource flows to and from developing countries (wide),"Estimates of international resource flows into the country, 2015 US$. Estimates are gross inflows where available, with the following exceptions: foreign direct investment and portfolio equity are net inflows (new investments minus disinvestments) and short-term debt is net flows (disbursements minus capital repayments). See methodology for detailed notes on the data for each resource flow", ,constant 2015 US$,US$,
+oda-percent-intl-resources,intlmix,"ODA, % of international resource flows","Inflows of gross official development assistance (ODA) to each country expressed as a percentage of GDP of the same country, each year",purple,percent,%,2015
+fdi-percent-gdp,intlmix,"Foreign direct investment, % of GDP","Inflows of foreign direct investment to each country expressed as a percentage of GDP of the same country, each year",orange,percent,%,2015
+intl-flows-donors-wide,intlmix,International resource flows to and from developed countries (wide),"Estimates of international resource flows from developed countries, 2015 US$", ,constant 2015 US$,US$,
+intl-flows-recipients,intlmix,International resource flows to and from developing countries,"Estimates of international resource flows into the country, 2015 US$. Estimates are gross inflows where available, with the following exceptions: foreign direct investment and portfolio equity are net inflows (new investments minus disinvestments) and short-term debt is net flows (disbursements minus capital repayments). See methodology for detailed notes on the data for each resource flow", ,constant 2015 US$,US$,
+warehouse/fact/maternal_mortality,intlmix,"Maternal mortality rate (per 100,000 live births)","The largest international resource flow to each country in each year",categorical, , ,2015,
+warehouse/fact/maternal_mortality,health,"Maternal mortality rate (per 100,000 live births)","Maternal mortality rate (per 100,000 live births)", ,unit, , ,
+warehouse/fact/life_expectancy_at_birth,health,"Life expectancy at birth, total (years)","Life expectancy at birth, total (years)", ,unit, , ,
+in-ha,ha,Humanitarian assistance,"Humanitarian assistance to each country (including humanitarian assistance reported as ODA)",dark-blue,constant 2015 US$,US$,
+iati/iati-budgets-gb,forward-looking-oda,"UK, DFID planned budgets","The data shows forward looking budget data reported to the International Aid Transparency Initiative (IATI) by the UK for existing or committed projects spanning multiple years. Budget data is displayed for the Department for International Development only. This visualisation shows only project financing for specific countries: Regional and unspecified funding is excluded",dark-purple,US$,US$,2016,
+iati/iati-budgets-ca,forward-looking-oda,"Canada, Global Affairs planned budgets","The data shows forward looking budget data reported to the International Aid Transparency Initiative (IATI) by Canada for existing or committed projects spanning multiple years. Budget data is displayed for Global Affairs Canada only. This visualisation shows only project financing for specific countries: Regional and unspecified funding is excluded",dark-purple,US$,US$,2016,
+iati/iati-budgets-be,forward-looking-oda,Belgian Development Cooperation planned budgets,"The data shows forward looking budget data reported to the International Aid Transparency Initiative (IATI) by Belgium for existing or committed projects spanning multiple years. Budget data is displayed for the Directorate-General for Development only. This visualisation shows only project financing for specific countries: Regional and unspecified funding is excluded",dark-purple,US$,US$,2016,
+iati/iati-budgets-nl,forward-looking-oda,"Netherlands, Foreign Affairs planned budgets","The data shows forward looking budget data reported to the International Aid Transparency Initiative (IATI) by the Netherlands for existing or committed projects spanning multiple years. Budget data is displayed for the Ministry of Foreign Affairs only. This visualisation shows only project financing for specific countries: Regional and unspecified funding is excluded",dark-purple,US$,US$,2016,
+iati/iati-budgets-dk,forward-looking-oda,"Denmark, DANIDA and Foreign Affairs planned budgets","The data shows forward looking budget data reported to the International Aid Transparency Initiative (IATI) by Denmark for existing or committed projects spanning multiple years. Budget data is displayed for DANIDA and the Ministry of Foreign Affairs. This visualisation shows only project financing for specific countries: Regional and unspecified funding is excluded",dark-purple,Us$,US$,2016,
+total-revenue-percent-gdp,dpf,"Government revenue (including grants), % of GDP","Government revenue (including grants), % of GDP",dark-light-blue,percent,%,2015
+total-revenue-ppp-pc,dpf,"Government revenue per person (including grants), 2015 PPP$","Government revenue per person (including grants), 2015 PPP$",dark-light-blue,2015 PPP$, PPP$,2015
+domestic-sectors,dpf,Government expenditure by sector,Government expenditure by sector, ,"constant 2015 US$, NCU","constant 2015 US$, NCU",
+domestic,dpf,Non-grant government revenue,Non-grant government revenue. Data is for 2015, ,"constant 2015 US$, NCU","constant 2015 US$, NCU",
+grants-percent-total-revenue,dpf,"Grants, % of government revenue","Grants, % of government revenue",dark-light-blue,percent,%,2015
+govt-spend-pc,dpf,"Government spending per person, 2015 PPP$","Government spending per person, 2015 PPP$. Data is for 2015 or most recent year prior",dark-light-blue,2015 PPP$, PPP$,2015
+govt-revenue-pc-gdp,dpf,"Government revenue (excluding grants), % of GDP","Government revenue (excluding grants), % of GDP",dark-light-blue,percent,%,2015
+non-grant-revenue-ppp-pc,dpf,"Government revenue per person (excluding grants), 2015 PPP$","Government revenue per person (excluding grants), 2015 PPP$",dark-light-blue,2015 PPP$, PPP$,2015
+agricultural-census,data-revolution,Latest (planned) agricultural census,The year of the last agricultural (crop and/or livestock) census or survey
+number-of-surveys,data-revolution,Number of poverty surveys in past 10 years,"Poverty surveys collect data on household income, consumption and expenditure, including income in kind. They typically include income, expenditure, and consumption surveys, household budget surveys, Integrated Surveys, Living Standard Measuring Surveys, and other poverty related surveys"
+civil-reg-births,data-revolution,Vital statistics from civil registration (births),"The percentage of deaths reported in vital statistics where the data is derived from the Civil Registration system",
+civil-reg-deaths,data-revolution,Vital statistics from civil registration (deaths),"The percentage of deaths reported in vital statistics where the data is derived from the Civil Registration system",
+educ-mis,data-revolution,Education management information system,"A national administrative system recording data from all education facilities on staff, logistics, performance etc",
+latest-census,data-revolution,Latest (planned) population census,"The year and type of the last national household survey. Standard survey types: Demographic & Health Survey (DHS); Multiple Indicator Cluster Survey (MICS); Household Income & Expenditure Survey (HIES); National Survey (NS)"
+stat-capacity,data-revolution,Statistical capacity,"The Statistical Capacity Indicator provides an overview of the capacity of a country's national statistical system based on a diagnostic framework thereby assessing three dimensions: methodology, source data, and periodicity and timeliness"
+latest-hh-survey,data-revolution,Latest (planned) household survey,"The year and type of the last national household survey. Standard survey types: Demographic & Health Survey (DHS); Multiple Indicator Cluster Survey (MICS); Household Income & Expenditure Survey (HIES); National Survey (NS)"
+oda-donor/oda-DK,data-revolution,Health management information system,"A national administrative system recording data from all health facilities on staff, logistics, performance, morbidity etc"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
