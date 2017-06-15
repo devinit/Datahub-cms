@@ -1,1 +1,2 @@
-
+id,type,name,description,color,uom,uom-display,startYear,endYear
+fact.gni_pc_usd_2015,donor,Gross national income (2015 US$) per capita,,,,	GNI (2015 US$) per capita,2015,,
