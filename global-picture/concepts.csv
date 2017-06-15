@@ -20,7 +20,7 @@ warehouse/fact/out_debt_relief_2015,official,ODA excluding debt relief,Net ODA w
 dev-coop-in-detail,official,Development cooperation,Detailed breakdown of the characteristics of development cooperation from different providers, ,constant 2015 US$,US$,
 out-oof-net,official,"Net other official flows provided, US$","Net other official flows provided, US$",dark-purple,constant 2015 US$,US$,
 out-ssc-net,official,"Net south-south development cooperation provided, US$","Net south-south development cooperation provided, US$",dark-purple,constant 2015 US$,US$,
-oof-bundle,official, ,Modality of other official flows (OOFs), , , , ,
+oof-bundle,official, ,Modality of other official flows (OOFs), , , , 
 out-oof-gross,official,"Gross other official flows provided, US$","Gross other official flows provided, US$", ,constant 2015 US$,US$,
 oof,official,Other official flows,Gross OOF, ,constant 2015 US$,US$,
 warehouse/recipient_profile/oda_per_poor_person_2015,official,"ODA per person living on under $1.90 a day, US$","ODA per person living on under $1.90 a day, US$",dark-purple,constant 2015 US$,US$,
