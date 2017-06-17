@@ -6,7 +6,7 @@ afdb,organisation,African Development Bank (AfDB),,,,,,afdb,1,multilateral,,Afri
 afdf,organisation,African Development Fund (AfDF),,,,,,afdf,2,multilateral,,African Development Fund (AfDF)
 AX,country,Åland Islands,oceania,AX,ALA,,,aland-islands,AX,,,Aland Islands
 AL,country,Albania,europe,AL,ALB,"MK,GR,ME,RS,XK",umics,albania,AL,recipient,1,Albania
-DZ,country,Algeria,north-of-sahara,DZ,DZA,"NE,EH,LY,MR,TN,MA,ML",umics,algeria,DZ,recipient,1,Algeria
+DZ,country,Algeria,north-of-sahara,DZ,DZA,"NE,EH,LY,MR,TN,MA,ML",umics,algeria,DZ,recipient,1,AlgeriaT
 all-donors-total,,"All Donors, Total",,,,,,all-donors-total,,,,"All Donors, Total"
 america,region,"America, regional",,,,,,america-regional,52,region,,"America, regional"
 AS,country,American Samoa,oceania,AS,ASM,,,american-samoa,AS,,,American Samoa
