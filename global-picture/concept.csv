@@ -1,6 +1,6 @@
 id,theme,name,description,color,uom,uomDisplay,startYear,endYear
 avg_income_of_extreme_poor,poorest20pct,Average income of extreme poor,Average income ($PPP) of people living on less than $1.90 a day, ,US$,US$,,
-depth_of_extreme_poverty_190,poorest20pct,Depth of extreme poverty (poverty gap),"Depth of extreme poverty (also known as the poverty gap) tells us how far people are from the extreme poverty line, on average per country",dark-red,percent,%,2013
+depth_of_extreme_poverty_190,poorest20pct,Depth of extreme poverty (poverty gap),"Depth of extreme poverty (also known as the poverty gap) tells us how far people are from the extreme poverty line, on average per country",dark-red,percent,%,2013,,
 poor-people-190,poorest20pct,Number of people living in extreme poverty,Number of poor people living on under 2011 PPP$ 1.90 per day,dark-red,unit, ,2013
 poorest-20-percent,poorest20pct,Poorest 20%,Number of people in each country that are part of the poorest 20% of people worldwide,dark-red,unit, ,2013
 poverty-190,poorest20pct,% of population living in extreme poverty,Percentage of population living under 2011 PPP$ 1.90 per day,dar-kred,percent,%,2013
