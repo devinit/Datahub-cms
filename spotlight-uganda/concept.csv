@@ -43,4 +43,4 @@ spotlight_on_uganda/uganda_total_pop,uganda-pop,Total population,Total populatio
 spotlight_on_uganda/uganda_urban_pop,uganda-pop,Urban population (%),Urban population (%).,orange,%,%,,
 spotlight_on_uganda/uganda_urban_rural_pop, ,Urban and rural population (%),Urban and rural population (%)., ,%,%,,
 spotlight_on_uganda/uganda_wash-perf_score,uganda-wash,District WASH performance score,District WASH performance score.,blue,%,%,,
-spotlight_on_uganda/uganda_water_source_comm_func,uganda-wash,Functioning water source committees (%),Functioning water source committees (%),blue,%,%,
+spotlight_on_uganda/uganda_water_source_comm_func,uganda-wash,Functioning water source committees (%),Functioning water source committees (%),blue,%,%, ,
