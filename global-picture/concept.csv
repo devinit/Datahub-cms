@@ -1,4 +1,16 @@
-atural_hazard,vulnerability,Natural hazard and exposure score,Index for risk management score for exposure to natural hazards (10 = high exposure),dark-orange,index, ,2015,
+avg_income_of_extreme_poor,poorest20pct,Average income of extreme poor,Average income ($PPP) of people living on less than $1.90 a day, ,US$,US$,,
+depth_of_extreme_poverty_190,poorest20pct,Depth of extreme poverty (poverty gap),"Depth of extreme poverty (also known as the poverty gap) tells us how far people are from the extreme poverty line, on average per country",dark-red,percent,%,1981,2013
+poor_people_190,poorest20pct,Number of people living in extreme poverty,Number of poor people living on under 2011 PPP$ 1.90 per day,dark-red,unit, ,1990,2013
+poorest_20_percent,poorest20pct,Poorest 20%,Number of people in each country that are part of the poorest 20% of people worldwide,dark-red,unit, ,1981,2013
+poverty_90,poorest20pct,% of population living in extreme poverty,Percentage of population living under 2011 PPP$ 1.90 per day,dar-kred,percent,%,2013,
+poverty_310,poorest20pct,% of population living on less than $3.10 a day,Percentage of population living under 2011 PPP$ 3.10 per day,dark-red,percent,%,2013,
+human_hazard,vulnerability,Human hazard and exposure score,Index for risk management score for exposure to human hazards (10 = high exposure),dark-orange,index, ,2015,
+number_of_un_appeals,vulnerability,Number of UN-coordinated appeals,Number of UN-coordinated appeals per country since 2000,dark-orange,index, ,2015,
+natural_hazard,vulnerability,Natural hazard and exposure score,Index for risk management score for exposure to natural hazards (10 = high exposure),dark-orange,index, ,2015,
+forgotten_crisis,vulnerability,"Number of appearances on ECHO's Forgotten Crisis Assessment index","EC's department of Humanitarian Aid and Civil Protection (ECHO) identifies forgotten or so-called 'neglected' emergencies.It has been assembling data for its index since 2004",dark-orange,index, ,2015,
+fragile_states,vulnerability,Fragile states,Fragile states categories,dark-orange,index, ,2015,
+climate_vulnerability,vulnerability,Climate vulnerability,"Global adaptation index score of each country's vulnerability to climate change, incorporating exposure, sensitivity and ability to adapt to the negative impacts of climate change.Higher scores indicate higher vulnerability to climate change",dark-orange,index, ,2015,
+natural_hazard,vulnerability,Natural hazard and exposure score,Index for risk management score for exposure to natural hazards (10 = high exposure),dark-orange,index, ,2015,
 forgotten_crisis,vulnerability,"Number of appearances on ECHO's Forgotten Crisis Assessment index","EC's department of Humanitarian Aid and Civil Protection (ECHO) identifies forgotten or so-called 'neglected' emergencies.It has been assembling data for its index since 2004",dark-orange,index, ,2015,
 fragile_states,vulnerability,Fragile states,Fragile states categories,dark-orange,index, ,2015,
 climate_vulnerability,vulnerability,Climate vulnerability,"Global adaptation index score of each country's vulnerability to climate change, incorporating exposure, sensitivity and ability to adapt to the negative impacts of climate change.Higher scores indicate higher vulnerability to climate change",dark-orange,index, ,2015,
