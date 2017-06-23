@@ -1,5 +1,5 @@
 id,theme,name,description,color,uom,uomDisplay,startYear,endYear,comments
-fact.gni_pc_usd_2015,donor,Gross national income (2015 US$) per capita,GNI (2015 US$) per capita, ,US$,US$,1979,2015,Overview-What is the average income per person per year?
+fact.gni_pc_usd_2015,donor,Gross national income (2015 US$) per capita,GNI (2015 US$) per capita, ,US$,US$,1980,2015,Overview-What is the average income per person per year?
 data_series.govt_spend_pc,donor,"Government spending per person, 2015 PPP$","Government spending per person, 2015 PPP$. Data is for 2015 or most recent year prior",dark-light-blue,2015 PPP$,PPP$,2015, ,Overview-How much does the government spend per person?
 fact.income_share_by_quintile,donor,Income share by quintile,Percentage of income received by each quintile of the population. Data is for 2015 or most recent year prior., ,percent,%,2015, ,Overview-How is income distributed?
 fact.income_share_by_quintile.value_bottom_20pc,donor,Share of income of bottom 20% of population,Share of income of bottom 20% of population., ,percent,%,2015, ,Overview-How is income distributed?
