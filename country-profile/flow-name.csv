@@ -20,7 +20,7 @@ net-portfolio-equity-in,Portfolio equity,6,in,recipient,commercial,1,,Portfolio 
 oda-capital-payments-out,ODA,1,out,recipient,official,,1,Capital repayments on ODA loans,red-high,,OECD DAC,Capital repayments,0,
 oda-capital-repay,ODA,1,in,donor,official,1,,Capital repayments on ODA loans,red-high,Receipt of capital repayments on ODA loans,OECD DAC,Capital repayments,0,
 oda-grants,ODA,,out,donor,official,,,ODA grants,red-mid,This is a type of ODA flow,OECD DAC,ODA grants,0,
-oda-in,ODA,1,in,recipient,official,1,,Official development assistance,red-high,,OECD DAC,Gross disbursements,0,
+oda-in,ODA,1,in,recipient,official,1,,Official development assistance,red-high,,OECD DAC,Gross disbursements,1,
 oda-individual-devcountries,ODA,,out,donor,official,,,Official development assistance,red-high,Official development assistance to individual developing countries,OECD DAC,Gross disbursements by developing country,,
 oda-interest,ODA,1,in,donor,official,2,,Interest payments on ODA loans,red-high,Receipt of interest payments on ODA loans,OECD DAC,Interest payments,,
 oda-interest-payments-out,ODA,1,out,recipient,official,,2,Interest payments on ODA loans,red-high,,OECD DAC,Interest payments,,
