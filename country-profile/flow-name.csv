@@ -1,9 +1,9 @@
 id,flow-category,flow-category-order,direction,type,flow-type,flow-type-order-within-flow-categories-in-flows,flow-type-order-within-flow-categories-out-flows,name,color-id,description,source,short-name,used-in-area-treemap-chart,concept
 dfis-in,DFIs,,in,recipient,official,,,Development Finance Institutions,purple-high,Disbursements from Development Finance Insitutions (excluding disbursements recorded as ODA or OOFs),Development Initiatives,Disbursements,0,
-dfis-out,DFIs,3,out,donor,official,,1,Development Finance Institutions,purple-high,Activities by bilateral development finance institutions (excluding those reported as ODA or OOFs),Development Initiatives,Disbursements,1,dfis-out-dev
+dfis-out,DFIs,3,out,donor,official,,1,Development Finance Institutions,purple-high,Activities by bilateral development finance institutions (excluding those reported as ODA or OOFs),Development Initiatives,Disbursements,1,dataseries_dfis_out_dev
 fdi-devcountries,FDI,4,out,donor,commercial,,1,Foreign Direct Investment in developing countries,orange-high,Foreign direct investment in developing countries,UNCTAD,Investment in developing countries,1,
-fdi-in,FDI,5,in,recipient,commercial,1,,Foreign Direct Investment,orange-high,Net inflows of foreign direct investment (new investments minus disinvestment),UNCTAD,Inward investment,1,fdi-out
-fdi-in-profits-out,FDI,5,out,recipient,commercial,,2,Profits on FDI,orange-high,Outflows of profits on foreign direct investment,World Bank,Outflow of profits,1,fdi-in-profits
+fdi-in,FDI,5,in,recipient,commercial,1,,Foreign Direct Investment,orange-high,Net inflows of foreign direct investment (new investments minus disinvestment),UNCTAD,Inward investment,1,dataseries_fdi_out
+fdi-in-profits-out,FDI,5,out,recipient,commercial,,2,Profits on FDI,orange-high,Outflows of profits on foreign direct investment,World Bank,Outflow of profits,1,data_seriesfdi-in-profits
 fdi-individual-devcountries,FDI,,out,donor,commercial,,,Foreign direct investment,orange-high,Foreign direct investment in individual developing countries,OECD,Investment by developing country,0,
 fdi-individual-devcountries-new,FDI,,out,donor,commercial,,,Foreign direct investment (new),orange-high,Foreign direct investment in individual developing countries (new methodology),OECD,Investment by developing country (new),0,
 fdi-out,FDI,5,out,recipient,commercial,,3,Foreign Direct Investment,orange-high,Net outflows of foreign direct investment (new investments minus disinvestment),,Outward investment,1,fdi-out
