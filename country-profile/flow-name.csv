@@ -22,13 +22,13 @@ oda-capital-repay,ODA,1,in,donor,official,1,,Capital repayments on ODA loans,red
 oda-grants,ODA,,out,donor,official,,,ODA grants,red-mid,This is a type of ODA flow,OECD DAC,ODA grants,0,
 oda-in,ODA,1,in,recipient,official,1,,Official development assistance,red-high,,OECD DAC,Gross disbursements,1,data_series.fact.oda
 oda-individual-devcountries,ODA,,out,donor,official,,,Official development assistance,red-high,Official development assistance to individual developing countries,OECD DAC,Gross disbursements by developing country,,
-oda-interest,ODA,1,in,donor,official,2,,Interest payments on ODA loans,red-high,Receipt of interest payments on ODA loans,OECD DAC,Interest payments,1,oda-interest-payments
+oda-interest,ODA,1,in,donor,official,2,,Interest payments on ODA loans,red-high,Receipt of interest payments on ODA loans,OECD DAC,Interest payments,1,data_series_oda_interest_payments
 oda-interest-payments-out,ODA,1,out,recipient,official,,2,Interest payments on ODA loans,red-high,,OECD DAC,Interest payments,1,data_series.oda_interest_payments_out
 oda-loans-equity-investments,ODA,,out,donor,official,,,ODA loans & equity investments,red-high,Two types of ODA flows grouped together,OECD DAC,ODA loans & equity investments,,
 oda-out,ODA,1,out,donor,official,,1,Official development assistance,red-high,Official development assistance,OECD DAC,Gross disbursements,1,data_series.fact.oda
 oda-regions,ODA,,out,donor,official,,,Official development assistance,red-high,Official development assistance to regions,OECD DAC,Gross disbursements to regions,,
-oofs-capital-payments-out,OOFs,2,out,recipient,official,,1,Capital repayments on OOFs loans,lightblue-high,,OECD DAC,Capital repayments,1,oofs-capital-payments-out
-oofs-capital-repay,OOFs,2,in,donor,official,1,,Capital repayments on OOFs loans,lightblue-high,Receipt of capital repayments on OOF loans,OECD DAC,Capital repayments,1,oofs-capital-repay
+oofs-capital-payments-out,OOFs,2,out,recipient,official,,1,Capital repayments on OOFs loans,lightblue-high,,OECD DAC,Capital repayments,1,data_series_oofs_capital_payments_out
+oofs-capital-repay,OOFs,2,in,donor,official,1,,Capital repayments on OOFs loans,lightblue-high,Receipt of capital repayments on OOF loans,OECD DAC,Capital repayments,1,data_series_oofs_capital_repay
 oofs-in,OOFs,2,in,recipient,official,1,,Other official flows,lightblue-high,,OECD DAC,Gross disbursements,1,data_series.oofs
 oofs-individual-devcountries,OOFs,,out,donor,official,,,Other official flows,lightblue-high,Other official flows to individual developing countries,OECD DAC,Gross disbursements by developing country,,
 oofs-interest,OOFs,2,in,donor,official,2,,Interest payments on OOFs loans,lightblue-high,Receipt of interest payments on OOF loans,OECD DAC,Interest payments,1,data_series.oofs_interest
