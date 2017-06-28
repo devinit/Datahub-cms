@@ -1,3 +1,3 @@
-id,filterId,name,position
+id,groupById,name,position
 dfis-in,from_di_id,Providers,0
 dfis-out,to_di_id,Providers,1
