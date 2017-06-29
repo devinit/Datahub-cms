@@ -1,3 +1,1 @@
 id,theme,name,description,color,uom,uomdisplay,startYear,endYear
-data_series.dimension.oecd_donor, , , , , , , ,
-data_series.poor_people_190,poorest20pct,Number of people living in extreme poverty,Number of poor people living on under 2011 PPP$ 1.90 per day.,dark-red,uom, ,2013,
