@@ -1,4 +1,4 @@
-id,name,old-code,color-id
+id,name,old-code,color
 cash-loan-equity,Cash (loan/equity),A,red-high
 cash-grant,Cash grant,B,red-mid
 commodities-food,Commodities & Food,C,purple-high
