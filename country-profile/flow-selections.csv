@@ -1,3 +1,46 @@
 id,groupById,name,position
-dfis-in,from_di_id,Providers,0
-dfis-out,to_di_id,Providers,1
+dfis_in,from_di_id,Providers,0
+dfis_out,financing_type,Finance modalities,0
+fdi_regions,to_di_id,Destination,0
+fdi_regions,financing_type,Financing Instrument,1
+oda_out,to_di_id,Recipients,0
+oda_out,channel,Channels of delivery,1
+oda_out,sector,Sector,2
+oda_out,bundle,Finance modalities,3
+oofs_out,to_di_id,Recipents,0
+oofs_out,channel,Channels of delivery,1
+oofs_out,sector,Sector,2
+oofs_out,bundle,Finance modalities,3
+remittances_devcountries,to_di_id,Destination,0
+oda_capital_repay,to_di_id,Source,0
+oofs_capital_repay,to_di_id,Recipients,0
+oda_interest,to_di_id,Source,0
+oofs_interest,to_di_id,Recipients,0
+fdi_in,from_di_id,Source(OECD countries only),0
+long_debt_disbursement_in,destination_institution_type,Type of borrower,0
+long_debt_disbursement_in,financing_type,Financing Instrument,1
+long_debt_net_official_in,destination_institution_type,Type of borrower,0
+long_debt_net_official_in,destination_institution_type,Financing Instrument,1
+oda_in,from_di_id,Providers,0
+oda_in,channel, Channels of delivery,1
+oda_in,sector,Sector,2
+oda_in,bundle,Finance modalities,3
+oofs_in,from_di_id,Providers,0
+oofs_in,channel, Channels of delivery,1
+oofs_in,sector,Sector,2
+oofs_in,bundle,Finance modalities,3
+net_portfolio_equity_in,from_di_id,Providers,0
+remittances_in,fom_di_id,Source,0
+short_debt_net_flow_in,destination_institution_type,Type of borrower,0
+short_debt_net_flow_in,financing_type,Financing Instrument,1
+oda_capital_payments_out,from_di_id,Destination,0
+oda_capital_payments_out,from_di_id,Providers,0
+fdi_out,from_di_id,Source(OECD countries only),0
+oda_interest_payments_out,from_di_id,Destination,0
+oofs_interest_payments_out,from_di_id,Providers,0
+short_debt_interest_out,destination_institution_type,Type of borrower,0
+short_debt_interest_out,financing_type,Financing Instrument,1
+fdi_in_profits_out,from_di_id,Source(OECD countries only),0
+fdi_in_profits_out,financing_type,Financing instrument,1
+remittances_out,from_di_id,Source,0
+
