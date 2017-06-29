@@ -23,7 +23,7 @@ oda-grants,ODA,,out,donor,official,,,ODA grants,red-mid,This is a type of ODA fl
 oda-in,ODA,1,in,recipient,official,1,,Official development assistance,red-high,,OECD DAC,Gross disbursements,1,data_series.fact.oda
 oda-individual-devcountries,ODA,,out,donor,official,,,Official development assistance,red-high,Official development assistance to individual developing countries,OECD DAC,Gross disbursements by developing country,,
 oda-interest,ODA,1,in,donor,official,2,,Interest payments on ODA loans,red-high,Receipt of interest payments on ODA loans,OECD DAC,Interest payments,1,data_series_oda_interest_payments
-oda-interest-payments-out,ODA,1,out,recipient,official,,2,Interest payments on ODA loans,red-high,,OECD DAC,Interest payments,1,data_series.oda_interest_payments_out
+oda-interest-payments-out,ODA,1,out,recipient,official,,2,Interest payments on ODA loans,red-high,,OECD DAC,Interest payments,1,data_series.oda_interest_payments
 oda-loans-equity-investments,ODA,,out,donor,official,,,ODA loans & equity investments,red-high,Two types of ODA flows grouped together,OECD DAC,ODA loans & equity investments,,
 oda-out,ODA,1,out,donor,official,,1,Official development assistance,red-high,Official development assistance,OECD DAC,Gross disbursements,1,data_series.fact.oda
 oda-regions,ODA,,out,donor,official,,,Official development assistance,red-high,Official development assistance to regions,OECD DAC,Gross disbursements to regions,,
