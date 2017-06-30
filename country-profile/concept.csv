@@ -28,7 +28,7 @@ data_series.domestic_sectors,recipient,Government expenditure by sector,Governme
 data_series.dfis_out_dev, ,Development Finance Institutions,Activities by bilateral development finance institutions (excluding those reported as ODA or OOFs),purple-high, , ,2000,2015,
 data_series.fdi_out, ,Foreign direct investment in developing countries,Foreign direct investment in developing countries,orange-high, , ,2000,2015,
 data_series.fdi_in_profits, ,Profits on FDI,Outflows of profits on foreign direct investment,orange-high, , ,2000,2015,
-data_series.fdi_out, ,Foreign Direct Investment,Net outflows of foreign direct investment (new investments minus disinvestment),orange-high, ,2000,2015,
+data_series.fdi_out, ,Foreign Direct Investment,Net outflows of foreign direct investment (new investments minus disinvestment),orange-high, , ,2000,2015,
 data_series.fdi_devcountries, ,Foreign direct investment,Foreign direct investment in regions,orange-high, , ,2000,2015,
 data_series.fdi_devcountries, ,Foreign direct investment (new),Foreign direct investment in regions (new methodology),orange-high, , ,2000,2015,
 data_series.long_debt_disbursement_in, ,debt (commercial sources),Disbursments of long-term debt from commercial creditors,dark-light-blue-high, , ,2000,2015,
@@ -45,5 +45,5 @@ data_series.oofs_interest,donor,Interest payments on OOFs loans,Receipt of inter
 data_series.remittances,donor,Remittances to developing countries,Remittances to developing countries,blue-high, , ,2000,2015,
 data_series.remittances,recipient,Remittances, ,blue-high, , ,2000,2015,
 data_series.short_debt_interest_out,recipient,Interest payments on short-term debt, ,yellow-high, , ,2000,2015,
-data_series.short_debt_net_flow_in,rcipient,Short-term debt,Net disbursements of short-term debt (debt with a maturity of less than 1 year; net disbursements are gross inflows minus capital repayments),yellow-high, , ,2000,2015,
+data_series.short_debt_net_flow_in,recipient,Short-term debt,Net disbursements of short-term debt (debt with a maturity of less than 1 year; net disbursements are gross inflows minus capital repayments),yellow-high, , ,2000,2015,
 
