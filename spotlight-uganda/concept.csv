@@ -1,4 +1,4 @@
-id,theme,name,description,color,uom,uomDisplay,2014,endYear
+id,theme,name,description,color,uom,uomDisplay,startYear,endYear
 spotlight_on_uganda/uganda_agri_percent,uganda-dist-resource,Agriculture allocation as a % of total expenditure,The proportion of total local government expenditure that is allocated to the agriculture sector.,purple,percent,%,2014,
 spotlight_on_uganda/uganda_anc4_coverage,uganda-health,Antenatal care coverage rate,Antenatal care coverage rate.,red,unit, ,2014,
 spotlight_on_uganda/uganda_avg-house_size,uganda-pop,Average household size,Average household size,orange,unit, ,2014,
