@@ -2,7 +2,7 @@ id,groupById,name,position
 dfis-in,from_di_id,Providers,0
 dfis-out,financing_type,Finance modalities,0
 fdi-devcountries,to_di_id,Destination,0
-fdi-devcountries,financing_type,Destination,0
+fdi-devcountries,financing_type,Destination,1
 fdi-regions,to_di_id,Destination,0
 fdi-regions,financing_type,Financing Instrument,1
 oda-out,to_di_id,Recipients,0
