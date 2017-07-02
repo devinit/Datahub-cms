@@ -1,4 +1,4 @@
-id,flowCategory,flowCategoryOrder,direction,type,flowType,flowType-order-within-flow-categories-in-flows,flow-type-order-within-flow-categories-out-flows,name,color,description,source,shortName,usedInAreaTreemapChart,concept
+id,flowCategory,flowCategoryOrder,direction,type,flowType,flowType-order-within-flow-categories-in-flows,flow-type-order-within-flow-categories-out-flows,flowName,color,description,source,shortName,usedInAreaTreemapChart,concept
 dfis-in,DFIs,,in,recipient,official,,,Development Finance Institutions,purple-high,Disbursements from Development Finance Insitutions (excluding disbursements recorded as ODA or OOFs),Development Initiatives,Disbursements,0,
 dfis-out,DFIs,3,out,donor,official,,1,Development Finance Institutions,purple-high,Activities by bilateral development finance institutions (excluding those reported as ODA or OOFs),Development Initiatives,Disbursements,1,data_series.dfis_out_dev
 fdi-devcountries,FDI,4,out,donor,commercial,,1,Foreign Direct Investment in developing countries,orange-high,Foreign direct investment in developing countries,UNCTAD,Investment in developing countries,1,data_series.intl_flows_recipients
