@@ -1,4 +1,4 @@
-id,name,default_indicator,position
+id,name,defaultIndicator,position
 poverty,Poverty,poor-people-190,1
 vulnerability,Vulnerability,fragile-states,2
 government-finance,Government finance,non-grant-revenue-ppp-pc,3
