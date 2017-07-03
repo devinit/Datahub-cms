@@ -23,7 +23,21 @@ Foreign-key constraints:
 Referenced by:
     TABLE "indicator" CONSTRAINT "global_picture_indicator_theme_fkey" FOREIGN KEY (theme) REFERENCES theme(id) ON UPDATE CASCADE ON DELETE RESTRICT
 ```
+At the moment, there are 8 themes in the "Global Picture" section of the DH. Each theme is a tab. The themes (in order from the LHS of the page to te RHS of the page) are:
 
+```
+               id               |              name              | position 
+--------------------------------+--------------------------------+----------
+ poverty                        | Poverty                        |        1
+ vulnerability                  | Vulnerability                  |        2
+ government-finance             | Government finance             |        3
+ international-finance          | International finance          |        4
+ international-official-finance | International official finance |        5
+ humanitarian-finance           | Humanitarian finance           |        6
+ data-revolution                | Data revolution                |        7
+ forward-looking-oda            | Forward looking ODA            |        8
+(8 rows)
+```
 #### `global_picture.indicator` table definition
 
 NOTE: a number of columns will be deleted from this table when we finish. It's here for your temporary information.
