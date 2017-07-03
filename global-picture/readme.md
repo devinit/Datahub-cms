@@ -1,5 +1,5 @@
 # Global picture related narratives and refrence files go here.
-
+---
 #### `global_picture.theme` table definition
 
 ```
@@ -30,14 +30,15 @@ At the moment, there are 8 themes in the "Global Picture" section of the DH. Eac
 --------------------------------+--------------------------------+----------
  poverty                        | Poverty                        |        1
  vulnerability                  | Vulnerability                  |        2
- government-finance             | Government finance             |        3
- international-finance          | International finance          |        4
- international-official-finance | International official finance |        5
- humanitarian-finance           | Humanitarian finance           |        6
- data-revolution                | Data revolution                |        7
- forward-looking-oda            | Forward looking ODA            |        8
+ government_finance             | Government finance             |        3
+ international_finance          | International finance          |        4
+ international_official_finance | International official finance |        5
+ humanitarian_finance           | Humanitarian finance           |        6
+ data_revolution                | Data revolution                |        7
+ forward_looking_oda            | Forward looking ODA            |        8
 (8 rows)
 ```
+---
 #### `global_picture.indicator` table definition
 
 NOTE: a number of columns will be deleted from this table when we finish. It's here for your temporary information.
