@@ -1,3 +1,0 @@
-id,theme,name,description,color,uom,uomDisplay,startYear,endYear
-data_series.non_grant_revenue_ppp_pc,dpf,"Government revenue per person (excluding grants), 2015 PPP$","Government revenue per person (excluding grants), 2015 PPP$.",dark-ligh-blue,2015 PPP$,PPP$,2015,
-data_series.poverty_190,poorest20pct,% of population living in extreme poverty,Percentage of population living under 2011 PPP$ 1.90 per day.,dark-red,percent,%,2013,
