@@ -82,8 +82,8 @@ Indexes:
 Check constraints:
     "valid_theme_position" CHECK (theme_position > 0)
 Foreign-key constraints:
+    "global_picture_indicator_map_theme_fkey" FOREIGN KEY (map_theme) REFERENCES theme(id) ON UPDATE CASCADE ON DELETE RESTRICT
     "global_picture_indicator_theme_fkey" FOREIGN KEY (theme) REFERENCES theme(id) ON UPDATE CASCADE ON DELETE RESTRICT
 Referenced by:
     TABLE "theme" CONSTRAINT "global_picture_theme_default_indicator_fkey" FOREIGN KEY (default_indicator) REFERENCES indicator(id) ON UPDATE CASCADE ON DELETE RESTRICT
 ```
-
