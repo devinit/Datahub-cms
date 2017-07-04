@@ -1,49 +1,49 @@
-id,theme,name,description,color,uom,uom_display,start_year,end_year,comments
-fact.gni_pc_usd_2015,donor,Gross national income (2015 US$) per capita,GNI (2015 US$) per capita, ,US$,US$,1980,2015,Overview-What is the average income per person per year?
-data_series.govt_spend_pc,donor,"Government spending per person, 2015 PPP$","Government spending per person, 2015 PPP$. Data is for 2015 or most recent year prior",dark-light-blue,2015 PPP$,PPP$,2015, ,Overview-How much does the government spend per person?
-fact.income_share_by_quintile,donor,Income share by quintile,Percentage of income received by each quintile of the population. Data is for 2015 or most recent year prior., ,percent,%,2012, ,Overview-How is income distributed?
-fact.income_share_by_quintile.value_bottom_20pc,donor,Share of income of bottom 20% of population,Share of income of bottom 20% of population., ,percent,%,2015, ,Overview-How is income distributed? -- May not be used in DH
-fact.population_total,donor,Total population,Total population, ,unit, ,2015, ,Population-What is the population in x?
-fact.population_rural_urban,donor,Urban vs rural population level,Urban vs rural population level., ,unit, ,1960,2015,Population-What is the urban vs rural split?
-fact.population_by_age,donor,Population by age group,Number of people in each of 3 age bands., ,unit, ,1960,2015,Population-What is the age profile?
-fact.oda_percent_gni,donor,"Net ODA provided by DAC members, % of GNI","Net ODA provided by DAC members, % of GNI.",dark-purple,percent,%,2015, ,"International Resources-As a share of GNI,how much aid does Sweden allocate?"
-fact.gni_usd_2015,donor,Gross national income (2015 US$),GNI (2015 US$), ,US$,US$,2015, ,International Resources-Gross nation income is
-data_series.intl_flows_donors,donor,International resource flows to and from developed countries,"Estimates of international resource flows from developed countries, 2015 US$.", ,constant 2015 US$,US$,2015, ,International Resources-What is the mix of resources in X?
-data_series.poorest_20_percent,recipient,Poorest 20%,Number of people in each country that are part of the poorest 20% of people worldwide.,dark-red,unit, ,2013, ,Overview-How many of the poorest people globally live in Bangladesh?
-fact.population_total,recipient,Total population,Total population, ,unit, ,2015, ,Overview-out of a population of a million people?
-data_series.domestic,recipient,Non-grant government revenue,Non-grant government revenue. Data is for 2015., ,"constant 2015 US$, NCU","constant 2015 US$, NCU",2015, ,Overview-What resources are available?
-data_series.intl_flows_recipients,recipient,International resource flows to and from developing countries,"Estimates of international resource flows into the country, 2015 US$. Estimates are gross inflows where available, with the following exceptions: foreign direct investment and portfolio equity are net inflows (new investments minus disinvestments) and short-term debt is net flows (disbursements minus capital repayments). See methodology for detailed notes on the data for each resource flow.", ,constant 2015 US$,US$,2015, ,Overview-International - mix of resources
-data_series.govt_spend_pc,recipient,"Government spending per person, 2015 PPP$","Government spending per person, 2015 PPP$. Data is for 2015 or most recent year prior.",dark-light-blue,2015 PPP$,PPP$,2015, ,Overview-How much does the government spend per person?
-data_series.poverty_190,recipient,% of population living in extreme poverty,Percentage of population living under 2011 PPP$ 1.90 per day.,dark-red,percent,%,2000,2013,Poverty-Is poverty reducing overtime?
-data_series.depth_of_extreme_poverty_190,recipient,Depth of extreme poverty (poverty gap),"Depth of extreme poverty (also known as the poverty gap) tells us how far people are from the extreme poverty line, on average per country",dark-red,percent,%,2015,,Poverty-How deep is poverty?
-fact.income_share_by_quintile,recipient,Income share by quintile,Percentage of income received by each quintile of the population. Data is for 2015 or most recent year prior., ,percent,%,2015, ,Poverty-How is income distributed?
-fact.income_share_by_quintile.value_bottom_20pc,recipient,Share of income of bottom 20% of population,Share of income of bottom 20% of population., ,percent,%,2015, ,Poverty-Bottom quintile has income
-fact.population_total,recipient,Total population,Total population, ,unit, ,2015, ,Population-What is the population in x?
-fact.population_rural_urban,recipient,Urban vs rural population level,Urban vs rural population level., ,unit, ,1960,2015,Population-What is the urban vs rural split?
-fact.population_by_age,recipient,Population by age group,Number of people in each of 3 age bands., ,unit, ,1960,2015,Population-What is the age profile?
-fact.in_oda_net_2015,recipient,"Net ODA received, US$","Net ODA received, US$.",dark-purple,constant 2015 US$,US$,2015, ,"International Resources-As a share of GNI,how much aid does Sweden allocate?"
-fact.gni_usd_2015,recipient,Gross national income (2015 US$),GNI (2015 US$), ,US$,US$,2015, ,International Resources-Gross nation income is fact_gni_usd
-data_series.intl_flows_recipient,recipient,International resource flows to and from developing countries (wide),"Estimates of international resource flows into the country, 2015 US$. Estimates are gross inflows where available, with the following exceptions: foreign direct investment and portfolio equity are net inflows (new investments minus disinvestments) and short-term debt is net flows (disbursements minus capital repayments). See methodology for detailed notes on the data for each resource flow.", ,constant 2015 US$,US$,2015, ,International Resources
-data_series.domestic_sectors,recipient,Government expenditure by sector,Government expenditure by sector., ,"constant 2015 US$, NCU","constant 2015 US$, NCU",2015, ,"Government revenue,grants and financing"
-data_series.dfis_out_dev,donor ,Development Finance Institutions,Activities by bilateral development finance institutions (excluding those reported as ODA or OOFs),purple-high, , ,2000,2015,
-data_series.fdi_out,recipient ,Foreign direct investment in developing countries,Foreign direct investment in developing countries,orange-high, , ,2000,2015,
-data_series.fdi_in_profits,recipient ,Profits on FDI,Outflows of profits on foreign direct investment,orange-high, , ,2000,2015,
-data_series.fdi_out,recipient ,Foreign Direct Investment,Net outflows of foreign direct investment (new investments minus disinvestment),orange-high, , ,2000,2015,
-data_series.fdi_devcountries,donor ,Foreign direct investment,Foreign direct investment in regions,orange-high, , ,2000,2015,
-data_series.fdi_devcountries,donor ,Foreign direct investment (new),Foreign direct investment in regions (new methodology),orange-high, , ,2000,2015,
-data_series.long_debt_disbursement_in,recipient ,debt (commercial sources),Disbursments of long-term debt from commercial creditors,dark-light-blue-high, , ,2000,2015,
-data_series.long_debt_net_official_in,recipient ,Long-term debt (official sources),"Disbursments of long-term debt from official creditors,excluding disbursements reported as ODA or OOFs",purple-mid, , ,2000,2015,
-data_series.net_portfolio_equity_in,recipient ,Portfolio equity, ,yellow-mid, , ,2000,2015,
-data_series.oda_capital_repayments,donor,Capital repayments on ODA loans, ,red-high, , ,2000,2015,
-data_series.fact.oda,recipient,Official development assistance, ,red-high, , ,2000,2015,
-data_series_oda_interest_payments,donor,Interest payments on ODA loans,Receipt of interest payments on ODA loans,red-high, , ,2000,2015,
-data_series.oda_interest_payments,recipient,Interest payments on ODA loans, ,red-high, , ,2000,2015,
-data_series.fact.oda,donor,Official development assistance,Official development assistance,red-high, , ,2000,2015,
-data_series_oofs_capital_payments_out,recipient,Capital repayments on OOFs loans, ,light-blue-high, , ,2000,2015,
-data_series.oof,recipient,Other official flows, ,light-blue-high, , ,2000,2015,
-data_series.oofs_interest,donor,Interest payments on OOFs loans,Receipt of interest payments on OOF loans,light-blue-high, , ,2000,2015,
-data_series.remittances,donor,Remittances to developing countries,Remittances to developing countries,blue-high, , ,2000,2015,
-data_series.remittances,recipient,Remittances, ,blue-high, , ,2000,2015,
-data_series.short_debt_interest_out,recipient,Interest payments on short-term debt, ,yellow-high, , ,2000,2015,
-data_series.short_debt_net_flow_in,recipient,Short-term debt,Net disbursements of short-term debt (debt with a maturity of less than 1 year; net disbursements are gross inflows minus capital repayments),yellow-high, , ,2000,2015,
-
+id,theme,name,description,color,uom,uom_display,start_year,end_year,comments,source,source_link
+fact.gni_pc_usd_2015,donor,Gross national income (2015 US$) per capita,GNI (2015 US$) per capita, ,US$,US$,1980,2015,Overview-What is the average income per person per year?,,
+data_series.govt_spend_pc,donor,"Government spending per person, 2015 PPP$","Government spending per person, 2015 PPP$. Data is for 2015 or most recent year prior",dark-light-blue,2015 PPP$,PPP$,2015, ,Overview-How much does the government spend per person?,,
+fact.income_share_by_quintile,donor,Income share by quintile,Percentage of income received by each quintile of the population. Data is for 2015 or most recent year prior., ,percent,%,2012, ,Overview-How is income distributed?,,
+fact.income_share_by_quintile.value_bottom_20pc,donor,Share of income of bottom 20% of population,Share of income of bottom 20% of population., ,percent,%,2015, ,Overview-How is income distributed? -- May not be used in DH,,
+fact.population_total,donor,Total population,Total population, ,unit, ,2015, ,Population-What is the population in x?,,
+fact.population_rural_urban,donor,Urban vs rural population level,Urban vs rural population level., ,unit, ,1960,2015,Population-What is the urban vs rural split?,,
+fact.population_by_age,donor,Population by age group,Number of people in each of 3 age bands., ,unit, ,1960,2015,Population-What is the age profile?,,
+fact.oda_percent_gni,donor,"Net ODA provided by DAC members, % of GNI","Net ODA provided by DAC members, % of GNI.",dark-purple,percent,%,2015, ,"International Resources-As a share of GNI,how much aid does Sweden allocate?",,
+fact.gni_usd_2015,donor,Gross national income (2015 US$),GNI (2015 US$), ,US$,US$,2015, ,International Resources-Gross nation income is,,
+data_series.intl_flows_donors,donor,International resource flows to and from developed countries,"Estimates of international resource flows from developed countries, 2015 US$.", ,constant 2015 US$,US$,2015, ,International Resources-What is the mix of resources in X?,,
+data_series.poorest_20_percent,recipient,Poorest 20%,Number of people in each country that are part of the poorest 20% of people worldwide.,dark-red,unit, ,2013, ,Overview-How many of the poorest people globally live in Bangladesh?,,
+fact.population_total,recipient,Total population,Total population, ,unit, ,2015, ,Overview-out of a population of a million people?,,
+data_series.domestic,recipient,Non-grant government revenue,Non-grant government revenue. Data is for 2015., ,"constant 2015 US$, NCU","constant 2015 US$, NCU",2015, ,Overview-What resources are available?,,
+data_series.intl_flows_recipients,recipient,International resource flows to and from developing countries,"Estimates of international resource flows into the country, 2015 US$. Estimates are gross inflows where available, with the following exceptions: foreign direct investment and portfolio equity are net inflows (new investments minus disinvestments) and short-term debt is net flows (disbursements minus capital repayments). See methodology for detailed notes on the data for each resource flow.", ,constant 2015 US$,US$,2015, ,Overview-International - mix of resources,,
+data_series.govt_spend_pc,recipient,"Government spending per person, 2015 PPP$","Government spending per person, 2015 PPP$. Data is for 2015 or most recent year prior.",dark-light-blue,2015 PPP$,PPP$,2015, ,Overview-How much does the government spend per person?,,
+data_series.poverty_190,recipient,% of population living in extreme poverty,Percentage of population living under 2011 PPP$ 1.90 per day.,dark-red,percent,%,2000,2013,Poverty-Is poverty reducing overtime?,,
+data_series.depth_of_extreme_poverty_190,recipient,Depth of extreme poverty (poverty gap),"Depth of extreme poverty (also known as the poverty gap) tells us how far people are from the extreme poverty line, on average per country",dark-red,percent,%,2015,,Poverty-How deep is poverty?,,
+fact.income_share_by_quintile,recipient,Income share by quintile,Percentage of income received by each quintile of the population. Data is for 2015 or most recent year prior., ,percent,%,2015, ,Poverty-How is income distributed?,,
+fact.income_share_by_quintile.value_bottom_20pc,recipient,Share of income of bottom 20% of population,Share of income of bottom 20% of population., ,percent,%,2015, ,Poverty-Bottom quintile has income,,
+fact.population_total,recipient,Total population,Total population, ,unit, ,2015, ,Population-What is the population in x?,,
+fact.population_rural_urban,recipient,Urban vs rural population level,Urban vs rural population level., ,unit, ,1960,2015,Population-What is the urban vs rural split?,,
+fact.population_by_age,recipient,Population by age group,Number of people in each of 3 age bands., ,unit, ,1960,2015,Population-What is the age profile?,,
+fact.in_oda_net_2015,recipient,"Net ODA received, US$","Net ODA received, US$.",dark-purple,constant 2015 US$,US$,2015, ,"International Resources-As a share of GNI,how much aid does Sweden allocate?",,
+fact.gni_usd_2015,recipient,Gross national income (2015 US$),GNI (2015 US$), ,US$,US$,2015, ,International Resources-Gross nation income is fact_gni_usd,,
+data_series.intl_flows_recipient,recipient,International resource flows to and from developing countries (wide),"Estimates of international resource flows into the country, 2015 US$. Estimates are gross inflows where available, with the following exceptions: foreign direct investment and portfolio equity are net inflows (new investments minus disinvestments) and short-term debt is net flows (disbursements minus capital repayments). See methodology for detailed notes on the data for each resource flow.", ,constant 2015 US$,US$,2015, ,International Resources,,
+data_series.domestic_sectors,recipient,Government expenditure by sector,Government expenditure by sector., ,"constant 2015 US$, NCU","constant 2015 US$, NCU",2015, ,"Government revenue,grants and financing",,
+data_series.dfis_out_dev,donor ,Development Finance Institutions,Activities by bilateral development finance institutions (excluding those reported as ODA or OOFs),purple-high, , ,2000,2015,,,
+data_series.fdi_out,recipient ,Foreign direct investment in developing countries,Foreign direct investment in developing countries,orange-high, , ,2000,2015,,,
+data_series.fdi_in_profits,recipient ,Profits on FDI,Outflows of profits on foreign direct investment,orange-high, , ,2000,2015,,,
+data_series.fdi_out,recipient ,Foreign Direct Investment,Net outflows of foreign direct investment (new investments minus disinvestment),orange-high, , ,2000,2015,,,
+data_series.fdi_devcountries,donor ,Foreign direct investment,Foreign direct investment in regions,orange-high, , ,2000,2015,,,
+data_series.fdi_devcountries,donor ,Foreign direct investment (new),Foreign direct investment in regions (new methodology),orange-high, , ,2000,2015,,,
+data_series.long_debt_disbursement_in,recipient ,debt (commercial sources),Disbursments of long-term debt from commercial creditors,dark-light-blue-high, , ,2000,2015,,,
+data_series.long_debt_net_official_in,recipient ,Long-term debt (official sources),"Disbursments of long-term debt from official creditors,excluding disbursements reported as ODA or OOFs",purple-mid, , ,2000,2015,,,
+data_series.net_portfolio_equity_in,recipient ,Portfolio equity, ,yellow-mid, , ,2000,2015,,,
+data_series.oda_capital_repayments,donor,Capital repayments on ODA loans, ,red-high, , ,2000,2015,,,
+data_series.fact.oda,recipient,Official development assistance, ,red-high, , ,2000,2015,,,
+data_series_oda_interest_payments,donor,Interest payments on ODA loans,Receipt of interest payments on ODA loans,red-high, , ,2000,2015,,,
+data_series.oda_interest_payments,recipient,Interest payments on ODA loans, ,red-high, , ,2000,2015,,,
+data_series.fact.oda,donor,Official development assistance,Official development assistance,red-high, , ,2000,2015,,,
+data_series_oofs_capital_payments_out,recipient,Capital repayments on OOFs loans, ,light-blue-high, , ,2000,2015,,,
+data_series.oof,recipient,Other official flows, ,light-blue-high, , ,2000,2015,,,
+data_series.oofs_interest,donor,Interest payments on OOFs loans,Receipt of interest payments on OOF loans,light-blue-high, , ,2000,2015,,,
+data_series.remittances,donor,Remittances to developing countries,Remittances to developing countries,blue-high, , ,2000,2015,,,
+data_series.remittances,recipient,Remittances, ,blue-high, , ,2000,2015,,,
+data_series.short_debt_interest_out,recipient,Interest payments on short-term debt, ,yellow-high, , ,2000,2015,,,
+data_series.short_debt_net_flow_in,recipient,Short-term debt,Net disbursements of short-term debt (debt with a maturity of less than 1 year; net disbursements are gross inflows minus capital repayments),yellow-high, , ,2000,2015,,,
+,,,,,,,,,,,
