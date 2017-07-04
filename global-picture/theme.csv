@@ -1,6 +1,6 @@
 id,name,default,position
-poverty,Poverty,poor-people-190,1
-vulnerability,Vulnerability,fragile-states,2
+poverty,Poverty,data_series.poor_people_190,1
+vulnerability,Vulnerability,data_series.fragile_states,2
 government-finance,Government finance,non-grant-revenue-ppp-pc,3
 international-finance,International finance,largest-intl-flow,4
 international-official-finance,International official finance,fact.in_oda_gross_2015,5
