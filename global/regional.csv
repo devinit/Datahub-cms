@@ -1,4 +1,4 @@
-id,name,dacContinentCode,dacContinent,dacId,color
+id,name,dac_continent_code,dac_continent,dac_id,color
 afica,Africa,,,,red-mid
 america,America,,,,purple-mid
 asia,Asia,,,,orange-mid
