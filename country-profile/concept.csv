@@ -24,7 +24,6 @@ fact.gni_usd_2015,recipient,Gross national income (2015 US$),GNI (2015 US$), ,US
 data_series.dfis_out_dev,donor ,Development Finance Institutions,Activities by bilateral development finance institutions (excluding those reported as ODA or OOFs),purple-high, , ,2000,2015,,,
 data_series.fdi_out,recipient ,Foreign direct investment in developing countries,Foreign direct investment in developing countries,orange-high, , ,2000,2015,,,
 data_series.fdi_in_profits,recipient ,Profits on FDI,Outflows of profits on foreign direct investment,orange-high, , ,2000,2015,,,
-data_series.fdi_out,recipient ,Foreign Direct Investment,Net outflows of foreign direct investment (new investments minus disinvestment),orange-high, , ,2000,2015,,,
 data_series.fdi_devcountries,donor ,Foreign direct investment,Foreign direct investment in regions,orange-high, , ,2000,2015,,,
 data_series.fdi_devcountries,donor ,Foreign direct investment (new),Foreign direct investment in regions (new methodology),orange-high, , ,2000,2015,,,
 data_series.long_debt_disbursement_in,recipient ,debt (commercial sources),Disbursments of long-term debt from commercial creditors,dark-light-blue-high, , ,2000,2015,,,
