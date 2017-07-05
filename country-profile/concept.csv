@@ -21,7 +21,6 @@ fact.population_rural_urban,recipient,Urban vs rural population level,Urban vs r
 fact.population_by_age,recipient,Population by age group,Number of people in each of 3 age bands., ,unit, ,1960,2015,Population-What is the age profile?,,
 fact.in_oda_net_2015,recipient,"Net ODA received, US$","Net ODA received, US$.",dark-purple,constant 2015 US$,US$,2015, ,"International Resources-As a share of GNI,how much aid does Sweden allocate?",,
 fact.gni_usd_2015,recipient,Gross national income (2015 US$),GNI (2015 US$), ,US$,US$,2015, ,International Resources-Gross nation income is fact_gni_usd,,
-data_series.domestic_sectors,recipient,Government expenditure by sector,Government expenditure by sector., ,"constant 2015 US$, NCU","constant 2015 US$, NCU",2015, ,"Government revenue,grants and financing",,
 data_series.dfis_out_dev,donor ,Development Finance Institutions,Activities by bilateral development finance institutions (excluding those reported as ODA or OOFs),purple-high, , ,2000,2015,,,
 data_series.fdi_out,recipient ,Foreign direct investment in developing countries,Foreign direct investment in developing countries,orange-high, , ,2000,2015,,,
 data_series.fdi_in_profits,recipient ,Profits on FDI,Outflows of profits on foreign direct investment,orange-high, , ,2000,2015,,,
