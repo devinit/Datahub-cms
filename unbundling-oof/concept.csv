@@ -1,2 +1,2 @@
-id,theme,name,description,color,uom,uomDisplay,startYear,endYear
+id,theme,name,description,color,uom,uom_display,start_year,end_year
 data_series.oof,official,Other official flows,Gross OOF., ,constant 2015 US$,US$, ,
