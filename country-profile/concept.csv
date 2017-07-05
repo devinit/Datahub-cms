@@ -43,4 +43,4 @@ data_series.remittances,donor,Remittances to developing countries,Remittances to
 data_series.remittances,recipient,Remittances, ,blue-high, , ,2000,2015,,,
 data_series.short_debt_interest_out,recipient,Interest payments on short-term debt, ,yellow-high, , ,2000,2015,,,
 data_series.short_debt_net_flow_in,recipient,Short-term debt,Net disbursements of short-term debt (debt with a maturity of less than 1 year; net disbursements are gross inflows minus capital repayments),yellow-high, , ,2000,2015,,,
-fact.gdp_usd_2015,recipient,Total revenue, % of GDP. Data is for 2015., ,US$,US$,2015,,Overview governement resources, WHAT IS THE TOTAL REVENUE OF UGANDA??,,
+fact.gdp_usd_2015,recipient,Total revenue, % of GDP. Data is for 2015., ,US$,US$,2015,,Overview governement resources, WHAT IS THE TOTAL REVENUE OF UGANDA??,
