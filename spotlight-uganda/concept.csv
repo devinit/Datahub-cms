@@ -19,7 +19,7 @@ spotlight_on_uganda.uganda_hmis,uganda-health,HMIS reporting score,HMIS reportin
 spotlight_on_uganda.uganda_household-san-cov,uganda-wash,Household sanitation coverage (%),Household sanitation coverage (%).,blue,%,%,2015,
 spotlight_on_uganda.uganda_igf_resources, ,Locally raised revenues,Locally raised revenues., ,unit, ,2015,
 spotlight_on_uganda.uganda_ipt2_coverage,uganda-health,Tetanus vaccine coverage rate,Tetanus vaccine coverage rate.,red,unit, ,2015,
-spotlight_on_uganda.uganda_leaving_exam_perf_rate,uganda-education,Primary leaving exam performance index,% of pupils passing the primary education leaving exam.,yellow,unit, ,2015,
+spotlight_on_uganda.uganda_leaving_exam_perf_rate,uganda-education,Primary leaving exam performance index,% of pupils passing the primary education leaving exam.,yellow,unit, ,2013,
 spotlight_on_uganda.uganda_life_expectancy,uganda-poverty,Life expectancy,Life expectancy.,dark-red,unit, ,2015,
 spotlight_on_uganda.uganda_local_percent,uganda-dist-resource,Locally raised revenues,"The proportion of local government revenue that is locally generated, through collection of fees, fines and other local taxation, by district.",purple,percent,%,2015,
 spotlight_on_uganda.uganda_overall_health,uganda-health,District league table overall score,District league table overall score.,red,unit, ,2015,
