@@ -41,6 +41,6 @@ spotlight_on_uganda.uganda_secondary_stu_teach_ratio_gov,uganda-education,Second
 spotlight_on_uganda.uganda_tb_success,uganda-health,Tuberculosis treatment success rate,Tuberculosis treatment success rate.,red,%,%,2015,
 spotlight_on_uganda.uganda_total_pop,uganda-pop,Total population,Total population.,orange,unit, ,2015,
 spotlight_on_uganda.uganda_urban_pop,uganda-pop,Urban population (%),Urban population (%).,orange,%,%,2015,
-spotlight_on_uganda.uganda_urban_rural_pop, ,Urban and rural population (%),Urban and rural population (%)., ,%,%,2015,
+spotlight_on_uganda.uganda_urban_rural_pop, ,Urban and rural population (%),Urban and rural population (%)., ,%,%,2000,2015
 spotlight_on_uganda.uganda_wash-perf_score,uganda-wash,District WASH performance score,District WASH performance score.,blue,%,%,2015,
 spotlight_on_uganda.uganda_water_source_comm_func,uganda-wash,Functioning water source committees (%),Functioning water source committees (%),blue,%,%,2015,
