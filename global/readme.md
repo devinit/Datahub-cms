@@ -6,7 +6,7 @@ id|name|colour
 ---|---|---
 other_sectors_grouped|Other sectors (grouped)|grey_mid
 
-The `other-sectors-grouped` sector is used with the multilateral profiles. It is based on a business rule that groups sectors together. The logic is: get top 5 sectors for an organization and group all the other sectors into one category.
+The [`other-sectors-grouped`](https://github.com/devinit/datahub-cms/blob/master/global/sector.csv#L16) sector is used with the multilateral profiles. It is based on a business rule that groups sectors together. The logic is: get top 5 sectors for an organization and group all the other sectors into one category.
 
 ---
 
