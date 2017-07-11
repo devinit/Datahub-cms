@@ -16,3 +16,9 @@ UPDATE global.oda_bundle
 SET id = 'gis_nngos' WHERE id = ['gpgs_nngos'](https://github.com/devinit/datahub-cms/blob/master/global/bundle.csv#L5);
 
 "Global public goods & NNGOs" was changed to "Global initiatives & NNGOs".
+
+---
+
+#### `entity.csv` which will possibly be merged with `di_id.csv`
+
+We use column `name` on a country's digital profile page.
