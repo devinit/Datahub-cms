@@ -13,6 +13,6 @@ The [`other-sectors-grouped`](https://github.com/devinit/datahub-cms/blob/master
 #### `oda_bundle.csv`
 
 UPDATE global.oda_bundle
-SET id = 'gis_nngos' WHERE id = 'gpgs_nngos';
+SET id = 'gis_nngos' WHERE id = ['gpgs_nngos'](https://github.com/devinit/datahub-cms/blob/master/global/bundle.csv#L5);
 
 "Global public goods & NNGOs" was changed to "Global initiatives & NNGOs".
