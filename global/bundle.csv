@@ -1,9 +1,9 @@
-id,name,old-code,color
-cash-loan-equity,Cash (loan/equity),A,red
-cash-grant,Cash grant,B,red-light
-commodities-food,Commodities & Food,C,purple-lighter
-gpgs-nngos,Global Initiatives & NNGOs,D,blue
-mixed-project-aid,Mixed project aid,E,yellow
-non-transfer,Non-transfer,F,orange
-technical-ooperation,Technical cooperation,G,blue-darker
-export-credit,Export credit,H,grey-darker
+id,name,color
+cash-loan-equity,Cash (loan/equity),red
+cash-grant,Cash grant,red-light
+commodities-food,Commodities & Food,purple-lighter
+gpgs-nngos,Global Initiatives & NNGOs,blue
+mixed-project-aid,Mixed project aid,yellow
+non-transfer,Non-transfer,orange
+technical-ooperation,Technical cooperation,blue-darker
+export-credit,Export credit,grey-darker
