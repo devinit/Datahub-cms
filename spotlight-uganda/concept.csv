@@ -24,7 +24,7 @@ spotlight_on_uganda.uganda_life_expectancy,uganda-poverty,Life expectancy,Life e
 spotlight_on_uganda.uganda_local_percent,uganda-dist-resource,Locally raised revenues,"The proportion of local government revenue that is locally generated, through collection of fees, fines and other local taxation, by district.",purple,percent,%,2015,
 spotlight_on_uganda.uganda_overall_health,uganda-health,District league table overall score,District league table overall score.,red,unit, ,2015,
 spotlight_on_uganda.uganda_pop_dens,uganda-pop,Population density (per sq km),Population density (per sq km).,orange,unit, ,2015,
-spotlight_on_uganda.uganda_poverty_headcount,uganda-poverty,Poverty headcount,Poverty headcount.,red-darker,unit, ,2015,
+spotlight_on_uganda.uganda_poverty_headcount,uganda-poverty,Poverty headcount,Poverty headcount.,red-darker,unit, ,2014,
 spotlight_on_uganda.uganda_primary_educ_funding,uganda-education,Primary education spending per child,"Primary education spending, per child.",yellow,US$,US$,2015,
 spotlight_on_uganda.uganda_primary_enrol,uganda-education,Primary net enrolment rate,Primary net enrolment rate.,yellow,%, ,2015,
 spotlight_on_uganda.uganda_primary_sit_write,uganda-education,Primary pupils with adequate sitting and writing space-all schools (%),Primary pupils with adequate sitting and writing space-all schools (%).,yellow,%, ,2015,
