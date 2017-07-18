@@ -1,10 +1,10 @@
 id,theme,name,description,color,uom,uom_display,start_year,end_year
 spotlight_on_uganda.uganda_agri_percent,uganda-dist-resource,Agriculture allocation as a % of total expenditure,The proportion of total local government expenditure that is allocated to the agriculture sector.,purple,percent,%,2015,
 spotlight_on_uganda.uganda_anc4_coverage,uganda-health,Antenatal care coverage rate,Antenatal care coverage rate.,red,unit, ,2015,
-spotlight_on_uganda.uganda_avg-house_size,uganda-pop,Average household size,Average household size,orange,unit, ,2015,
+spotlight_on_uganda.uganda_avg-house_size,uganda-pop,Average household size,Average household size,orange,unit, ,2014,
 spotlight_on_uganda.uganda_central_resources, ,Centrally raised revenues,Centrally raised revenues,orange-dark,unit, ,2015,
 spotlight_on_uganda.uganda_dependency_ratio,uganda-pop,Average dependency ratio,Average dependency ratio,orange,unit, ,2015,
-spotlight_on_uganda.uganda_deprivation_living,uganda-poverty,Decent standard of living score,Decent standard of living score (higher is better).,red-darker,unit, ,2015,
+spotlight_on_uganda.uganda_deprivation_living,uganda-poverty,Decent standard of living score,Decent standard of living score (higher is better).,red-darker,unit, ,2014,
 spotlight_on_uganda.uganda_donor_educ_spend,uganda-education,Primary education donor spending per child,Primary education donor spending per child.,yellow,US$,US$,2015,
 spotlight_on_uganda.uganda_donor_percent,uganda-dist-resource,Donor funds,"The proportion of local government revenue that is funded through donor funding, by district.",purple,percent,%,2015,
 spotlight_on_uganda.uganda_donor_resources, ,Donor revenues,Donor revenues.,blue-dark,unit, ,2015,
@@ -20,7 +20,7 @@ spotlight_on_uganda.uganda_household-san-cov,uganda-wash,Household sanitation co
 spotlight_on_uganda.uganda_igf_resources, ,Locally raised revenues,Locally raised revenues.,red-dark,unit, ,2015,
 spotlight_on_uganda.uganda_ipt2_coverage,uganda-health,Tetanus vaccine coverage rate,Tetanus vaccine coverage rate.,red,unit, ,2015,
 spotlight_on_uganda.uganda_leaving_exam_perf_rate,uganda-education,Primary leaving exam performance index,% of pupils passing the primary education leaving exam.,yellow,unit, ,2013,
-spotlight_on_uganda.uganda_life_expectancy,uganda-poverty,Life expectancy,Life expectancy.,red-darker,unit, ,2015,
+spotlight_on_uganda.uganda_life_expectancy,uganda-poverty,Life expectancy,Life expectancy.,red-darker,unit, ,2014,
 spotlight_on_uganda.uganda_local_percent,uganda-dist-resource,Locally raised revenues,"The proportion of local government revenue that is locally generated, through collection of fees, fines and other local taxation, by district.",purple,percent,%,2015,
 spotlight_on_uganda.uganda_overall_health,uganda-health,District league table overall score,District league table overall score.,red,unit, ,2015,
 spotlight_on_uganda.uganda_pop_dens,uganda-pop,Population density (per sq km),Population density (per sq km).,orange,unit, ,2015,
@@ -41,6 +41,6 @@ spotlight_on_uganda.uganda_secondary_stu_teach_ratio_gov,uganda-education,Second
 spotlight_on_uganda.uganda_tb_success,uganda-health,Tuberculosis treatment success rate,Tuberculosis treatment success rate.,red,%,%,2015,
 spotlight_on_uganda.uganda_total_pop,uganda-pop,Total population,Total population.,orange,unit, ,2015,
 spotlight_on_uganda.uganda_urban_pop,uganda-pop,Urban population (%),Urban population (%).,orange,%,%,2015,
-spotlight_on_uganda.uganda_population_rural_urban, ,Urban and rural population (%),Urban and rural population (%)., ,%,%,2000,2015
+spotlight_on_uganda.uganda_population_rural_urban, ,Urban and rural population (%),Urban and rural population (%)., ,%,%,2000,2014
 spotlight_on_uganda.uganda_wash-perf_score,uganda-wash,District WASH performance score,District WASH performance score.,blue,%,%,2015,
 spotlight_on_uganda.uganda_water_source_comm_func,uganda-wash,Functioning water source committees (%),Functioning water source committees (%),blue,%,%,2015,
