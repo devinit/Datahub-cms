@@ -20,7 +20,7 @@ spotlight_on_uganda.uganda_household_san_cov,uganda-wash,Household sanitation co
 spotlight_on_uganda.uganda_igf_resources, ,Locally raised revenues,Locally raised revenues.,red,,unit, ,2015,
 spotlight_on_uganda.uganda_ipt2_coverage,uganda-health,Tetanus vaccine coverage rate,Tetanus vaccine coverage rate.,red,"40,45,50,55,65",unit, ,2011,2014
 spotlight_on_uganda.uganda_leaving_exam_perf_rate,uganda-education,Primary leaving exam performance index,% of pupils passing the primary education leaving exam.,yellow,"50,55,60,65",unit, ,2010,2013
-spotlight_on_uganda.uganda_life_expectancy,uganda-poverty,Life expectancy,Life expectancy.,red-darker,"35,42,44,46,48",unit, ,2014,
+spotlight_on_uganda.uganda_life_expectancy,uganda-poverty,Life expectancy,Life expectancy.,red,"35,42,44,46,48",unit, ,2014,
 spotlight_on_uganda.uganda_local_percent,uganda-dist-resource,Locally raised revenues,"The proportion of local government revenue that is locally generated, through collection of fees, fines and other local taxation, by district.",purple,"1,2,3,4,10",percent,%,2013,2016
 spotlight_on_uganda.uganda_overall_health,uganda-health,District league table overall score,District league table overall score.,red,"65,70,75,80",unit, ,2011,2014
 spotlight_on_uganda.uganda_pop_dens,uganda-pop,Population density (per sq km),Population density (per sq km).,orange,"35,70,140,210,280",unit, ,2014,
