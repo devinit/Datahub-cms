@@ -4,7 +4,7 @@ spotlight_on_uganda.uganda_anc4_coverage,uganda-health,Antenatal care coverage r
 spotlight_on_uganda.uganda_avg-house_size,uganda-pop,Average household size,Average household size,orange,"4.3,4.6,4.9,5.2",unit, ,2014,
 spotlight_on_uganda.uganda_central_resources, ,Centrally raised revenues,Centrally raised revenues,orange-dark,,unit, ,2015,
 spotlight_on_uganda.uganda_dependency_ratio,uganda-pop,Average dependency ratio,Average dependency ratio,orange,"5,8,15,20",unit, ,2014,
-spotlight_on_uganda.uganda_deprivation_living,uganda-poverty,Decent standard of living score,Decent standard of living score (higher is better).,red-darker,,unit,"15,20,25,30,35,40" ,2014,
+spotlight_on_uganda.uganda_deprivation_living,uganda-poverty,Decent standard of living score,Decent standard of living score (higher is better).,red-darker,"15,20,25,30,35,40",unit,,2014,
 spotlight_on_uganda.uganda_donor_educ_spend,uganda-education,Primary education donor spending per child,Primary education donor spending per child.,yellow,"0.1,0.3,0.5,2,10",US$,US$,2015,2016
 spotlight_on_uganda.uganda_donor_percent,uganda-dist-resource,Donor funds,"The proportion of local government revenue that is funded through donor funding, by district.",purple,,percent,%,2015,
 spotlight_on_uganda.uganda_donor_resources, ,Donor revenues,Donor revenues.,blue-dark,,unit, ,2015,
@@ -24,7 +24,7 @@ spotlight_on_uganda.uganda_life_expectancy,uganda-poverty,Life expectancy,Life e
 spotlight_on_uganda.uganda_local_percent,uganda-dist-resource,Locally raised revenues,"The proportion of local government revenue that is locally generated, through collection of fees, fines and other local taxation, by district.",purple,,percent,%,2015,
 spotlight_on_uganda.uganda_overall_health,uganda-health,District league table overall score,District league table overall score.,red,"65,70,75,80",unit, ,2011,2014
 spotlight_on_uganda.uganda_pop_dens,uganda-pop,Population density (per sq km),Population density (per sq km).,orange,"35,70,140,210,280",unit, ,2014,
-spotlight_on_uganda.uganda_poverty_headcount,uganda-poverty,Poverty headcount,Poverty headcount.,red-darker,"30, 50, 70, 90",unit, ,2014,
+spotlight_on_uganda.uganda_poverty_headcount,uganda-poverty,Poverty headcount,Poverty headcount.,red,"30, 50, 70, 90",unit, ,2014,
 spotlight_on_uganda.uganda_primary_educ_funding,uganda-education,Primary education spending per child,"Primary education spending, per child.",yellow,"35,40,45,50",US$,US$,2015,2016
 spotlight_on_uganda.uganda_primary_enrol,uganda-education,Primary net enrolment rate,Primary net enrolment rate.,yellow,"80,95,110,125",%, ,2010,2013
 spotlight_on_uganda.uganda_primary_sit_write,uganda-education,Primary pupils with adequate sitting and writing space-all schools (%),Primary pupils with adequate sitting and writing space-all schools (%).,yellow,"55,70,75,80",%, ,2010,2013
