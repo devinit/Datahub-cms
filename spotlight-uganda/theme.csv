@@ -1,4 +1,4 @@
-id,name,default
+id,name,default_indicator
 uganda-poverty,Poverty,spotlight_on_uganda.uganda_poverty_headcount
 uganda-pop,Population,spotlight_on_uganda.uganda_urban_pop
 uganda-education,Education,spotlight_on_uganda.uganda_primary_educ_funding
