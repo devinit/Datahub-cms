@@ -1,6 +1,6 @@
 id,theme,name,description,color,range,uom,uom_display,start_year,end_year
 spotlight_on_uganda.uganda_agri_percent,uganda-dist-resource,Agriculture allocation as a % of total expenditure,"The proportion of total local government expenditure that is allocated to the agriculture sector, by district.",purple,"3,4,5,6",percent,%,2012,2016
-spotlight_on_uganda.uganda_anc4_coverage,uganda-health,"The percentage rate of antenatal care coverage, by district.",red,"20,25,35,45",unit, ,2011,2014
+spotlight_on_uganda.uganda_anc4_coverage,uganda-health,Antenatal care coverage rate,"The percentage rate of antenatal care coverage, by district.",red,"20,25,35,45",unit, ,2011,2014
 spotlight_on_uganda.uganda_avg_house_size,uganda-pop,Average household size,"The number of people who normally live and eat together, by district.",orange,"4.3,4.6,4.9,5.2",unit, ,2014,
 spotlight_on_uganda.uganda_central_resources, ,Centrally raised revenues,"The proportion of local government revenue that is funded though central government transfers, by district.",orange,,unit, ,2015,
 spotlight_on_uganda.uganda_dependency_ratio,uganda-pop,Average dependency ratio,"A ratio of people typically not in the labour force (the dependent part) and those typically in the labour force (the productive part). The higher the ratio, the higher the level of dependency.",orange,"5,8,15,20",unit, ,2014,
