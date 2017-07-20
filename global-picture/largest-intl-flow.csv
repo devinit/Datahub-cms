@@ -4,6 +4,6 @@ id,flow-name,name,color
 3,oofs-in,Other official flows,blue
 4,fdi-in,Foreign direct investment,orange
 5,remittances-in,Remittances,pink
-6,long-debt-disbursement-in,Long-term debt (commercial sources),green
-7,short-debt-net-flow-in,Short-term debt,grey
+6,long-debt-disbursement-in,Long-term debt (commercial sources),purple
+7,short-debt-net-flow-in,Short-term debt,green
 8,long-debt-net-official-in,Long-term debt (official sources),grey
