@@ -1,9 +1,9 @@
 id,flow-name,name,color
-1,oda-in,Official development assistance,red
-2,net-portfolio-equity-in,Portfolio equity,yellow
-3,oofs-in,Other official flows,blue
-4,fdi-in,Foreign direct investment,orange
-5,remittances-in,Remittances,pink
-6,long-debt-disbursement-in,Long-term debt (commercial sources),purple
-7,short-debt-net-flow-in,Short-term debt,green
-8,long-debt-net-official-in,Long-term debt (official sources),grey
+1,oda-in,Official development assistance,red-light
+2,net-portfolio-equity-in,Portfolio equity,yellow-light
+3,oofs-in,Other official flows,blue-light
+4,fdi-in,Foreign direct investment,orange-light
+5,remittances-in,Remittances,pink-light
+6,long-debt-disbursement-in,Long-term debt (commercial sources),purple-light
+7,short-debt-net-flow-in,Short-term debt,green-light
+8,long-debt-net-official-in,Long-term debt (official sources),grey-light
