@@ -1,4 +1,4 @@
-id,green,orange,red
+id,green-dark,green,green-lighter
 data_series.latest_census,Census in past 10 years,Census in past 15 years or is due in next 2 years,Last census more than 15 years ago
 data_series.latest_hh_survey,Survey in past 3 years,Survey in past 5 years or due in next year,Last survey more than 5 years ago
 data_series.number_of_surveys,3 or more surveys in past 10 years,2 surveys in past 10 years,1 or no surveys in past 10 years
