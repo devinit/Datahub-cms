@@ -1,52 +1,52 @@
-id,flow_category,flow_category_order,direction,type,flow_type,flow_type_order_within_flow_categories_in_flows,flow_type_order_within_flow_categories_out_flows,flow_name,color,description,source,short_name,used_in_area_treemap_chart,concept
-dfis-in,DFIs,,in,recipient,official,,,Development Finance Institutions,purple,Disbursements from Development Finance Insitutions (excluding disbursements recorded as ODA or OOFs),Development Initiatives,Disbursements,0,
-dfis-out,DFIs,3,out,donor,official,,1,Development Finance Institutions,purple,Activities by bilateral development finance institutions (excluding those reported as ODA or OOFs),Development Initiatives,Disbursements,1,data_series.dfis_out_dev
-fdi-devcountries,FDI,4,out,donor,commercial,,1,Foreign Direct Investment in developing countries,orange,Foreign direct investment in developing countries,UNCTAD,Investment in developing countries,1,data_series.intl_flows_recipients
-fdi-in,FDI,5,in,recipient,commercial,1,,Foreign Direct Investment,orange,Net inflows of foreign direct investment (new investments minus disinvestment),UNCTAD,Inward investment,1,data_series.fdi_out
-fdi-in-profits-out,FDI,5,out,recipient,commercial,,2,Profits on FDI,orange,Outflows of profits on foreign direct investment,World Bank,Outflow of profits,1,data_series.intl_flows_recipients
-fdi-individual-devcountries,FDI,,out,donor,commercial,,,Foreign direct investment,orange,Foreign direct investment in individual developing countries,OECD,Investment by developing country,0,
-fdi-individual-devcountries-new,FDI,,out,donor,commercial,,,Foreign direct investment (new),orange-lighter,Foreign direct investment in individual developing countries (new methodology),OECD,Investment by developing country (new),0,
-fdi-out,FDI,5,out,recipient,commercial,,3,Foreign Direct Investment,orange,Net outflows of foreign direct investment (new investments minus disinvestment),,Outward investment,1,data_series.fdi_out
-fdi-regions,FDI,,out,donor,commercial,,,Foreign direct investment,orange,Foreign direct investment in regions,Development Initiatives calculations; OECD,Investment in regions,1,data_series.intl_flows_donors
-fdi-regions-new,FDI,,out,donor,commercial,,,Foreign direct investment (new),orange,Foreign direct investment in regions (new methodology),Development Initiatives calculations; OECD,Investment in regions (new),1,data_series.intl_flows_donors
-illicit-financing-out,Illicit finance,,out,recipient,illicit,,2,Illicit Finance,orange-darker,Estimates of illicit finance outflows,Global Financial Integrity program,Outflows,1,
-long-debt-comm-amt-out,Long term debt,7,out,recipient,commercial,,1,Capital repayments on long-term debt (commercial sources),blue-dark,Capital repayments on long-term debt from commercial sources,World Bank International Debt Statistics,Capital repayments,0,
-long-debt-comm-int-out,Long term debt,7,out,recipient,commercial,,2,Interest payments on long-term debt (commercial sources),blue-dark,Interest payments on long-term debt from commercial sources,World Bank International Debt Statistics,Interest payments,0,
-long-debt-disbursement-in,Long term debt,7,in,recipient,commercial,1,,Long-term debt (commercial sources),blue-darker,Disbursments of long-term debt from commercial creditors,World Bank International Debt Statistics,Disbursements,1,data_series.long_debt_disbursement_in
-long-debt-net-official-in,Long term debt,4,in,recipient,official,1,,Long-term debt (official sources),purple-light,"Disbursments of long-term debt from official creditors, excluding disbursements reported as ODA or OOFs",World Bank International Debt Statistics,Disbursements,1,data_series.long_debt_net_official_in
-long-debt-off-amt-out,Long term debt,4,out,recipient,official,,1,Capital repayments on long-term debt (official sources),purple-light,Capital repayments on long-term debt from official sources,World Bank International Debt Statistics; OECD DAC Table 2a; OECD DAC Table 2b,Capital repayments,0,
-long-debt-off-int-out,Long term debt,4,out,recipient,official,,2,Interest payments on long-term debt (official sources),purple-light,Interest payments on long-term debt from official sources,World Bank International Debt Statistics; OECD DAC Table 2a; OECD DAC Table 2b,Interest payments,0,
-net-portfolio-equity-in,Portfolio equity,6,in,recipient,commercial,1,,Portfolio equity,yellow-light,,,Net inflows,1,data_series.intl_flows_recipients
-oda-capital-payments-out,ODA,1,out,recipient,official,,1,Capital repayments on ODA loans,red,,OECD DAC,Capital repayments,1,data_series.oda_capital_repayments
-oda-capital-repay,ODA,1,in,donor,official,1,,Capital repayments on ODA loans,red,Receipt of capital repayments on ODA loans,OECD DAC,Capital repayments,1,data_series.oda_capital_repayments
-oda-grants,ODA,,out,donor,official,,,ODA grants,red-light,This is a type of ODA flow,OECD DAC,ODA grants,0,
-oda-in,ODA,1,in,recipient,official,1,,Official development assistance,red,,OECD DAC,Gross disbursements,1,fact.oda_2015
-oda-individual-devcountries,ODA,,out,donor,official,,,Official development assistance,red,Official development assistance to individual developing countries,OECD DAC,Gross disbursements by developing country,,
-oda-interest,ODA,1,in,donor,official,2,,Interest payments on ODA loans,red-lighter,Receipt of interest payments on ODA loans,OECD DAC,Interest payments,1,data_series.oda_interest_payments
-oda-interest-payments-out,ODA,1,out,recipient,official,,2,Interest payments on ODA loans,red,,OECD DAC,Interest payments,1,data_series.oda_interest_payments
-oda-loans-equity-investments,ODA,,out,donor,official,,,ODA loans & equity investments,red,Two types of ODA flows grouped together,OECD DAC,ODA loans & equity investments,,
-oda-out,ODA,1,out,donor,official,,1,Official development assistance,red,Official development assistance,OECD DAC,Gross disbursements,1,fact.oda_2015
-oda-regions,ODA,,out,donor,official,,,Official development assistance,red,Official development assistance to regions,OECD DAC,Gross disbursements to regions,,
-oofs-capital-payments-out,OOFs,2,out,recipient,official,,1,Capital repayments on OOFs loans,blue-lighter,,OECD DAC,Capital repayments,1,data_series.intl_flows_recipients
-oofs-capital-repay,OOFs,2,in,donor,official,1,,Capital repayments on OOFs loans,blue-lighter,Receipt of capital repayments on OOF loans,OECD DAC,Capital repayments,1,data_series.intl_flows_donors
-oofs-in,OOFs,2,in,recipient,official,1,,Other official flows,blue-lighter,,OECD DAC,Gross disbursements,1,data_series.oof
-oofs-individual-devcountries,OOFs,,out,donor,official,,,Other official flows,blue-lighter,Other official flows to individual developing countries,OECD DAC,Gross disbursements by developing country,,
-oofs-interest,OOFs,2,in,donor,official,2,,Interest payments on OOFs loans,blue-lighter,Receipt of interest payments on OOF loans,OECD DAC,Interest payments,1,data_series.intl_flows_donors
-oofs-interest-payments-out,OOFs,2,out,recipient,official,,2,Interest payments on OOFs loans,blue-lighter,,OECD DAC,Interest payments,1,data_series.intl_flows_recipients
-oofs-out,OOFs,2,out,donor,official,,1,Other official flows,blue-lighter,Other official flows,OECD DAC,Gross disbursements,1,data_series.oof
-oofs-regions,OOFs,,out,donor,official,,,Other official flows,blue-lighter,Other official flows to regions,OECD DAC,Gross disbursements to regions,,
-out-debt-relief,ODA,,out,donor,official,,,Debt relief,grey-light,,OECD DAC,Debt relief,,
-out-oda-net-excl-debt-relief,ODA,,out,donor,official,,,Net ODA excluding debt relief,red,,OECD DAC,ODA excluding debt relief,,
-pda-in,PDA,,in,recipient,private,,,Private development assistance,purple-light,,Development Initiatives,Inflows,,
-pda-out,PDA,,out,recipient,private,,,Private development assistance,purple-light,,Development Initiatives,Outflows,,
-remittances-devcountries,Remittances,5,out,donor,private,,1,Remittances to developing countries,blue,Remittances to developing countries,World Bank Migration and Remittances Factbook,Outflows to developing countries,1,data_series.remittances
-remittances-in,Remittances,9,in,recipient,private,1,,Remittances,blue,,World Bank Migration and Remittances Factbook,Inflows,1,data_series.remittances
-remittances-individual-devcountries,Remittances,,out,donor,private,,,Remittances,blue,Remittances to individual developing countries,World Bank Migration and Remittances data,Outflows by developing country,,
-remittances-out,Remittances,9,out,recipient,private,,1,Remittances,blue,,World Bank Migration and Remittances Factbook,Outflows,1,data_series.remittances
-remittances-regions,Remittances,,out,donor,private,,,Remittances,blue,Remittances to regions,Development Initiatives calculations; World Bank Migration and Remittances data,Outflows to regions,,
-short-debt-interest-out,Short term debt,8,out,recipient,commercial,,1,Interest payments on short-term debt,yellow,,World Bank International Debt Statistics,Interest payments,1,data_series.intl_flows_recipients
-short-debt-net-flow-in,Short term debt,8,in,recipient,commercial,1,,Short-term debt,yellow,Net disbursements of short-term debt (debt with a maturity of less than 1 year; net disbursements are gross inflows minus capital repayments),World Bank International Debt Statistics,Net disbursements,1,data_series.intl_flows_recipients
-ssc-in,Development cooperation,3,in,recipient,official,1,,DC,grey-light,,Development Initiatives calculations; OECD DAC,Inflows,,
-ssc-out,Development cooperation,3,out,recipient,official,,1,DC,grey-light,Estimates of development cooperation,Development Initiatives calculations based on national sources,Outflows,,
-total-oda,ODA,,out,donor,official,,,Total ODA,red-lighter,Total ODA,OECD DAC,Total ODA,,
-trade-mispricing-out,Trade mispricing,,out,recipient,illicit ,,1,Trade mispricing,red-light,,Global Financial Integrity program,Outflows,1,
+id,flow_name,short_name,flow_type,flow_category,concept,flow_category_order,direction,type,flow_type_order_within_flow_categories_in_flows,flow_type_order_within_flow_categories_out_flows,color,description,used_in_area_treemap_chart,source
+dfis-in,Development Finance Institutions,Disbursements,official,DFIs,,,in,recipient,,,purple,Disbursements from Development Finance Insitutions (excluding disbursements recorded as ODA or OOFs),0,Development Initiatives
+dfis-out,Development Finance Institutions,Disbursements,official,DFIs,data_series.dfis_out_dev,3,out,donor,,1,purple,Activities by bilateral development finance institutions (excluding those reported as ODA or OOFs),1,Development Initiatives
+fdi-devcountries,Foreign Direct Investment in developing countries,Investment in developing countries,commercial,FDI,data_series.intl_flows_recipients,4,out,donor,,1,orange,Foreign direct investment in developing countries,1,UNCTAD
+fdi-in,Foreign Direct Investment,Inward investment,commercial,FDI,data_series.fdi_out,5,in,recipient,1,,orange,Net inflows of foreign direct investment (new investments minus disinvestment),1,UNCTAD
+fdi-in-profits-out,Profits on FDI,Outflow of profits,commercial,FDI,data_series.intl_flows_recipients,5,out,recipient,,2,orange,Outflows of profits on foreign direct investment,1,World Bank
+fdi-individual-devcountries,Foreign direct investment,Investment by developing country,commercial,FDI,,,out,donor,,,orange,Foreign direct investment in individual developing countries,0,OECD
+fdi-individual-devcountries-new,Foreign direct investment (new),Investment by developing country (new),commercial,FDI,,,out,donor,,,orange-lighter,Foreign direct investment in individual developing countries (new methodology),0,OECD
+fdi-out,Foreign Direct Investment,Outward investment,commercial,FDI,data_series.fdi_out,5,out,recipient,,3,orange,Net outflows of foreign direct investment (new investments minus disinvestment),1,
+fdi-regions,Foreign direct investment,Investment in regions,commercial,FDI,data_series.intl_flows_donors,,out,donor,,,orange,Foreign direct investment in regions,1,Development Initiatives calculations; OECD
+fdi-regions-new,Foreign direct investment (new),Investment in regions (new),commercial,FDI,data_series.intl_flows_donors,,out,donor,,,orange,Foreign direct investment in regions (new methodology),1,Development Initiatives calculations; OECD
+illicit-financing-out,Illicit Finance,Outflows,illicit,Illicit finance,,,out,recipient,,2,orange-darker,Estimates of illicit finance outflows,1,Global Financial Integrity program
+long-debt-comm-amt-out,Capital repayments on long-term debt (commercial sources),Capital repayments,commercial,Long term debt,,7,out,recipient,,1,blue-dark,Capital repayments on long-term debt from commercial sources,0,World Bank International Debt Statistics
+long-debt-comm-int-out,Interest payments on long-term debt (commercial sources),Interest payments,commercial,Long term debt,,7,out,recipient,,2,blue-dark,Interest payments on long-term debt from commercial sources,0,World Bank International Debt Statistics
+long-debt-disbursement-in,Long-term debt (commercial sources),Disbursements,commercial,Long term debt,data_series.long_debt_disbursement_in,7,in,recipient,1,,blue-darker,Disbursments of long-term debt from commercial creditors,1,World Bank International Debt Statistics
+long-debt-net-official-in,Long-term debt (official sources),Disbursements,official,Long term debt,data_series.long_debt_net_official_in,4,in,recipient,1,,purple-light,"Disbursments of long-term debt from official creditors, excluding disbursements reported as ODA or OOFs",1,World Bank International Debt Statistics
+long-debt-off-amt-out,Capital repayments on long-term debt (official sources),Capital repayments,official,Long term debt,,4,out,recipient,,1,purple-light,Capital repayments on long-term debt from official sources,0,World Bank International Debt Statistics; OECD DAC Table 2a; OECD DAC Table 2b
+long-debt-off-int-out,Interest payments on long-term debt (official sources),Interest payments,official,Long term debt,,4,out,recipient,,2,purple-light,Interest payments on long-term debt from official sources,0,World Bank International Debt Statistics; OECD DAC Table 2a; OECD DAC Table 2b
+net-portfolio-equity-in,Portfolio equity,Net inflows,commercial,Portfolio equity,data_series.intl_flows_recipients,6,in,recipient,1,,yellow-light,,1,
+oda-capital-payments-out,Capital repayments on ODA loans,Capital repayments,official,ODA,data_series.oda_capital_repayments,1,out,recipient,,1,red,,1,OECD DAC
+oda-capital-repay,Capital repayments on ODA loans,Capital repayments,official,ODA,data_series.oda_capital_repayments,1,in,donor,1,,red,Receipt of capital repayments on ODA loans,1,OECD DAC
+oda-grants,ODA grants,ODA grants,official,ODA,,,out,donor,,,red-light,This is a type of ODA flow,0,OECD DAC
+oda-in,Official development assistance,Gross disbursements,official,ODA,fact.oda_2015,1,in,recipient,1,,red,,1,OECD DAC
+oda-individual-devcountries,Official development assistance,Gross disbursements by developing country,official,ODA,,,out,donor,,,red,Official development assistance to individual developing countries,,OECD DAC
+oda-interest,Interest payments on ODA loans,Interest payments,official,ODA,data_series.oda_interest_payments,1,in,donor,2,,red-lighter,Receipt of interest payments on ODA loans,1,OECD DAC
+oda-interest-payments-out,Interest payments on ODA loans,Interest payments,official,ODA,data_series.oda_interest_payments,1,out,recipient,,2,red,,1,OECD DAC
+oda-loans-equity-investments,ODA loans & equity investments,ODA loans & equity investments,official,ODA,,,out,donor,,,red,Two types of ODA flows grouped together,,OECD DAC
+oda-out,Official development assistance,Gross disbursements,official,ODA,fact.oda_2015,1,out,donor,,1,red,Official development assistance,1,OECD DAC
+oda-regions,Official development assistance,Gross disbursements to regions,official,ODA,,,out,donor,,,red,Official development assistance to regions,,OECD DAC
+oofs-capital-payments-out,Capital repayments on OOFs loans,Capital repayments,official,OOFs,data_series.intl_flows_recipients,2,out,recipient,,1,blue-lighter,,1,OECD DAC
+oofs-capital-repay,Capital repayments on OOFs loans,Capital repayments,official,OOFs,data_series.intl_flows_donors,2,in,donor,1,,blue-lighter,Receipt of capital repayments on OOF loans,1,OECD DAC
+oofs-in,Other official flows,Gross disbursements,official,OOFs,data_series.oof,2,in,recipient,1,,blue-lighter,,1,OECD DAC
+oofs-individual-devcountries,Other official flows,Gross disbursements by developing country,official,OOFs,,,out,donor,,,blue-lighter,Other official flows to individual developing countries,,OECD DAC
+oofs-interest,Interest payments on OOFs loans,Interest payments,official,OOFs,data_series.intl_flows_donors,2,in,donor,2,,blue-lighter,Receipt of interest payments on OOF loans,1,OECD DAC
+oofs-interest-payments-out,Interest payments on OOFs loans,Interest payments,official,OOFs,data_series.intl_flows_recipients,2,out,recipient,,2,blue-lighter,,1,OECD DAC
+oofs-out,Other official flows,Gross disbursements,official,OOFs,data_series.oof,2,out,donor,,1,blue-lighter,Other official flows,1,OECD DAC
+oofs-regions,Other official flows,Gross disbursements to regions,official,OOFs,,,out,donor,,,blue-lighter,Other official flows to regions,,OECD DAC
+out-debt-relief,Debt relief,Debt relief,official,ODA,,,out,donor,,,grey-light,,,OECD DAC
+out-oda-net-excl-debt-relief,Net ODA excluding debt relief,ODA excluding debt relief,official,ODA,,,out,donor,,,red,,,OECD DAC
+pda-in,Private development assistance,Inflows,private,PDA,,,in,recipient,,,purple-light,,,Development Initiatives
+pda-out,Private development assistance,Outflows,private,PDA,,,out,recipient,,,purple-light,,,Development Initiatives
+remittances-devcountries,Remittances to developing countries,Outflows to developing countries,private,Remittances,data_series.remittances,5,out,donor,,1,blue,Remittances to developing countries,1,World Bank Migration and Remittances Factbook
+remittances-in,Remittances,Inflows,private,Remittances,data_series.remittances,9,in,recipient,1,,blue,,1,World Bank Migration and Remittances Factbook
+remittances-individual-devcountries,Remittances,Outflows by developing country,private,Remittances,,,out,donor,,,blue,Remittances to individual developing countries,,World Bank Migration and Remittances data
+remittances-out,Remittances,Outflows,private,Remittances,data_series.remittances,9,out,recipient,,1,blue,,1,World Bank Migration and Remittances Factbook
+remittances-regions,Remittances,Outflows to regions,private,Remittances,,,out,donor,,,blue,Remittances to regions,,Development Initiatives calculations; World Bank Migration and Remittances data
+short-debt-interest-out,Interest payments on short-term debt,Interest payments,commercial,Short term debt,data_series.intl_flows_recipients,8,out,recipient,,1,yellow,,1,World Bank International Debt Statistics
+short-debt-net-flow-in,Short-term debt,Net disbursements,commercial,Short term debt,data_series.intl_flows_recipients,8,in,recipient,1,,yellow,Net disbursements of short-term debt (debt with a maturity of less than 1 year; net disbursements are gross inflows minus capital repayments),1,World Bank International Debt Statistics
+ssc-in,DC,Inflows,official,Development cooperation,,3,in,recipient,1,,grey-light,,,Development Initiatives calculations; OECD DAC
+ssc-out,DC,Outflows,official,Development cooperation,,3,out,recipient,,1,grey-light,Estimates of development cooperation,,Development Initiatives calculations based on national sources
+total-oda,Total ODA,Total ODA,official,ODA,,,out,donor,,,red-lighter,Total ODA,,OECD DAC
+trade-mispricing-out,Trade mispricing,Outflows,illicit ,Trade mispricing,,,out,recipient,,1,red-light,,1,Global Financial Integrity program
