@@ -7,7 +7,7 @@ fact.population_rural_urban,donor,Urban vs rural population level,Urban vs rural
 fact.population_by_age,donor,Population by age group,Number of people in each of 3 age bands., ,unit, ,1960,2015,Population-What is the age profile?,,
 fact.oda_percent_gni,donor,"Net ODA provided by DAC members, % of GNI","Net ODA provided by DAC members, % of GNI.",purple,percent,%,2015, ,"International Resources-As a share of GNI,how much aid does Sweden allocate?",,
 fact.gni_usd_2015,donor,Gross national income (2015 US$),GNI (2015 US$), ,US$,US$,2015, ,International Resources-Gross nation income is,,
-data_series.intl_flows_donors,donor,International resource flows to and from developed countries,"Estimates of international resource flows from developed countries, 2015 US$.", ,constant 2015 US$,US$,2010,2015,International Resources-What is the mix of resources in X?,,
+data_series.intl_flows_donors,donor,International resource flows to and from developed countries,"Estimates of international resource flows from developed countries, 2015 US$.", ,constant 2015 US$,US$,2000,2015,International Resources-What is the mix of resources in X?,,
 data_series.poorest_20_percent,recipient,Poorest 20%,Number of people in each country that are part of the poorest 20% of people worldwide.,red,unit, ,2013, ,Overview-How many of the poorest people globally live in Bangladesh?,,
 fact.population_total,recipient,Total population,Total population, ,unit, ,2015, ,Overview-out of a population of a million people?,,
 data_series.domestic,recipient,Non-grant government revenue,Non-grant government revenue. Data is for 2015., ,"constant 2015 US$, NCU","constant 2015 US$, NCU",2000,2015,Overview-What resources are available?,,
