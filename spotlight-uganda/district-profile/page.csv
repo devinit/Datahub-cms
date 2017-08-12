@@ -1,8 +1,8 @@
 id,title,narrative,meta
-overview-district-poverty,"WHAT PERCENTAGE OF PEOPLE IN DISTRICT LIVE BELOW THE NATIONAL POVERTY LINE?", ,
-overview-resources,"WHAT RESOURCES ARE AVAILABLE TO LOCAL GOVERNMENTS IN DISTRICT?", ,
+overview-district-poverty,"WHAT PERCENTAGE OF PEOPLE IN {district} LIVE BELOW THE NATIONAL POVERTY LINE?", ,
+overview-resources,"WHAT RESOURCES ARE AVAILABLE TO LOCAL GOVERNMENTS IN ${district}?", ,
 govt-spend-per-person,"HOW MUCH DOES THE LOCAL GOVERNMENT SPEND PER PERSON?", ,
-poverty-levels,"WHAT PERCENTAGE OF PEOPLE IN DISTRICT LIVE BELOW THE NATIONAL POVERTY LINE?", ,
+poverty-levels,"WHAT PERCENTAGE OF PEOPLE IN {district} LIVE BELOW THE NATIONAL POVERTY LINE?", ,
 life-expectancy,"WHAT IS THE AVERAGE LIFE EXPECTANCY?", ,
 std-of-living,"WHAT IS THE STANDARD OF LIVING SCORE?", ,
 popn-district,"WHAT IS THE POPULATION?","the total population is ...and the population density is ...per sq km",
