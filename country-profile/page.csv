@@ -18,3 +18,5 @@ intl-resources-lower-A1,"A dynamic mix of resources flow to and from {country}. 
 intl-resources-lower-A2,"To understand the value of different resources for poverty reduction we must start by understanding the volumes - move the slider to explore how official, commercial, private and illicit resources flow to and from {country}", 
 intl-resources-lower-B1,Where are international resources originating and where are they destined? Start by selecting inflows or outflows:,
 avg-income-per-person,WHAT IS THE AVERAGE INCOME PER PERSON PER YEAR?,
+share-gni-allocated-to-ctry,AS A SHARE OF GNI, HOW MUCH AID IS ALLOCATED TO {country}?,
+resource-inflow,HOW HAVE RESOURCE INFLOWS CHANGED OVER TIME?,
