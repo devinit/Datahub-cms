@@ -29,7 +29,7 @@ oofs-in,from_di_id,Providers,0
 oofs-in,channel, Channels of delivery,1
 oofs-in,sector,Sector,2
 oofs-in,bundle,Finance modalities,3
-remittances-in,fom_di_id,Source,0
+remittances-in,from_di_id,Source,0
 short-debt-net-flow-in,flow_type,Type of Flow,0
 oda-capital-payments-out,from_di_id,Destination,0
 oda-capital-payments-out,from_di_id,Providers,0
