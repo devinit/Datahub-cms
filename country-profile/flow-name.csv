@@ -49,4 +49,4 @@ short-debt-net-flow-in,Short-term debt,Net disbursements,commercial,Short term d
 ssc-in,DC,Inflows,official,Development cooperation,,3,in,recipient,1,,grey-light,,,Development Initiatives calculations; OECD DAC
 ssc-out,DC,Outflows,official,Development cooperation,,3,out,recipient,,1,grey-light,Estimates of development cooperation,,Development Initiatives calculations based on national sources
 total-oda,Total ODA,Total ODA,official,ODA,,,out,donor,,,red-lighter,Total ODA,,OECD DAC
-trade-mispricing-out,Trade mispricing,Outflows,illicit ,Trade mispricing,,,out,recipient,,1,red-light,,1,Global Financial Integrity program
+trade-mispricing-out,Trade mispricing,Outflows,illicit ,Trade mispricing,,,out,recipient,,1,red-light,,,Global Financial Integrity program
