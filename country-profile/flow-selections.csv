@@ -29,14 +29,15 @@ oofs-in,from_di_id,Providers,0
 oofs-in,channel, Channels of delivery,1
 oofs-in,sector,Sector,2
 oofs-in,bundle,Finance modalities,3
-net-portfolio-equity-in,from_di_id,Providers,0
 remittances-in,fom_di_id,Source,0
-short-debt-net-flow-in,destination_institution_type,Type of borrower,0
-short-debt-net-flow-in,financing_type,Financing Instrument,1
+short-debt-net-flow-in,flow_type,Type of Flow,0
 oda-capital-payments-out,from_di_id,Destination,0
 oda-capital-payments-out,from_di_id,Providers,0
 fdi-out,from_di_id,Source(OECD countries only),0
 oda-interest-payments-out,from_di_id,Destination,0
-oofs-interest-payments-out,from_di_id,Providers,0
-short-debt-interest-out,destination_institution_type,Type of borrower,0
-short-debt-interest-out,financing_type,Financing Instrument,1
+remittances-out,from_di_id,Source(OECD countries only),0
+short-debt-interest-out,flow_type,Type of Flow,0
+oofs-interest-payments-out,flow_type,Type of Flow,0
+oofs-capital-payments-out,flow_type,Type of Flow,0
+fdi-in-profits-out,flow_type,Type of Flow,0
+net-portfolio-equity-in,flow_type,Type of Flow,0
