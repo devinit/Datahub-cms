@@ -17,10 +17,6 @@ oofs-capital-repay,to_di_id,Recipients,0
 oda-interest,to_di_id,Source,0
 oofs-interest,to_di_id,Recipients,0
 fdi-in,from_di_id,Source(OECD countries only),0
-long-debt-disbursement-in,destination_institution_type,Type of borrower,0
-long-debt-disbursement-in,financing_type,Financing Instrument,1
-long-debt-net-official-in,destination_institution_type,Type of borrower,0
-long-debt-net-official-in,financing_type,Financing Instrument,1
 oda-in,from_di_id,Providers,0
 oda-in,channel, Channels of delivery,1
 oda-in,sector,Sector,2
@@ -41,3 +37,5 @@ oofs-interest-payments-out,flow_type,Type of Flow,0
 oofs-capital-payments-out,flow_type,Type of Flow,0
 fdi-in-profits-out,flow_type,Type of Flow,0
 net-portfolio-equity-in,flow_type,Type of Flow,0
+long-debt-disbursement-in,flow_type,Type of Flow,0
+long-debt-net-official-in,flow_type,Type of Flow,0
