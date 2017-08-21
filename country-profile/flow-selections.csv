@@ -1,41 +1,42 @@
-id,group_by_id,name,position
-dfis-in,from_di_id,Providers,0
-dfis-out,financing_type,Finance modalities,0
-fdi-devcountries,to_di_id,Destination,0
-fdi-devcountries,financing_type,Financing Instrument,1
-oda-out,to_di_id,Recipients,0
-oda-out,channel,Channels of delivery,1
-oda-out,sector,Sector,2
-oda-out,bundle,Finance modalities,3
-oofs-out,to_di_id,Recipents,0
-oofs-out,channel,Channels of delivery,1
-oofs-out,sector,Sector,2
-oofs-out,bundle,Finance modalities,3
-remittances-devcountries,to_di_id,Destination,0
-oda-capital-repay,to_di_id,Source,0
-oofs-capital-repay,to_di_id,Recipients,0
-oda-interest,to_di_id,Source,0
-oofs-interest,to_di_id,Recipients,0
-fdi-in,from_di_id,Source(OECD countries only),0
-oda-in,from_di_id,Providers,0
-oda-in,channel, Channels of delivery,1
-oda-in,sector,Sector,2
-oda-in,bundle,Finance modalities,3
-oofs-in,from_di_id,Providers,0
-oofs-in,channel, Channels of delivery,1
-oofs-in,sector,Sector,2
-oofs-in,bundle,Finance modalities,3
-remittances-in,from_di_id,Source,0
-short-debt-net-flow-in,flow_type,Type of Flow,0
-oda-capital-payments-out,from_di_id,Destination,0
-oda-capital-payments-out,from_di_id,Providers,0
-fdi-out,from_di_id,Source(OECD countries only),0
-oda-interest-payments-out,from_di_id,Destination,0
-remittances-out,from_di_id,Source(OECD countries only),0
-short-debt-interest-out,flow_type,Type of Flow,0
-oofs-interest-payments-out,flow_type,Type of Flow,0
-oofs-capital-payments-out,flow_type,Type of Flow,0
-fdi-in-profits-out,flow_type,Type of Flow,0
-net-portfolio-equity-in,flow_type,Type of Flow,0
-long-debt-disbursement-in,flow_type,Type of Flow,0
-long-debt-net-official-in,flow_type,Type of Flow,0
+id,group_by_id,name,unbundle,position
+dfis-in,from_di_id,Providers,,0
+dfis-out,financing_type,Finance modalities,,0
+fdi-devcountries,to_di_id,Destination,,0
+fdi-devcountries,financing_type,Financing Instrument,,1
+fdi-regions,to_di_id,Destination,,0
+fdi-regions,financing_type,Financing Instrument,,1
+oda-out,to_di_id,Recipients,1,0
+oda-out,channel,Channels of delivery,1,1
+oda-out,sector,Sector,1,2
+oda-out,bundle,Finance modalities,1,3
+oofs-out,to_di_id,Recipents,1,0
+oofs-out,channel,Channels of delivery,1,1
+oofs-out,sector,Sector,1,2
+oofs-out,bundle,Finance modalities,1,3
+remittances-devcountries,to_di_id,Destination,,0
+oda-capital-repay,to_di_id,Source,,0
+oofs-capital-repay,to_di_id,Recipients,,0
+oda-interest,to_di_id,Source,,0
+oofs-interest,to_di_id,Recipients,,0
+fdi-in,from_di_id,Source(OECD countries only),,0
+long-debt-disbursement-in,destination_institution_type,Type of borrower,,0
+long-debt-disbursement-in,financing_type,Financing Instrument,,1
+long-debt-net-official-in,destination_institution_type,Type of borrower,,0
+long-debt-net-official-in,destination_institution_type,Financing Instrument,,1
+oda-in,from_di_id,Providers,1,0
+oda-in,channel, Channels of delivery,1,1
+oda-in,sector,Sector,1,2
+oda-in,bundle,Finance modalities,1,3
+oofs-in,from_di_id,Providers,1,0
+oofs-in,channel, Channels of delivery,1,1
+oofs-in,sector,Sector,1,2
+oofs-in,bundle,Finance modalities,1,3
+net-portfolio-equity-in,from_di_id,Providers,,0
+remittances-in,from_di_id,Source,,0
+short-debt-net-flow-in,destination_institution_type,Type of borrower,,0
+short-debt-net-flow-in,financing_type,Financing Instrument,,1
+oda-capital-payments-out,from_di_id,Destination,,0
+oda-capital-payments-out,from_di_id,Providers,,0
+fdi-out,from_di_id,Source(OECD countries only),,0
+oda-interest-payments-out,from_di_id,Destination,,0
+oofs-interest-payments-out,from_di_id,Providers,,0
