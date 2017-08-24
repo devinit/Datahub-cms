@@ -9,8 +9,8 @@ additional-expenditure,FALSE,4,Additional Expenditure,
 additional-finance,FALSE,3,Additional Finance,
 adefa-s-a-nd-others,FALSE,4,Adefa S A Nd Others,
 adjustment-aid,FALSE,4,Adjustment Aid,
-adjustment-for-heavily-indebted-poor-countriesmultilateral-debt-relief-initiative-debt-relief,FALSE,2,Adjustment For Heavily Indebted Poor Countriesmultilateral Debt Relief Initiative Debt Relief,grey-mid
-adjustment-for-net-withheld-adjara-transfers,FALSE,2,Adjustment For Net Withheld Adjara Transfers,grey-mid
+adjustment-for-heavily-indebted-poor-countriesmultilateral-debt-relief-initiative-debt-relief,FALSE,2,Adjustment For Heavily Indebted Poor Countriesmultilateral Debt Relief Initiative Debt Relief,grey-light
+adjustment-for-net-withheld-adjara-transfers,FALSE,2,Adjustment For Net Withheld Adjara Transfers,grey-light
 adjustment-on-other-receivables-and-payables,FALSE,2,Adjustment On Other Receivables And Payables,
 adjustments-and-fiscal-expenditure,FALSE,3,Adjustments And Fiscal Expenditure,
 administrative-fees,FALSE,4,Administrative Fees,
@@ -66,7 +66,7 @@ bonds,FALSE,3,Bonds,
 bonds-and-loans,FALSE,3,Bonds And Loans,
 bonds-issuance,FALSE,3,Bonds Issuance,
 bonuses-and-rents,FALSE,5,Bonuses And Rents,
-borrowing,FALSE,2,Borrowing,grey-mid
+borrowing,FALSE,2,Borrowing,grey-light
 budget,FALSE,3,Budget,
 budget-grants,FALSE,3,Budget Grants,
 budget-loans,FALSE,3,Budget Loans,
@@ -97,8 +97,8 @@ capital-transfers-and-other,FALSE,3,Capital Transfers And Other,
 capitalization-of-state-owned-enterpsirses,FALSE,3,Capitalization Of State Owned Enterpsirses,
 carry-over-expenditure,FALSE,2,Carry Over Expenditure,
 cash-account,FALSE,3,Cash Account,
-cash-basis-adjustment,FALSE,2,Cash Basis Adjustment,grey-mid
-cash-float-and-discrepancy,FALSE,2,Cash Float And Discrepancy,grey-mid
+cash-basis-adjustment,FALSE,2,Cash Basis Adjustment,grey-light
+cash-float-and-discrepancy,FALSE,2,Cash Float And Discrepancy,grey-light
 cash-fuel-subsidies,FALSE,4,Cash Fuel Subsidies,
 census,FALSE,4,Census,
 central-bank,FALSE,3,Central Bank,
@@ -214,7 +214,7 @@ debt-relief,FALSE,3,Debt Relief,
 debt-relief-and-budget-support,FALSE,3,Debt Relief And Budget Support,
 debt-relief-and-heavily-indebted-poor-countries--initiative-assistance,FALSE,3,Debt Relief And Heavily Indebted Poor Countries  Initiative Assistance,
 debt-relief-obtained,FALSE,3,Debt Relief Obtained,
-debt-rescheduling,FALSE,2,Debt Rescheduling,grey-mid
+debt-rescheduling,FALSE,2,Debt Rescheduling,grey-light
 debt-securities,FALSE,3,Debt Securities,
 debt-securities-net,FALSE,3,Debt Securities (Net),
 debt-service-relief,FALSE,3,Debt Service Relief,
@@ -245,9 +245,9 @@ direct-tax,FALSE,4,Direct Tax,
 direct-taxes,FALSE,4,Direct Taxes,
 disbursement,FALSE,3,Disbursement,
 disbursements,FALSE,3,Disbursements,
-discrepancy,FALSE,2,Discrepancy,grey-mid
+discrepancy,FALSE,2,Discrepancy,grey-light
 discrepancy--reserve-fund,FALSE,2,Discrepancy  Reserve Fund,
-discrepancy-unexplained,FALSE,3,Discrepancy Unexplained,grey-mid
+discrepancy-unexplained,FALSE,3,Discrepancy Unexplained,grey-light
 divestment-deposit-drawdown,FALSE,2,Divestment Deposit Drawdown,
 divestmentprivatization-proceeds,FALSE,2,Divestmentprivatization Proceeds,
 dividend-and-interest-income,FALSE,4,Dividend And Interest Income,
@@ -272,7 +272,7 @@ domestic-debt,FALSE,3,Domestic Debt,
 domestic-finance-inflows,FALSE,3,Domestic Finance Inflows,
 domestic-financed,FALSE,3,Domestic Financed,
 domestic-financed-reconstruction-expenditure,FALSE,4,Domestic Financed Reconstruction Expenditure,
-domestic-financing,FALSE,2,Domestic Financing,red-high
+domestic-financing,FALSE,2,Domestic Financing,red-dark
 domestic-funds,FALSE,3,Domestic Funds,
 domestic-indirect-taxes,FALSE,5,Domestic Indirect Taxes,
 domestic-interest,FALSE,4,Domestic Interest,
@@ -337,12 +337,12 @@ entrepreneurial-and-property-income,FALSE,4,Entrepreneurial And Property Income,
 enviromental,FALSE,3,Enviromental,
 equity-and-investment-fund-shares,FALSE,3,Equity And Investment Fund Shares,
 equity-investment,FALSE,2,Equity Investment,
-errors-and-omissions,FALSE,2,Errors And Omissions,grey-mid
+errors-and-omissions,FALSE,2,Errors And Omissions,grey-light
 estimated-sustainable-income,FALSE,4,Estimated Sustainable Income,
 eurobond,FALSE,3,Eurobond,
 exceptional--external-financing,FALSE,3,Exceptional  External Financing,
 exceptional-expenditure,FALSE,3,Exceptional Expenditure,
-exceptional-financing,FALSE,2,Exceptional Financing,grey-mid
+exceptional-financing,FALSE,2,Exceptional Financing,grey-light
 exceptional-revenue-from-the-mining-industry,FALSE,5,Exceptional Revenue From The Mining Industry,
 exceptional-security,FALSE,4,Exceptional Security,
 exceptional-spending,FALSE,4,Exceptional Spending,
@@ -370,7 +370,7 @@ external-amortization,FALSE,3,External Amortization,
 external-arrears,FALSE,3,External Arrears,
 external-arrears-and-debt-relief,FALSE,3,External Arrears And Debt Relief,
 external-borrowing,FALSE,3,External Borrowing,
-external-financing,FALSE,2,External Financing,blue-high
+external-financing,FALSE,2,External Financing,blue-dark
 external-interest,FALSE,4,External Interest,
 external-interest-payment-cash,FALSE,3,External Interest Payment Cash,
 external-interest-payments,FALSE,4,External Interest Payments,
@@ -487,7 +487,7 @@ government-share-from-oil-exports,FALSE,4,Government Share From Oil Exports,
 governments-grants-financed,FALSE,3,Governments Grants Financed,
 grant-financed-reconstruction-expenditure,FALSE,4,Grant Financed Reconstruction Expenditure,
 grantfinanced,FALSE,3,Grant-Financed,
-grants,FALSE,2,Grants,blue-high
+grants,FALSE,2,Grants,blue-dark
 grants-and-transfers,FALSE,3,Grants And Transfers,
 grants-from-india,FALSE,3,Grants From India,
 grants-to-development-budget,FALSE,3,Grants To Development Budget,
@@ -516,7 +516,7 @@ heavily-indebted-poor-countries-flow-savings,FALSE,3,Heavily Indebted Poor Count
 heavily-indebted-poor-countries-grant-relief,FALSE,3,Heavily Indebted Poor Countries Grant Relief,
 heavily-indebted-poor-countries-initiative-funded-expenditure,FALSE,2,Heavily Indebted Poor Countries Initiative Funded Expenditure,
 heavily-indebted-poor-countries-initiative-resources,FALSE,4,Heavily Indebted Poor Countries Initiative Resources,
-heavily-indebted-poor-countries-interim-relief,FALSE,2,Heavily Indebted Poor Countries Interim Relief,grey-mid
+heavily-indebted-poor-countries-interim-relief,FALSE,2,Heavily Indebted Poor Countries Interim Relief,grey-light
 heavily-indebted-poor-countries-multilateral,FALSE,3,Heavily Indebted Poor Countries Multilateral,
 highways,FALSE,3,Highways,
 hipc-grant-relief,FALSE,3,Hipc Grant Relief,
@@ -687,7 +687,7 @@ net-domestic-fianace,FALSE,2,Net Domestic Fianace,
 net-domestic-finance,FALSE,2,Net Domestic Finance,
 net-domestic-finance-of-the-central-government,FALSE,3,Net Domestic Finance Of The Central Government,
 net-domestic-financing,FALSE,2,Net Domestic Financing,
-net-errors-and-omissions,FALSE,2,Net Errors And Omissions,grey-mid
+net-errors-and-omissions,FALSE,2,Net Errors And Omissions,grey-light
 net-external-finance,FALSE,2,Net External Finance,
 net-external-financing,FALSE,2,Net External Financing,
 net-foreign-finance-of-the-central-government,FALSE,3,Net Foreign Finance Of The Central Government,
@@ -829,7 +829,7 @@ other-domestic-interest,FALSE,5,Other Domestic Interest,
 other-domestically-financed,FALSE,4,Other Domestically Financed,
 other-domnestically-financed,FALSE,4,Other Domnestically Financed,
 other-excess-crude-account,FALSE,3,Other Excess Crude Account,
-other-expenditure,FALSE,2,Other Expenditure,grey-mid
+other-expenditure,FALSE,2,Other Expenditure,grey-light
 other-expenditure-in-the-budget,FALSE,2,Other Expenditure In The Budget,
 other-expenditures,FALSE,2,Other Expenditures,
 other-expendse,FALSE,3,Other Expendse,
@@ -839,9 +839,9 @@ other-external,FALSE,3,Other External,
 other-external-finance,FALSE,3,Other External Finance,
 other-external-financing,FALSE,3,Other External Financing,
 other-federal-taxes,FALSE,5,Other Federal Taxes,
-other-finance,FALSE,2,Other Finance,grey-mid
+other-finance,FALSE,2,Other Finance,grey-light
 other-financial-assets,FALSE,3,Other Financial Assets,
-other-financing,FALSE,2,Other Financing,grey-mid
+other-financing,FALSE,2,Other Financing,grey-light
 other-foreign-finance,FALSE,3,Other Foreign Finance,
 other-goods-and-services,FALSE,3,Other Goods And Services,
 other-goods-and-services-and-transfers,FALSE,4,Other Goods And Services And Transfers,
@@ -946,7 +946,7 @@ personnel-costs,FALSE,3,Personnel Costs,
 personnel-expenditure,FALSE,3,Personnel Expenditure,
 petrocaribe,FALSE,4,Petrocaribe,
 petrocaribe-projects,FALSE,3,Petrocaribe Projects,
-petrocaribe-savings,FALSE,2,Petrocaribe Savings,grey-mid
+petrocaribe-savings,FALSE,2,Petrocaribe Savings,grey-light
 petroleum-fund-withdrawals,FALSE,3,Petroleum Fund Withdrawals,
 petroleum-operations,FALSE,5,Petroleum Operations,
 petroleum-product-price-subsidies,FALSE,2,Petroleum Product Price Subsidies,
@@ -971,8 +971,8 @@ private-sector,FALSE,3,Private Sector,
 privatization,FALSE,2,Privatization,grey-mid
 privatization-and-longterm-lease-of-fixed-assets,FALSE,2,Privatization And Long-Term Lease Of Fixed Assets,
 privatization-and-other-extraordinary-receipts,FALSE,2,Privatization And Other Extraordinary Receipts,
-privatization-proceeds,FALSE,2,Privatization Proceeds,grey-mid
-privatization-receipts,FALSE,2,Privatization Receipts,grey-mid
+privatization-proceeds,FALSE,2,Privatization Proceeds,grey-light
+privatization-receipts,FALSE,2,Privatization Receipts,grey-light
 privatization-revenues,FALSE,3,Privatization Revenues,
 privatizations-and-other-sale-of-assets,FALSE,3,Privatizations And Other Sale Of Assets,
 production-and-consumption,FALSE,4,Production And Consumption,
@@ -1064,11 +1064,11 @@ reserve-and-contingency-funds,FALSE,2,Reserve And Contingency Funds,
 reserve-fund,FALSE,4,Reserve Fund,
 reserves,FALSE,2,Reserves,
 residual-financing-neederrors-and-omissions,FALSE,2,Residual Financing Neederrors And Omissions,grey-mid
-residual-gap,FALSE,2,Residual Gap,grey-mid
+residual-gap,FALSE,2,Residual Gap,grey-light
 resort-lease-rent,FALSE,4,Resort Lease Rent,
 resource-extraction-tax,FALSE,4,Resource Extraction Tax,
 resource-revenue,FALSE,3,Resource Revenue,
-restructured-bonds,FALSE,2,Restructured Bonds,grey-mid
+restructured-bonds,FALSE,2,Restructured Bonds,grey-light
 restructuring-and-net-lending,FALSE,2,Restructuring And Net Lending,
 restructuring-cost-of-public-enterprises,FALSE,2,Restructuring Cost Of Public Enterprises,
 retail-sales-tax,FALSE,5,Retail Sales Tax,
@@ -1076,7 +1076,7 @@ retirement-benefits,FALSE,5,Retirement Benefits,
 retirement-funds-employer-contribution,FALSE,3,Retirement Funds Employer Contribution,
 retrocession-loans,FALSE,3,Retrocession Loans,
 returned-letters-of-credit,FALSE,2,Returned Letters Of Credit,
-revenue,FALSE,2,Revenue,red-high
+revenue,FALSE,2,Revenue,red-dark
 revenue-equalization-and-reserve-fund,FALSE,3,Revenue Equalization And Reserve Fund,
 revenue-from-goods,FALSE,4,Revenue From Goods,
 revenue-from-natural-resources-and-telecoms,FALSE,4,Revenue From Natural Resources And Telecoms,
@@ -1118,7 +1118,7 @@ securitization-of-arrears-to-sonara,FALSE,3,Securitization Of Arrears To Sonara,
 security,FALSE,3,Security,
 security-expenditure,FALSE,3,Security Expenditure,
 security-issue,FALSE,3,Security Issue,
-settlement-of-payment-delays,FALSE,2,Settlement Of Payment Delays,grey-mid
+settlement-of-payment-delays,FALSE,2,Settlement Of Payment Delays,grey-light
 shared-infrastructure-and-social-spending,FALSE,4,Shared Infrastructure And Social Spending,
 short-term-external-debt,FALSE,4,Short Term External Debt,
 signature-bonus,FALSE,4,Signature Bonus,
@@ -1181,7 +1181,7 @@ state-economic-enterprises-receipts-net-of-transfers-to-union-government,FALSE,3
 state-owned-enterprises--dividend-payments,FALSE,4,State Owned Enterprises  Dividend Payments,
 state-tax-revenue,FALSE,4,State Tax Revenue,
 states,FALSE,4,States,
-statistical-discrepancy,FALSE,2,Statistical Discrepancy,grey-mid
+statistical-discrepancy,FALSE,2,Statistical Discrepancy,grey-light
 statistical-fee,FALSE,4,Statistical Fee,
 statutory-authorities,FALSE,4,Statutory Authorities,
 statutory-expenditures,FALSE,4,Statutory Expenditures,
@@ -1259,8 +1259,8 @@ to-banks,FALSE,5,To Banks,
 to-national-bank-of-tajikistan,FALSE,5,To National Bank Of Tajikistan,
 to-nonresidents,FALSE,4,To Nonresidents,
 to-residents,FALSE,4,To Residents,
-total-expenditure,FALSE,1,Total Expenditure,purple-high
-total-revenue-and-grants,FALSE,1,Total Revenue And Grants,purple-high
+total-expenditure,FALSE,1,Total Expenditure,purple-dark
+total-revenue-and-grants,FALSE,1,Total Revenue And Grants,purple-dark
 tourism--8-bed-tax,FALSE,5,Tourism  8 Bed Tax,
 tourism-goods-and-services-tax,FALSE,5,Tourism Goods And Services Tax,
 trade-and-other,FALSE,4,Trade And Other,
@@ -1318,7 +1318,7 @@ unemployment-insurance-benefits,FALSE,4,Unemployment Insurance Benefits,
 unidentified-adjustment,FALSE,2,Unidentified Adjustment,
 unidentified-expenditure,FALSE,2,Unidentified Expenditure,
 unidentified-finance,FALSE,2,Unidentified Finance,
-unidentified-financing,FALSE,2,Unidentified Financing,grey-mid
+unidentified-financing,FALSE,2,Unidentified Financing,grey-light
 union-government,FALSE,3,Union Government,
 unrecorded-expenditure,FALSE,2,Unrecorded Expenditure,
 us-compact,FALSE,4,Us Compact,
@@ -1408,7 +1408,7 @@ crop-production-department,TRUE,4,Crop Production Department,
 crop-protection-department,TRUE,4,Crop Protection Department,
 crops,TRUE,3,Crops,
 dairy-development-authority,TRUE,3,Dairy Development Authority,
-defence,TRUE,1,Defence,darkorange-mid
+defence,TRUE,1,Defence,orange
 defence-equipment-project,TRUE,4,Defence Equipment Project,
 department-of-agribusiness,TRUE,4,Department Of Agribusiness,
 department-of-crop-regulation-and-certification,TRUE,4,Department Of Crop Regulation And Certification,
@@ -1433,7 +1433,7 @@ district-production-services,TRUE,3,District Production Services,
 domestic-interest,TRUE,2,Domestic Interest,
 domestic-interest-payments,TRUE,2,Domestic Interest Payments,
 eastern-africa-agricultural-productivity-adaptable-program,TRUE,3,Eastern Africa Agricultural Productivity Adaptable Program,
-education,TRUE,1,Education,darkpurple-mid
+education,TRUE,1,Education,purple
 education-service-commission,TRUE,3,Education Service Commission,
 education-standards-agency,TRUE,4,Education Standards Agency,
 emergency-construction-of-primary-schools,TRUE,4,Emergency Construction Of Primary Schools,
@@ -1481,12 +1481,12 @@ improvement-of-food-security-in-cross-border-districts,TRUE,4,Improvement Of Foo
 improving-the-training-of-btvet-technical-instructors-health-tutors-secondary-teachers-in-uganda,TRUE,4,"Improving The Training Of Btvet Technical Instructors, Health Tutors & Secondary Teachers In Uganda",
 increasing-mukene-for-human-consumption,TRUE,4,Increasing Mukene For Human Consumption,
 industrial-court,TRUE,3,Industrial Court,
-industry-energy-and-mining,TRUE,1,"Industry, Energy And Mining",orange-mid
-infrastructure,TRUE,1,Infrastructure,darkyellow-high
+industry-energy-and-mining,TRUE,1,"Industry, Energy And Mining",orange-light
+infrastructure,TRUE,1,Infrastructure,yellow-darker
 insitutional-support-to-moh,TRUE,4,Insitutional Support To Moh,
 institutional-capacity-building,TRUE,4,Institutional Capacity Building,
 integrated-production-and-pest-management,TRUE,4,Integrated Production And Pest Management,
-interest-payments,TRUE,1,Interest Payments,darklightblue-high
+interest-payments,TRUE,1,Interest Payments,blue-light
 internal-audit,TRUE,3,Internal Audit,
 internal-audit,TRUE,4,Internal Audit,
 internal-audit-department,TRUE,4,Internal Audit Department,
@@ -1520,7 +1520,7 @@ lake-victoria-water-and-sanitation-phase-ii-project,TRUE,3,Lake Victoria Water A
 lira-referral-hospital,TRUE,3,Lira Referral Hospital,
 livestock-disease-control,TRUE,4,Livestock Disease Control,
 livestock-health-and-entomology,TRUE,4,Livestock Health And Entomology,
-local-government-development,TRUE,1,Local Government Development,darkpurple-high
+local-government-development,TRUE,1,Local Government Development,purple-darker
 local-governments,TRUE,2,Local Governments,
 makerere-university,TRUE,3,Makerere University,
 makerere-university-business-school,TRUE,3,Makerere University Business School,
@@ -1584,7 +1584,7 @@ office-of-directorate-of-water-resources-management,TRUE,3,Office Of Directorate
 office-of-the-dgcd;-dsp-and-dl,TRUE,3,Office Of The D/G&Cd; D/Sp And D/L,
 operational-water-resources-management,TRUE,3,Operational Water Resources Management,
 organisation-of-petroleum-exporting-countries,TRUE,5,Organisation Of Petroleum Exporting Countries (415),
-other,TRUE,1,Other,grey-mid
+other,TRUE,1,Other,grey-light
 other,TRUE,4,Other,
 other,TRUE,5,Other,
 pharmaceutical-and-other-supplies,TRUE,3,Pharmaceutical And Other Supplies,
