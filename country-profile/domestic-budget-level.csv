@@ -113,7 +113,7 @@ central-government,FALSE,3,Central Government,
 change-in--arrears,FALSE,3,Change In  Arrears,
 change-in-accrued-interest,FALSE,2,Change In Accrued Interest,
 change-in-amortization-arrears,FALSE,3,Change In Amortization Arrears,
-change-in-arrears,FALSE,2,Change In Arrears,grey-mid
+change-in-arrears,FALSE,2,Change In Arrears,grey-light
 change-in-arrears-and-float,FALSE,3,Change In Arrears And Float,
 change-in-cash-and-other-items,FALSE,2,Change In Cash And Other Items,
 change-in-cash-balance,FALSE,3,Change In Cash Balance,
@@ -125,10 +125,10 @@ change-in-net-domestic-arrears,FALSE,3,Change In Net Domestic Arrears,
 change-in-non-trust-assets,FALSE,2,Change In Non- Trust Assets,
 change-in-outstanding-letters-of-credit,FALSE,2,Change In Outstanding Letters Of Credit,
 change-in-sinking-fund-net,FALSE,2,Change In Sinking Fund Net,
-change-in-social-fund-cash-balance,FALSE,2,Change In Social Fund Cash Balance,grey-mid
+change-in-social-fund-cash-balance,FALSE,2,Change In Social Fund Cash Balance,grey-light
 change-in-unpaid-invoices,FALSE,2,Change In Unpaid Invoices,
 changes-in-arrears,FALSE,3,Changes In Arrears,
-check-float-plus-discrepancy,FALSE,2,Check Float Plus Discrepancy,grey-mid
+check-float-plus-discrepancy,FALSE,2,Check Float Plus Discrepancy,grey-light
 cigarette-tax,FALSE,5,Cigarette Tax,
 civil-expenditure,FALSE,4,Civil Expenditure,
 civil-service,FALSE,4,Civil Service,
@@ -158,7 +158,7 @@ concessional-loans,FALSE,3,Concessional Loans,
 concessional-project-loans,FALSE,4,Concessional Project Loans,
 conditional-grants,FALSE,5,Conditional Grants,
 consolidated-fund,FALSE,3,Consolidated Fund,
-consolidated-investment-fund,FALSE,2,Consolidated Investment Fund,grey-mid
+consolidated-investment-fund,FALSE,2,Consolidated Investment Fund,grey-light
 consolidation-bonds,FALSE,3,Consolidation Bonds,
 constitutional-reform,FALSE,3,Constitutional Reform,
 consumption,FALSE,3,Consumption,
@@ -560,8 +560,8 @@ income-tax-on-profits,FALSE,5,Income Tax On Profits,
 income-tax-on-wages-and-salaries,FALSE,5,Income Tax On Wages And Salaries,
 income-tax-paye,FALSE,5,Income Tax Paye,
 income-taxes,FALSE,4,Income Taxes,
-increase-in-expenditure-arrears,FALSE,2,Increase In Expenditure Arrears,grey-mid
-increase-in-principal-debt-arrears,FALSE,2,Increase In Principal Debt Arrears,grey-mid
+increase-in-expenditure-arrears,FALSE,2,Increase In Expenditure Arrears,grey-light
+increase-in-principal-debt-arrears,FALSE,2,Increase In Principal Debt Arrears,grey-light
 independence-day-investment,FALSE,4,Independence Day Investment,
 indirect-and-other-taxes,FALSE,4,Indirect And Other Taxes,
 indirect-tax,FALSE,4,Indirect Tax,
@@ -761,7 +761,7 @@ oil-account,FALSE,3,Oil Account,
 oil-account-contribution-to-the-budget,FALSE,4,Oil Account Contribution To The Budget,
 oil-and-gas-revenue,FALSE,4,Oil And Gas Revenue,
 oil-and-gas-surcharges-and-other,FALSE,5,Oil And Gas Surcharges And Other,
-oil-bonuses,FALSE,2,Oil Bonuses,grey-mid
+oil-bonuses,FALSE,2,Oil Bonuses,grey-light
 oil-derivative-imports,FALSE,4,Oil Derivative Imports,
 oil-excises,FALSE,5,Oil Excises,
 oil-exports-revenues,FALSE,4,Oil Exports Revenues,
@@ -968,7 +968,7 @@ private,FALSE,3,Private,
 private-financing,FALSE,3,Private Financing,
 private-mining-companies,FALSE,4,Private Mining Companies,
 private-sector,FALSE,3,Private Sector,
-privatization,FALSE,2,Privatization,grey-mid
+privatization,FALSE,2,Privatization,grey-light
 privatization-and-longterm-lease-of-fixed-assets,FALSE,2,Privatization And Long-Term Lease Of Fixed Assets,
 privatization-and-other-extraordinary-receipts,FALSE,2,Privatization And Other Extraordinary Receipts,
 privatization-proceeds,FALSE,2,Privatization Proceeds,grey-light
@@ -1063,7 +1063,7 @@ reserve,FALSE,3,Reserve,
 reserve-and-contingency-funds,FALSE,2,Reserve And Contingency Funds,
 reserve-fund,FALSE,4,Reserve Fund,
 reserves,FALSE,2,Reserves,
-residual-financing-neederrors-and-omissions,FALSE,2,Residual Financing Neederrors And Omissions,grey-mid
+residual-financing-neederrors-and-omissions,FALSE,2,Residual Financing Neederrors And Omissions,grey-light
 residual-gap,FALSE,2,Residual Gap,grey-light
 resort-lease-rent,FALSE,4,Resort Lease Rent,
 resource-extraction-tax,FALSE,4,Resource Extraction Tax,
@@ -1374,7 +1374,7 @@ african-devlopment-bank,TRUE,4,African Devlopment Bank (401),
 african-union,TRUE,5,African Union,
 agricultural-statistical-unit,TRUE,4,Agricultural Statistical Unit,
 agricultural-technology-and-agribusiness-advisory-services,TRUE,3,Agricultural Technology And Agribusiness Advisory Services,
-agriculture,TRUE,1,Agriculture,yellow-mid
+agriculture,TRUE,1,Agriculture,yellow-light
 agriculture-advisory-services,TRUE,3,Agriculture Advisory Services,
 agriculture-cluster-development-project,TRUE,4,Agriculture Cluster Development Project,
 agriculture-production-marketing-regulation,TRUE,4,"Agriculture Production, Marketing & Regulation",
@@ -1468,7 +1468,7 @@ headquarter,TRUE,4,Headquarter,
 headquarters,TRUE,3,Headquarters,
 headquarters,TRUE,4,Headquarters,
 headquarters-planning-and-policy,TRUE,3,"Headquarters, Planning And Policy",
-health,TRUE,1,Health,purple-mid
+health,TRUE,1,Health,purple-light
 health-research,TRUE,3,Health Research,
 health-service-commission,TRUE,3,Health Service Commission,
 health-systems-development,TRUE,3,Health Systems Development,
@@ -1622,9 +1622,9 @@ school-community-water-idps,TRUE,3,School & Community Water-Idps,
 secondary-education,TRUE,2,Secondary Education,
 secondary-education,TRUE,4,Secondary Education,
 sector-monitoring-and-quality-assurance,TRUE,3,Sector Monitoring And Quality Assurance,
-security,TRUE,1,Security,darkblue-high
+security,TRUE,1,Security,blue-darker
 social-assistance-grant-for-empowerment,TRUE,3,Social Assistance Grant For Empowerment,
-social-protection,TRUE,1,Social Protection,red-high
+social-protection,TRUE,1,Social Protection,red-dark
 social-protection-for-vulnerable-groups,TRUE,2,Social Protection For Vulnerable Groups,
 soroti-referral-hospital,TRUE,3,Soroti Referral Hospital,
 south-korea,TRUE,5,South Korea (526),
@@ -1678,7 +1678,7 @@ urban-water-supply-and-sanitation---central-government,TRUE,2,Urban Water Supply
 urban-water-supply-sewerage,TRUE,3,Urban Water Supply & Sewerage,
 vegetable-oil-development-project-phase,TRUE,4,Vegetable Oil Development Project-Phase 2,
 wage,TRUE,4,Wage,
-wash,TRUE,1,Wash,lightblue-mid
+wash,TRUE,1,Wash,blue-light
 water-and-sanitation,TRUE,1,Water And Sanitation,blue-mid
 water-and-sanitation-development-facility---central,TRUE,3,Water And Sanitation Development Facility - Central,
 water-and-sanitation-development-facility---east,TRUE,3,Water And Sanitation Development Facility - East,
