@@ -901,7 +901,7 @@ other-transfers-and-subsidies,FALSE,4,Other Transfers And Subsidies,
 other-transfers-to-households,FALSE,4,Other Transfers To Households,
 other-treasury-outflows,FALSE,4,Other Treasury Outflows,
 other-treasury-revenue,FALSE,3,Other Treasury Revenue,
-others,FALSE,2,Others,grey-mid
+others,FALSE,2,Others,grey-light
 otther-recurrent,FALSE,3,Otther Recurrent,
 overhead-cost,FALSE,4,Overhead Cost,
 overhead-costs-for-donors-financed-projects,FALSE,4,Overhead Costs For Donors Financed Projects,
@@ -1330,7 +1330,7 @@ use-of-goods--and-services,FALSE,4,Use Of Goods  And Services,
 use-of-goods-and-services,FALSE,3,Use Of Goods And Services,
 use-of-goods-and-services-and-grants,FALSE,3,Use Of Goods And Services And Grants,
 use-of-government-deposits,FALSE,3,Use Of Government Deposits,
-use-of-national-bank-of-the-kyrgyz-republic-investments-abroad,FALSE,2,Use Of National Bank Of The Kyrgyz Republic Investments Abroad,grey-mid
+use-of-national-bank-of-the-kyrgyz-republic-investments-abroad,FALSE,2,Use Of National Bank Of The Kyrgyz Republic Investments Abroad,grey-light
 use-of-pecial-drawing-right--allocation,FALSE,3,Use Of Pecial Drawing Right  Allocation,
 use-of-sovereign-wealth-fund-resources,FALSE,3,Use Of Sovereign Wealth Fund Resources,
 uses-of-goods-and-services,FALSE,3,Uses Of Goods And Services,
@@ -1679,7 +1679,7 @@ urban-water-supply-sewerage,TRUE,3,Urban Water Supply & Sewerage,
 vegetable-oil-development-project-phase,TRUE,4,Vegetable Oil Development Project-Phase 2,
 wage,TRUE,4,Wage,
 wash,TRUE,1,Wash,blue-light
-water-and-sanitation,TRUE,1,Water And Sanitation,blue-mid
+water-and-sanitation,TRUE,1,Water And Sanitation,blue-light
 water-and-sanitation-development-facility---central,TRUE,3,Water And Sanitation Development Facility - Central,
 water-and-sanitation-development-facility---east,TRUE,3,Water And Sanitation Development Facility - East,
 water-and-sanitation-development-facility-north,TRUE,3,Water And Sanitation Development Facility-North,
