@@ -6,4 +6,4 @@ id,flow-name,name,color
 5,remittances-in,Remittances,pink-light
 6,long-debt-disbursement-in,Long-term debt (commercial sources),purple-light
 7,short-debt-net-flow-in,Short-term debt,green-light
-8,long-debt-net-official-in,Long-term debt (official sources),grey-light
+8,long-debt-net-official-in,Long-term debt (official sources),grey
