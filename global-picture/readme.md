@@ -87,3 +87,10 @@ Foreign-key constraints:
 Referenced by:
     TABLE "theme" CONSTRAINT "global_picture_theme_default_indicator_fkey" FOREIGN KEY (default_indicator) REFERENCES indicator(id) ON UPDATE CASCADE ON DELETE RESTRICT
 ```
+
+## column Mappings in concept.csv
+
+heading -> legend heading on the map
+description -> legend description
+name -> indicator name
+tooltip -> tooltip text
