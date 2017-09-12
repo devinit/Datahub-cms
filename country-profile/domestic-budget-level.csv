@@ -1,4 +1,4 @@
-id,sectoral,level,name,color
+ id,sectoral,level,name,color
 accounts-payable,FALSE,3,Accounts Payable,
 accumulation-of-arrears,FALSE,3,Accumulation Of Arrears,
 accumulation-of-external-arrears,FALSE,3,Accumulation Of External Arrears,
@@ -420,7 +420,7 @@ financi-al-a-s-sets-and-others,FALSE,4,Financi Al A S Sets And Others,
 financial-derivatives-and-employee-stock-options,FALSE,3,Financial Derivatives And Employee Stock Options,
 financial-income,FALSE,4,Financial Income,
 financial-system,FALSE,3,Financial System,
-financing,FALSE,1,Financing,purple-high
+financing,FALSE,1,Financing,purple-dark
 financing-arrangement-on-fuel-purchase,FALSE,3,Financing Arrangement On Fuel Purchase,
 financing-gap,FALSE,2,Financing Gap,
 fines-and-forfeits,FALSE,5,Fines And Forfeits,
