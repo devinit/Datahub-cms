@@ -1,4 +1,4 @@
-id,level,name,color-id
+id,level,name,color
 expenditure,1,Expenditure,blue-lighter
 revenue,1,Revenue,blue-lighter
 administration,2,Administration,purple-darker
