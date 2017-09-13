@@ -1,18 +1,18 @@
 id,level,name,color
-expenditure,1,Expenditure,blue-lighter
-revenue,1,Revenue,blue-lighter
+expenditure,1,Expenditure,blue-light
+revenue,1,Revenue,blue-light
 administration,2,Administration,purple-darker
 community-based-services,2,Community Based Services,orange-light
 conditional-government-transfers,2,Conditional Government Transfers,orange-dark
 discretionary-government-transfers,2,Discretionary Government Transfers,orange-dark
-donor-funding,2,Donor Funding,blue-lighter
+donor-funding,2,Donor Funding,blue-light
 education,2,Education,purple-lighter
 finance,2,Finance,purple-light
 health,2,Health,red-darker
 internal-audit,2,Internal Audit,yellow-lighter
 local-development-grant,2,Local Development Grant,orange-darker
 locally-raised-revenues,2,Locally Raised Revenues,red-darker
-multi-sectoral-transfers-to-llgs,2,Multi Sectoral Transfers To Llgs,blue-lighter
+multi-sectoral-transfers-to-llgs,2,Multi Sectoral Transfers To Llgs,blue-light
 natural-resources,2,Natural Resources,orange-light
 other-government-transfers,2,Other Government Transfers,orange-darker
 planning,2,Planning,red-light
