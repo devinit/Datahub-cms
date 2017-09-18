@@ -27,7 +27,7 @@ oda-interest-payments-out,Interest payments on ODA loans,Interest payments,offic
 oda-loans-equity-investments,ODA loans & equity investments,ODA loans & equity investments,official,ODA,,,out,donor,,,red,Two types of ODA flows grouped together,,OECD DAC
 oda-out,Official development assistance,Gross disbursements,official,ODA,fact.oda_2015,1,out,donor,,1,red,Official development assistance,1,OECD DAC
 oda-regions,Official development assistance,Gross disbursements to regions,official,ODA,,,out,donor,,,red,Official development assistance to regions,,OECD DAC
-oofs-capital-payments-out,Capital repayments on OOFs loans,Capital repayments,official,OOFs,data_series.intl_flows_recipients,2,out,recipient,,1,blue-lighter,,1,OECD DAC
+oofs-capital-payments-out,Capital repayments on OOFs loans,Capital repayments,official,OOFs,data_series.intl_flows_recipients,2,out,recipient,,1,blue-light,,1,OECD DAC
 oofs-capital-repay,Capital repayments on OOFs loans,Capital repayments,official,OOFs,data_series.intl_flows_donors,2,in,donor,1,,blue-lighter,Receipt of capital repayments on OOF loans,1,OECD DAC
 oofs-in,Other official flows,Gross disbursements,official,OOFs,data_series.oof,2,in,recipient,1,,blue-lighter,,1,OECD DAC
 oofs-individual-devcountries,Other official flows,Gross disbursements by developing country,official,OOFs,,,out,donor,,,blue-lighter,Other official flows to individual developing countries,,OECD DAC
