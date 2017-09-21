@@ -1,3 +1,4 @@
 id,theme,name,description,color,uom,uom_display,start_year,end_year
 data_series.non_grant_revenue_ppp_pc,dpf,"Government revenue per person (excluding grants), 2015 PPP$","Government revenue per person (excluding grants), 2015 PPP$.",blue-light,2015 PPP$,PPP$,1999,2015
 data_series.poverty_190,poorest20pct,% of population living in extreme poverty,Percentage of population living under 2011 PPP$ 1.90 per day.,red,percent,%,1999,2013
+data_series.poor_people_190,poverty,Number of people living in extreme poverty,"Extreme poverty is defined as living on less than $1.90 a day. It is calculated using the national poverty lines of some of the world's poorest countries at 2011 PPP$.",red,unit,,1999,2013
