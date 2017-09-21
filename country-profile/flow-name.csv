@@ -39,11 +39,11 @@ out-debt-relief,Debt relief,Debt relief,official,ODA,,,out,donor,,,grey-light,,,
 out-oda-net-excl-debt-relief,Net ODA excluding debt relief,ODA excluding debt relief,official,ODA,,,out,donor,,,red,,,OECD DAC
 pda-in,Private development assistance,Inflows,private,PDA,,,in,recipient,,,purple-light,,,Development Initiatives
 pda-out,Private development assistance,Outflows,private,PDA,,,out,recipient,,,purple-light,,,Development Initiatives
-remittances-devcountries,Remittances to developing countries,Outflows to developing countries,private,Remittances,data_series.remittances,5,out,donor,,1,blue,Remittances to developing countries,1,World Bank Migration and Remittances Factbook
-remittances-in,Remittances,Inflows,private,Remittances,data_series.remittances,9,in,recipient,1,,blue,,1,World Bank Migration and Remittances Factbook
-remittances-individual-devcountries,Remittances,Outflows by developing country,private,Remittances,,,out,donor,,,blue,Remittances to individual developing countries,,World Bank Migration and Remittances data
-remittances-out,Remittances,Outflows,private,Remittances,data_series.remittances,9,out,recipient,,1,blue,,1,World Bank Migration and Remittances Factbook
-remittances-regions,Remittances,Outflows to regions,private,Remittances,,,out,donor,,,blue,Remittances to regions,,Development Initiatives calculations; World Bank Migration and Remittances data
+remittances-devcountries,Remittances to developing countries,Outflows to developing countries,private,Remittances,data_series.remittances,5,out,donor,,1,blue-dark,Remittances to developing countries,1,World Bank Migration and Remittances Factbook
+remittances-in,Remittances,Inflows,private,Remittances,data_series.remittances,9,in,recipient,1,,blue-dark,,1,World Bank Migration and Remittances Factbook
+remittances-individual-devcountries,Remittances,Outflows by developing country,private,Remittances,,,out,donor,,,blue-dark,Remittances to individual developing countries,,World Bank Migration and Remittances data
+remittances-out,Remittances,Outflows,private,Remittances,data_series.remittances,9,out,recipient,,1,blue-dark,,1,World Bank Migration and Remittances Factbook
+remittances-regions,Remittances,Outflows to regions,private,Remittances,,,out,donor,,,blue-dark,Remittances to regions,,Development Initiatives calculations; World Bank Migration and Remittances data
 short-debt-interest-out,Interest payments on short-term debt,Interest payments,commercial,Short term debt,data_series.intl_flows_recipients,8,out,recipient,,1,yellow,,1,World Bank International Debt Statistics
 short-debt-net-flow-in,Short-term debt,Net disbursements,commercial,Short term debt,data_series.intl_flows_recipients,8,in,recipient,1,,yellow,Net disbursements of short-term debt (debt with a maturity of less than 1 year; net disbursements are gross inflows minus capital repayments),1,World Bank International Debt Statistics
 ssc-in,DC,Inflows,official,Development cooperation,,3,in,recipient,1,,grey-light,,,Development Initiatives calculations; OECD DAC
