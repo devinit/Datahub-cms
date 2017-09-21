@@ -3,4 +3,3 @@ bush,Households using bush
 main_sewer,Households using main sewer, septic tank, or cesspool
 uncovered_latrine_or_bucket,Households using uncovered latrine or bucket
 vip_or_covered_latrine,Households using VIP latrine or covered latrine
-(4 rows)
