@@ -46,7 +46,7 @@ remittances-out,Remittances,Outflows,private,Remittances,data_series.remittances
 remittances-regions,Remittances,Outflows to regions,private,Remittances,,,out,donor,,,pink,Remittances to regions,,Development Initiatives calculations; World Bank Migration and Remittances data
 short-debt-interest-out,Interest payments on short-term debt,Interest payments,commercial,Short term debt,data_series.intl_flows_recipients,8,out,recipient,,1,green,,1,World Bank International Debt Statistics
 short-debt-net-flow-in,Short-term debt,Net disbursements,commercial,Short term debt,data_series.intl_flows_recipients,8,in,recipient,1,,green,Net disbursements of short-term debt (debt with a maturity of less than 1 year; net disbursements are gross inflows minus capital repayments),1,World Bank International Debt Statistics
-ssc-in,DC,Inflows,official,Development cooperation,,3,in,recipient,1,,grey-light,,,Development Initiatives calculations; OECD DAC
-ssc-out,DC,Outflows,official,Development cooperation,,3,out,recipient,,1,grey-light,Estimates of development cooperation,,Development Initiatives calculations based on national sources
+ssc-in,DC,Inflows,official,Development cooperation,,3,in,recipient,1,,purple,,,Development Initiatives calculations; OECD DAC
+ssc-out,DC,Outflows,official,Development cooperation,,3,out,recipient,,1,purple,Estimates of development cooperation,,Development Initiatives calculations based on national sources
 total-oda,Total ODA,Total ODA,official,ODA,,,out,donor,,,red-lighter,Total ODA,,OECD DAC
 trade-mispricing-out,Trade mispricing,Outflows,illicit ,Trade mispricing,,,out,recipient,,1,red-light,,,Global Financial Integrity program
