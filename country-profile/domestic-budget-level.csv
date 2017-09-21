@@ -829,9 +829,9 @@ other-domestic-interest,FALSE,5,Other Domestic Interest,
 other-domestically-financed,FALSE,4,Other Domestically Financed,
 other-domnestically-financed,FALSE,4,Other Domnestically Financed,
 other-excess-crude-account,FALSE,3,Other Excess Crude Account,
-other-expenditure,FALSE,2,Other Expenditure,green
-other-expenditure-in-the-budget,FALSE,2,Other Expenditure In The Budget,
-other-expenditures,FALSE,2,Other Expenditures,
+other-expenditure,FALSE,2,Other Expenditure,red
+other-expenditure-in-the-budget,FALSE,2,Other Expenditure In The Budget,red
+other-expenditures,FALSE,2,Other Expenditures,red
 other-expendse,FALSE,3,Other Expendse,
 other-expense,FALSE,3,Other Expense,
 other-expenses,FALSE,3,Other Expenses,
