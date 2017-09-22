@@ -44,7 +44,7 @@ BO,country,"Bolivia, Plurinational State of",south-america,BO,BOL,"PE,CL,PY,BR,A
 BQ,country,"Bonaire, Sint Eustatius and Saba",north-central-america,BQ,BES,,,bes-islands,BQ,,,BES Islands
 BA,country,Bosnia and Herzegovina,europe,BA,BIH,"HR,ME,RS",umics,bosnia-and-herzegovina,BA,recipient,1,Bosnia & Herzegovina
 BW,country,Botswana,south-of-sahara,BW,BWA,"ZW,ZA,NA",umics,botswana,BW,recipient,1,Botswana
-BV,country,Bouvet Island,unspecified,BV,BVT,,,bouvet-island,BV,,,Bouvet Island
+BV,,Bouvet Island,unspecified,BV,BVT,,,bouvet-island,BV,,,Bouvet Island
 BR,country,Brazil,south-america,BR,BRA,"SR,PE,BO,UY,GY,PY,GF,VE,CO,AR",umics,brazil,BR,recipient,1,Brazil
 IO,,British Indian Ocean Territory,south-central-asia,IO,IOT,,,british-indian-ocean-territory,IO,,,British Indian Ocean Territory
 BN,,Brunei Darussalam,south-central-asia,BN,BRN,MY,,brunei,BN,,,Brunei
