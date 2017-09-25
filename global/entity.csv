@@ -41,7 +41,7 @@ BT,country,Bhutan,south-central-asia,BT,BTN,"CN,IN",ldcs,bhutan,BT,recipient,1,B
 bilateral-unspecified,region,"Bilateral, unspecified",,,,,,bilateral-unspecified,55,region,,"Bilateral, unspecified"
 bmgf,organisation,Bill & Melinda Gates Foundation,,,,,,bmgf,,,,Bill & Melinda Gates Foundation
 BO,country,"Bolivia, Plurinational State of",south-america,BO,BOL,"PE,CL,PY,BR,AR",lmics,bolivia,BO,recipient,1,Bolivia
-BQ,country,"Bonaire, Sint Eustatius and Saba",north-central-america,BQ,BES,,,bes-islands,BQ,,,BES Islands
+BQ,,"Bonaire, Sint Eustatius and Saba",north-central-america,BQ,BES,,,bes-islands,BQ,,,BES Islands
 BA,country,Bosnia and Herzegovina,europe,BA,BIH,"HR,ME,RS",umics,bosnia-and-herzegovina,BA,recipient,1,Bosnia & Herzegovina
 BW,country,Botswana,south-of-sahara,BW,BWA,"ZW,ZA,NA",umics,botswana,BW,recipient,1,Botswana
 BV,,Bouvet Island,unspecified,BV,BVT,,,bouvet-island,BV,,,Bouvet Island
@@ -250,7 +250,7 @@ RO,country,Romania,europe,RO,ROU,"MD,HU,UA,BG,RS",,romania,RO,donor,,Romania
 RU,country,Russian Federation,europe,RU,RUS,"GE,CN,BY,UA,KZ,LV,PL,EE,LT,FI,MN,NO,AZ,KP",,russian-federation,RU,donor,,Russian Federation
 RW,country,Rwanda,south-of-sahara,RW,RWA,"TZ,CD,BI,UG",ldcs,rwanda,RW,recipient,1,Rwanda
 BL,,Saint Barthélemy,north-central-america,BL,BLM,,,saint-barthelemy,BL,,,Saint Barthelemy
-SH,country,"Saint Helena, Ascension and Tristan da Cunha",south-of-sahara,SH,SHN,,umics,saint-helena-ascension-and-tristan-da-cunha,SH,recipient,,"Saint Helena, Ascension & Tristan da Cunha"
+SH,,"Saint Helena, Ascension and Tristan da Cunha",south-of-sahara,SH,SHN,,umics,saint-helena-ascension-and-tristan-da-cunha,SH,recipient,,"Saint Helena, Ascension & Tristan da Cunha"
 KN,country,Saint Kitts and Nevis,north-central-america,KN,KNA,,umics,saint-kitts-and-nevis,KN,recipient,1,Saint Kitts and Nevis
 LC,country,Saint Lucia,north-central-america,LC,LCA,,umics,saint-lucia,LC,recipient,1,Saint Lucia
 MF,,Saint Martin (French part),north-central-america,MF,MAF,SX,,saint-martin,MF,,,Saint Martin
