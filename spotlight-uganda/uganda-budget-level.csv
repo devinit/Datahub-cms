@@ -3,21 +3,21 @@ expenditure,1,Expenditure,blue-light
 revenue,1,Revenue,blue-light
 administration,2,Administration,purple-light
 community-based-services,2,Community Based Services,orange-light
-conditional-government-transfers,2,Conditional Government Transfers,orange-lighter
-discretionary-government-transfers,2,Discretionary Government Transfers,green-light
-donor-funding,2,Donor Funding,green-lighter
+conditional-government-transfers,2,Conditional Government Transfers,orange-light
+discretionary-government-transfers,2,Discretionary Government Transfers,purple-light
+donor-funding,2,Donor Funding,green-light
 education,2,Education,pink-light
 finance,2,Finance,purple-lighter
-health,2,Health,grey-lighter
+health,2,Health,pink-lighter
 internal-audit,2,Internal Audit,yellow-lighter
-local-development-grant,2,Local Development Grant,red-light
-locally-raised-revenues,2,Locally Raised Revenues,red-lighter
+local-development-grant,2,Local Development Grant,yellow-light
+locally-raised-revenues,2,Locally Raised Revenues,pink-light
 multi-sectoral-transfers-to-llgs,2,Multi Sectoral Transfers To Llgs,blue-light
 natural-resources,2,Natural Resources,orange-light
-other-government-transfers,2,Other Government Transfers,orange-light
+other-government-transfers,2,Other Government Transfers,red-light
 planning,2,Planning,pink-lighter
 production-and-marketing,2,Production and Marketing,yellow-light
-roads-and-engineering,2,Roads and Engineering,grey-light
+roads-and-engineering,2,Roads and Engineering,red-light
 statutory-bodies,2,Statutory Bodies,red-lighter
 water,2,Water,blue-lighter
 a2z-project,3,A2Z Project,
