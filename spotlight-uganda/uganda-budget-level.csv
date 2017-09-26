@@ -1,25 +1,25 @@
 id,level,name,color
 expenditure,1,Expenditure,blue-light
 revenue,1,Revenue,blue-light
-administration,2,Administration,purple-darker
+administration,2,Administration,purple-light
 community-based-services,2,Community Based Services,orange-light
 conditional-government-transfers,2,Conditional Government Transfers,orange-lighter
-discretionary-government-transfers,2,Discretionary Government Transfers,orange-lighter
-donor-funding,2,Donor Funding,blue-light
-education,2,Education,purple-lighter
-finance,2,Finance,purple-light
-health,2,Health,red-light
+discretionary-government-transfers,2,Discretionary Government Transfers,green-light
+donor-funding,2,Donor Funding,green-lighter
+education,2,Education,pink-light
+finance,2,Finance,purple-lighter
+health,2,Health,grey-lighter
 internal-audit,2,Internal Audit,yellow-lighter
-local-development-grant,2,Local Development Grant,orange-darker
+local-development-grant,2,Local Development Grant,red-light
 locally-raised-revenues,2,Locally Raised Revenues,red-lighter
 multi-sectoral-transfers-to-llgs,2,Multi Sectoral Transfers To Llgs,blue-light
 natural-resources,2,Natural Resources,orange-light
-other-government-transfers,2,Other Government Transfers,orange-darker
-planning,2,Planning,red-lighter
+other-government-transfers,2,Other Government Transfers,orange-light
+planning,2,Planning,pink-lighter
 production-and-marketing,2,Production and Marketing,yellow-light
-roads-and-engineering,2,Roads and Engineering,yellow-darker
+roads-and-engineering,2,Roads and Engineering,grey-light
 statutory-bodies,2,Statutory Bodies,red-lighter
-water,2,Water,blue-light
+water,2,Water,blue-lighter
 a2z-project,3,A2Z Project,
 aasps-danida-transport-fund,3,Aasps Danida Transport Fund,
 abbatouir,3,Abbatouir,
