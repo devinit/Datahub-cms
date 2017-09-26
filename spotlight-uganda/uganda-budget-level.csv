@@ -2,7 +2,7 @@ id,level,name,color
 expenditure,1,Expenditure,blue-light
 revenue,1,Revenue,blue-light
 administration,2,Administration,purple-light
-community-based-services,2,Community Based Services,orange-light
+community-based-services,2,Community Based Services,green-light
 conditional-government-transfers,2,Conditional Government Transfers,orange-light
 discretionary-government-transfers,2,Discretionary Government Transfers,purple-light
 donor-funding,2,Donor Funding,green-light
@@ -13,7 +13,7 @@ internal-audit,2,Internal Audit,yellow-lighter
 local-development-grant,2,Local Development Grant,yellow-light
 locally-raised-revenues,2,Locally Raised Revenues,pink-light
 multi-sectoral-transfers-to-llgs,2,Multi Sectoral Transfers To Llgs,blue-light
-natural-resources,2,Natural Resources,orange-light
+natural-resources,2,Natural Resources,green-lighter
 other-government-transfers,2,Other Government Transfers,red-light
 planning,2,Planning,pink-lighter
 production-and-marketing,2,Production and Marketing,yellow-light
