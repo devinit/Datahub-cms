@@ -2,7 +2,7 @@ id,name,dac_continent_code,dac_continent,dac_id,color
 afica,Africa,,,,red
 america,America,,,,purple
 asia,Asia,,,,orange
-europe,Europe,89,Europe,89,blue-dark
+europe,Europe,89,Europe,89,purple
 far-east-asia,Far East Asia,798,Asia,789,yellow
 middle-east,Middle East,798,Asia,589,blue-darker
 north-central-america,North & Central America,498,America,389,blue
