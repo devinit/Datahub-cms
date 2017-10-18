@@ -10,8 +10,8 @@ fdi-out,Foreign Direct Investment,Outward investment,commercial,FDI,data_series.
 fdi-regions,Foreign direct investment,Investment in regions,commercial,FDI,data_series.intl_flows_donors,,out,donor,,,orange,Foreign direct investment in regions,,Development Initiatives calculations; OECD
 fdi-regions-new,Foreign direct investment (new),Investment in regions (new),commercial,FDI,data_series.intl_flows_donors,,out,donor,,,orange,Foreign direct investment in regions (new methodology),,Development Initiatives calculations; OECD
 illicit-financing-out,Illicit Finance,Outflows,illicit,Illicit finance,,,out,recipient,,2,orange-darker,Estimates of illicit finance outflows,,Global Financial Integrity program
-long-debt-comm-amt-out,Capital repayments on long-term debt (commercial sources),Capital repayments,commercial,Long term debt,,7,out,recipient,,1,blue-dark,Capital repayments on long-term debt from commercial sources,0,World Bank International Debt Statistics
-long-debt-comm-int-out,Interest payments on long-term debt (commercial sources),Interest payments,commercial,Long term debt,,7,out,recipient,,2,blue-dark,Interest payments on long-term debt from commercial sources,0,World Bank International Debt Statistics
+long-debt-comm-amt-out,Capital repayments on long-term debt (commercial sources),Capital repayments,commercial,Long term debt,,7,out,recipient,,1,yellow,Capital repayments on long-term debt from commercial sources,0,World Bank International Debt Statistics
+long-debt-comm-int-out,Interest payments on long-term debt (commercial sources),Interest payments,commercial,Long term debt,,7,out,recipient,,2,yellow,Interest payments on long-term debt from commercial sources,0,World Bank International Debt Statistics
 long-debt-disbursement-in,Long-term debt (commercial sources),Disbursements,commercial,Long term debt,data_series.intl_flows_recipients,7,in,recipient,1,,blue-darker,Disbursments of long-term debt from commercial creditors,1,World Bank International Debt Statistics
 long-debt-net-official-in,Long-term debt (official sources),Disbursements,official,Long term debt,data_series.intl_flows_recipients,4,in,recipient,1,,purple-light,"Disbursments of long-term debt from official creditors, excluding disbursements reported as ODA or OOFs",1,World Bank International Debt Statistics
 long-debt-off-amt-out,Capital repayments on long-term debt (official sources),Capital repayments,official,Long term debt,,4,out,recipient,,1,purple-light,Capital repayments on long-term debt from official sources,0,World Bank International Debt Statistics; OECD DAC Table 2a; OECD DAC Table 2b
@@ -39,14 +39,14 @@ out-debt-relief,Debt relief,Debt relief,official,ODA,,,out,donor,,,grey-light,,,
 out-oda-net-excl-debt-relief,Net ODA excluding debt relief,ODA excluding debt relief,official,ODA,,,out,donor,,,red,,,OECD DAC
 pda-in,Private development assistance,Inflows,private,PDA,,,in,recipient,,,purple-light,,,Development Initiatives
 pda-out,Private development assistance,Outflows,private,PDA,,,out,recipient,,,purple-light,,,Development Initiatives
-remittances-devcountries,Remittances to developing countries,Outflows to developing countries,private,Remittances,data_series.remittances,5,out,donor,,1,blue,Remittances to developing countries,1,World Bank Migration and Remittances Factbook
-remittances-in,Remittances,Inflows,private,Remittances,data_series.remittances,9,in,recipient,1,,blue,,1,World Bank Migration and Remittances Factbook
-remittances-individual-devcountries,Remittances,Outflows by developing country,private,Remittances,,,out,donor,,,blue,Remittances to individual developing countries,,World Bank Migration and Remittances data
-remittances-out,Remittances,Outflows,private,Remittances,data_series.remittances,9,out,recipient,,1,blue,,1,World Bank Migration and Remittances Factbook
-remittances-regions,Remittances,Outflows to regions,private,Remittances,,,out,donor,,,blue,Remittances to regions,,Development Initiatives calculations; World Bank Migration and Remittances data
-short-debt-interest-out,Interest payments on short-term debt,Interest payments,commercial,Short term debt,data_series.intl_flows_recipients,8,out,recipient,,1,yellow,,1,World Bank International Debt Statistics
-short-debt-net-flow-in,Short-term debt,Net disbursements,commercial,Short term debt,data_series.intl_flows_recipients,8,in,recipient,1,,yellow,Net disbursements of short-term debt (debt with a maturity of less than 1 year; net disbursements are gross inflows minus capital repayments),1,World Bank International Debt Statistics
-ssc-in,DC,Inflows,official,Development cooperation,,3,in,recipient,1,,grey-light,,,Development Initiatives calculations; OECD DAC
-ssc-out,DC,Outflows,official,Development cooperation,,3,out,recipient,,1,grey-light,Estimates of development cooperation,,Development Initiatives calculations based on national sources
+remittances-devcountries,Remittances to developing countries,Outflows to developing countries,private,Remittances,data_series.remittances,5,out,donor,,1,pink,Remittances to developing countries,1,World Bank Migration and Remittances Factbook
+remittances-in,Remittances,Inflows,private,Remittances,data_series.remittances,9,in,recipient,1,,pink,,1,World Bank Migration and Remittances Factbook
+remittances-individual-devcountries,Remittances,Outflows by developing country,private,Remittances,,,out,donor,,,pink,Remittances to individual developing countries,,World Bank Migration and Remittances data
+remittances-out,Remittances,Outflows,private,Remittances,data_series.remittances,9,out,recipient,,1,pink,,1,World Bank Migration and Remittances Factbook
+remittances-regions,Remittances,Outflows to regions,private,Remittances,,,out,donor,,,pink,Remittances to regions,,Development Initiatives calculations; World Bank Migration and Remittances data
+short-debt-interest-out,Interest payments on short-term debt,Interest payments,commercial,Short term debt,data_series.intl_flows_recipients,8,out,recipient,,1,green,,1,World Bank International Debt Statistics
+short-debt-net-flow-in,Short-term debt,Net disbursements,commercial,Short term debt,data_series.intl_flows_recipients,8,in,recipient,1,,green,Net disbursements of short-term debt (debt with a maturity of less than 1 year; net disbursements are gross inflows minus capital repayments),1,World Bank International Debt Statistics
+ssc-in,DC,Inflows,official,Development cooperation,,3,in,recipient,1,,purple,,,Development Initiatives calculations; OECD DAC
+ssc-out,DC,Outflows,official,Development cooperation,,3,out,recipient,,1,purple,Estimates of development cooperation,,Development Initiatives calculations based on national sources
 total-oda,Total ODA,Total ODA,official,ODA,,,out,donor,,,red-lighter,Total ODA,,OECD DAC
 trade-mispricing-out,Trade mispricing,Outflows,illicit ,Trade mispricing,,,out,recipient,,1,red-light,,,Global Financial Integrity program

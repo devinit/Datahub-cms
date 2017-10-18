@@ -1,0 +1,5 @@
+id,name,default_indicator,position
+poverty_and_vulnerability,Poverty and vulnerability,kenya_poverty_headcount,1
+population,Population,kenya_total_pop,2
+education,Education,kenya_primary_stu_teach_ratio,3
+water_and_sanitation,Water and sanitation,kenya_safe_water,4
