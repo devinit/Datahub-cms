@@ -1,7 +1,7 @@
 id,name,default_indicator,position
-poverty_and_vulnerability,Poverty and vulnerability,uganda_poverty_headcount,1
-population,Population,uganda_total_pop,2
-education,Education,uganda_leaving_exam_perf_rate,3
-health,Health,uganda_overall_health,4
-water_and_sanitation,Water and sanitation,uganda_wash_perf_score,5
-district_public_resources,District public resources,uganda_agri_percent,6
+poverty_and_vulnerability,Poverty and vulnerability,spotlight_on_uganda_2017.uganda_poverty_headcount,1
+population,Population,spotlight_on_uganda_2017.uganda_total_pop,2
+education,Education,spotlight_on_uganda_2017.uganda_leaving_exam_perf_rate,3
+health,Health,spotlight_on_uganda_2017.uganda_overall_health,4
+water_and_sanitation,Water and sanitation,spotlight_on_uganda_2017.uganda_wash_perf_score,5
+district_public_resources,District public resources,spotlight_on_uganda_2017.uganda_agri_percent,6
