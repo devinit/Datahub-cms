@@ -1,5 +1,8 @@
 id,name
+boreholes,Households using boreholes
+piped_water,Households using piped water
 ponds_dams_jabia,"Households using ponds, dams, jabia"
+protected_springs_wells,Households using protected springs/wells
 streams_or_lakes,Households using streams or lake water
 unprotected_springs_wells,Households using unprotected springs/wells
 vendor_water,Households using vendor water

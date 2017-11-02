@@ -1,5 +1,7 @@
 id,name,default_indicator,position
-poverty_and_vulnerability,Poverty and vulnerability,kenya_poverty_headcount,1
-population,Population,kenya_total_pop,2
-education,Education,kenya_primary_stu_teach_ratio,3
-water_and_sanitation,Water and sanitation,kenya_safe_water,4
+poverty_and_vulnerability,Poverty and vulnerability,spotlight_on_kenya_2017.kenya_poverty_headcount,1
+population,Population,spotlight_on_kenya_2017.kenya_total_pop,2
+education,Education,spotlight_on_kenya_2017.kenya_primary_stu_teach_ratio,3
+health,Health,spotlight_on_kenya_2017.kenya_births_attendance,4
+water_and_sanitation,Water and sanitation,spotlight_on_kenya_2017.kenya_safe_water,5
+district_public_resources,District public resources,spotlight_on_kenya_2017.kenya_agri_percent,6
