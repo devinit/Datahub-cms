@@ -1,4 +1,4 @@
-id,theme,name,colour,start_year,end_year,range,uom,uom_display,position,tooltip,description,source
+id,theme,name,color,start_year,end_year,range,uom,uom_display,position,tooltip,description,source
 spotlight_on_kenya_2017.kenya_central_resources,,Centrally raised revenues,orange,2014,2017,,unit,,q,Centrally raised revenues,"The proportion of local government revenue that is funded though central government transfers, by county.","County governments budgets, several years, County Governments of Kenya"
 spotlight_on_kenya_2017.kenya_donor_resources,,Donor revenues,blue,2014,2017,,unit,,,Locally raised revenues,Donor revenues.,"County governments budgets, several years, County Governments of Kenya"
 spotlight_on_kenya_2017.kenya_finance,,National finance,,2014,2017,,,,,National finance,National finance.,"County governments budgets, several years, County Governments of Kenya"
