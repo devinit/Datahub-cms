@@ -305,7 +305,7 @@ UG,country,Uganda,south-of-sahara,UG,UGA,"TZ,KE,SS,CD,RW",ldcs,uganda,UG,recipie
 GB,country,United Kingdom,europe,GB,GBR,IE,,united-kingdom,GB,donor,,United Kingdom
 UA,country,Ukraine,europe,UA,UKR,"PL,MD,HU,SK,BY,RO,RU",lmics,ukraine,UA,recipient,1,Ukraine
 un-agencies,,UN Agencies,,,,,,un-agencies,,multilateral,,UN Agencies
-AE,,United Arab Emirates,middle-east,AE,ARE,"SA,OM",,uae,AE,donor,,UAE
+AE,country,United Arab Emirates,middle-east,AE,ARE,"SA,OM",,uae,AE,donor,,UAE
 unicef,organisation,United Nations Children's Fund (UNICEF),,,,,,unicef,33,multilateral,,United Nations Children's Fund (UNICEF)
 undp,organisation,United Nations Development Programme (UNDP),,,,,,undp,28,multilateral,,United Nations Development Programme (UNDP)
 unece,organisation,United Nations Economic Commission for Europe (UNECE),,,,,,unece,29,multilateral,,United Nations Economic Commission for Europe (UNECE)
