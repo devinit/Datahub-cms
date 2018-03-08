@@ -1,230 +1,55 @@
-id,theme,name,description,color,uom,uomDisplay,startYear,endYear
-avg_income_of_extreme_poor,poorest20pct,Average income of extreme poor,Average income ($PPP) of people living on less than $1.90 a day, ,US$,US$,
-depth_of_extreme_poverty_190,poorest20pct,Depth of extreme poverty (poverty gap),"Depth of extreme poverty (also known as the poverty gap) tells us how far people are from the extreme poverty line, on average per country",dark-red,percent,%,2013
-poor-people-190,poorest20pct,Number of people living in extreme poverty,Number of poor people living on under 2011 PPP$ 1.90 per day,dark-red,unit, ,2013
-poorest-20-percent,poorest20pct,Poorest 20%,Number of people in each country that are part of the poorest 20% of people worldwide,dark-red,unit, ,2013
-poverty-190,poorest20pct,% of population living in extreme poverty,Percentage of population living under 2011 PPP$ 1.90 per day,dar-kred,percent,%,2013
-poverty-310,poorest20pct,% of population living on less than $3.10 a day,Percentage of population living under 2011 PPP$ 3.10 per day,dark-red,percent,%,2013
-human-hazard,vulnerability,Human hazard and exposure score,Index for risk management score for exposure to human hazards (10 = high exposure),dark-orange,index, ,2015
-number-of-un-appeals,vulnerability,Number of UN-coordinated appeals,Number of UN-coordinated appeals per country since 2000,dark-orange,index, ,2015
-natural-hazard,vulnerability,Natural hazard and exposure score,Index for risk management score for exposure to natural hazards (10 = high exposure),dark-orange,index, ,2015
-forgotten-crisis,vulnerability,Number of appearances on ECHO's Forgotten Crisis Assessment index,"EC's department of Humanitarian Aid and Civil Protection (ECHO) identifies forgotten or so-called 'neglected' emergencies.It has been assembling data for its index since 2004",dark-orange,index, ,2015
-fragile-states,vulnerability,Fragile states,Fragile states categories,dark-orange,index, ,2015
-climate-vulnerability,vulnerability,Climate vulnerability,"Global adaptation index score of each country's vulnerability to climate change, incorporating exposure, sensitivity and ability to adapt to the negative impacts of climate change.Higher scores indicate higher vulnerability to climate change",dark-orange,index, ,2015
-displacement,vulnerability,Number of people displaced due to human hazards by hosting country,"Number of people displaced due to human hazards refers to refugees and people in refugee-like situations, internally displaced persons and asylum seekers",dark-orange, , ,2015
-ssc-percent-gni,official,"South-south development cooperation provided, % of GNI","South-south development cooperation provided, % of GNI",dark-purple,percent,%,
-fact.out_oda_net_2015,official,"Net ODA provided by OECD DAC members, US$","Net ODA provided by OECD DAC members, US$",dark-purple,constant 2015 US$,US$,
-fact.oda_percent_gni,official,Net ODA provided by DAC members, "% of GNI,Net ODA provided by OECD DAC members, US$",dark-purple,percent,%,
-fact.oda_to_ldcs_percent_gni,official,"Gross ODA provided by DAC members to LDCs, % of GNI","Gross ODA provided by DAC members to LDCs, % of GNI",dark-purple,percent,%,
-out-oof-net,official,"Net other official flows provided, US$","Net other official flows provided, US$",dark-purple,constant 2015 US$,US$,
-out-ssc-net,official,"Net south-south development cooperation provided, US$","Net south-south development cooperation provided, US$",dark-purple,constant 2015 US$,US$,
-recipient_profile/oda_per_poor_person_2015,official,"ODA per person living on under $1.90 a day, US$","ODA per person living on under $1.90 a day, US$",dark-purple,constant 2015 US$,US$,
-fact.in_oda_gross_2015,official,"Gross ODA received, US$","Gross ODA received, US$",dark-purple,constant 2015 US$,US$,2015
-fact.in_oda_net_2015,official,"Net ODA received, US$","Net ODA received, US$",dark-purple,constant 2015 US$,US$,
-in-oof-gross,official,"Gross other official flows received, US$","Gross other official flows received, US$",dark-purple,constant 2015 US$,US$,
-fdi-pp,intlmix,"Foreign direct investment per person, US$","Foreign direct investment per person (note that negative values, which occur when disinvestment exceeds new investments, are excluded)",orange,US$ per person,US$,2015
-intl-resources-total-percent-gdp,intlmix,"Total international resource flows, % of GDP","Total international resource flows received by each country divided by the country's GDP, for each year",red,percent,%,2015
-remittances-pp,intlmix,"Remittances received per person, US$",Remittances per person,blue,constant 2015 US$,US$,2015
-oda-percent-intl-resources,intlmix,"ODA, % of international resource flows","Inflows of gross official development assistance (ODA) to each country expressed as a percentage of GDP of the same country, each year",purple,percent,%,2015
-fdi-percent-gdp,intlmix,"Foreign direct investment, % of GDP","Inflows of foreign direct investment to each country expressed as a percentage of GDP of the same country, each year",orange,percent,%,2015
-fact.maternal_mortality,intlmix,"Maternal mortality rate (per 100,000 live births)","The largest international resource flow to each country in each year",categorical, , ,2015
-in-ha,ha,Humanitarian assistance,"Humanitarian assistance to each country (including humanitarian assistance reported as ODA)",dark-blue,constant 2015 US$,US$,
-iati.iati-budgets-gb,forward-looking-oda,"UK, DFID planned budgets","The data shows forward looking budget data reported to the International Aid Transparency Initiative (IATI) by the UK for existing or committed projects spanning multiple years. Budget data is displayed for the Department for International Development only. This visualisation shows only project financing for specific countries: Regional and unspecified funding is excluded",dark-purple,US$,US$,2016
-iati.iati-budgets-ca,forward-looking-oda,"Canada, Global Affairs planned budgets","The data shows forward looking budget data reported to the International Aid Transparency Initiative (IATI) by Canada for existing or committed projects spanning multiple years. Budget data is displayed for Global Affairs Canada only. This visualisation shows only project financing for specific countries: Regional and unspecified funding is excluded",dark-purple,US$,US$,2016
-iati.iati-budgets-be,forward-looking-oda,Belgian Development Cooperation planned budgets,"The data shows forward looking budget data reported to the International Aid Transparency Initiative (IATI) by Belgium for existing or committed projects spanning multiple years. Budget data is displayed for the Directorate-General for Development only. This visualisation shows only project financing for specific countries: Regional and unspecified funding is excluded",dark-purple,US$,US$,2016
-iati.iati-budgets-nl,forward-looking-oda,"Netherlands, Foreign Affairs planned budgets","The data shows forward looking budget data reported to the International Aid Transparency Initiative (IATI) by the Netherlands for existing or committed projects spanning multiple years. Budget data is displayed for the Ministry of Foreign Affairs only. This visualisation shows only project financing for specific countries: Regional and unspecified funding is excluded",dark-purple,US$,US$,2016
-iati.iati-budgets-dk,forward-looking-oda,"Denmark, DANIDA and Foreign Affairs planned budgets","The data shows forward looking budget data reported to the International Aid Transparency Initiative (IATI) by Denmark for existing or committed projects spanning multiple years. Budget data is displayed for DANIDA and the Ministry of Foreign Affairs. This visualisation shows only project financing for specific countries: Regional and unspecified funding is excluded",dark-purple,Us$,US$,2016
-total-revenue-percent-gdp,dpf,"Government revenue (including grants), % of GDP","Government revenue (including grants), % of GDP",dark-light-blue,percent,%,2015
-total-revenue-ppp-pc,dpf,"Government revenue per person (including grants), 2015 PPP$","Government revenue per person (including grants), 2015 PPP$",dark-light-blue,2015 PPP$, PPP$,2015
-grants-percent-total-revenue,dpf,"Grants, % of government revenue","Grants, % of government revenue",dark-light-blue,percent,%,2015
-govt-spend-pc,dpf,"Government spending per person, 2015 PPP$","Government spending per person, 2015 PPP$. Data is for 2015 or most recent year prior",dark-light-blue,2015 PPP$, PPP$,2015
-govt-revenue-pc-gdp,dpf,"Government revenue (excluding grants), % of GDP","Government revenue (excluding grants), % of GDP",dark-light-blue,percent,%,2015
-non-grant-revenue-ppp-pc,dpf,"Government revenue per person (excluding grants), 2015 PPP$","Government revenue per person (excluding grants), 2015 PPP$",dark-light-blue,2015 PPP$, PPP$,2015
-agricultural-census,data-revolution,Latest (planned) agricultural census,The year of the last agricultural (crop and/or livestock) census or survey, , , ,
-number-of-surveys,data-revolution,Number of poverty surveys in past 10 years,"Poverty surveys collect data on household income, consumption and expenditure, including income in kind. They typically include income, expenditure, and consumption surveys, household budget surveys, Integrated Surveys, Living Standard Measuring Surveys, and other poverty related surveys", , , ,
-civil-reg-births,data-revolution,Vital statistics from civil registration (births),"The percentage of deaths reported in vital statistics where the data is derived from the Civil Registration system", , , ,
-civil-reg-deaths,data-revolution,Vital statistics from civil registration (deaths),"The percentage of deaths reported in vital statistics where the data is derived from the Civil Registration system", , , ,
-educ-mis,data-revolution,Education management information system,"A national administrative system recording data from all education facilities on staff, logistics, performance etc", , , ,
-latest-census,data-revolution,Latest (planned) population census,"The year and type of the last national household survey. Standard survey types: Demographic & Health Survey (DHS); Multiple Indicator Cluster Survey (MICS); Household Income & Expenditure Survey (HIES); National Survey (NS)", , , ,
-stat-capacity,data-revolution,Statistical capacity,"The Statistical Capacity Indicator provides an overview of the capacity of a country's national statistical system based on a diagnostic framework thereby assessing three dimensions: methodology, source data, and periodicity and timeliness", , , ,
-latest-hh-survey,data-revolution,Latest (planned) household survey,"The year and type of the last national household survey. Standard survey types: Demographic & Health Survey (DHS); Multiple Indicator Cluster Survey (MICS); Household Income & Expenditure Survey (HIES); National Survey (NS)", , , ,
-oda-donor.oda-DK,data-revolution,Health management information system,"A national administrative system recording data from all health facilities on staff, logistics, performance, morbidity etc", , , ,
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+id,theme,position,color,uom,uom_display,start_year,end_year,default_year,range,map_style,"is_high_better
+",dac_only,appear_in_bubble_chart,include_in_methodology,name,heading,tooltip,description,source,source_link
+data_series.percent_in_p20_national,poverty,6,red,percent,%,2013, ,,"80,60,40,20",,,, ,1,% of people in the P20,% of people in the P20,The percentage of population of each country who are in the global poorest 20%,The percentage of population of each country who are in the global poorest 20%,"Development Initiatives based on PovcalNet as well as selected Demographic and health Surveys (DHS), Multiple Indicator Cluster Surveys (MICS), China Family Panel Studies (CFPS), and Brazil National Demographic and Healtj Surveys (PNDS)",
+subnational_p20,poverty,7,red,percent,%,2013,,,"10, 20, 40, 60, 80",http://178.79.185.236:8080/styles/subnationalgeojson.json,,,,,% of people in the P20 (subnational level),% of people in the P20 (subnational level),The percentage of people in each subnational area who are in the global poorest 20%,The percentage of people in each subnational area who are in the global poorest 20%,"Development Initiatives based on PovcalNet as well as selected Demographic and health Surveys (DHS), Multiple Indicator Cluster Surveys (MICS), China Family Panel Studies (CFPS), and Brazil National Demographic and Healtj Surveys (PNDS)",
+survey_p20,poverty,8,red,percent,%,2013,,,"10, 20, 40, 60, 80",http://178.79.185.236:8080/styles/clustersgeojson.json,,,,,% of people in the P20 (survey level),% of people in the P20 (survey level),The percentage of people in each household survey region who are in the global poorest 20%,The percentage of people in each household survey region who are in the global poorest 20%,"Development Initiatives based on PovcalNet as well as selected Demographic and health Surveys (DHS), Multiple Indicator Cluster Surveys (MICS), China Family Panel Studies (CFPS), and Brazil National Demographic and Healtj Surveys (PNDS)",
+data_series.depth_of_extreme_poverty_190,poverty,3,red,percent,%,1981,2013,,"1, 5, 10, 20",,,,,,Depth of extreme poverty (poverty gap),Depth of extreme poverty (poverty gap),"Depth of extreme poverty (also known as the poverty gap) tells us how far people are from the extreme poverty line, on average per country.","From World Bank PovCalNet, representing the average gap for the whole population of each country, with those above the extreme poverty line counted as having a zero gap.",Development Initiatives based on World Bank PovcalNet,http://iresearch.worldbank.org/PovcalNet/povDuplicateWB.aspx
+data_series.poor_people_190,poverty,1,red,unit, ,1990,2013, ,"1000000, 5000000, 10000000, 50000000, 100000000",,,,,,Number of people living in extreme poverty,Number of people living in extreme poverty,Number of poor people living on under 2011 PPP$ 1.90 per day.,Extreme poverty is defined as living on less than $1.90 a day. It is calculated using the national poverty lines of some of the world's poorest countries at 2011 PPP$.,Development Initiatives based on World Bank PovcalNet,'http://iresearch.worldbank.org/PovcalNet/povDuplicateWB.aspx'	
+data_series.2013_p20_population,poverty,5,red,unit, ,2013,,,"5000000,20000000,50000000,120000000,500000000",,,,,,Number of people in the P20,Number of people in the P20,The approximate number of people in each country who are in the global poorest 20%,The approximate number of people in each country who are in the global poorest 20%,"Development Initiatives based on PovcalNet as well as selected Demographic and health Surveys (DHS), Multiple Indicator Cluster Surveys (MICS), China Family Panel Studies (CFPS), and Brazil National Demographic and Healtj Surveys (PNDS)",
+data_series.poverty_190,poverty,2,red,percent,%,1984,2013,,"10, 20, 40, 60, 80",,,,,1,% of population living in extreme poverty,Extreme poverty headcount (% of the population living in extreme poverty),Percentage of population living under 2011 PPP$ 1.90 per day.,Extreme poverty is defined as living on less than $1.90 a day. It is calculated using the national poverty lines of some of the world's poorest countries at 2011 PPP$.,Development Initiatives based on World Bank PovcalNet,http://iresearch.worldbank.org/PovcalNet/povDuplicateWB.aspx
+data_series.poverty_310,poverty,4,red,percent,%,1981,2013,,"10, 20, 40, 60, 80",,,,,1,% of population living on less than $3.10 a day,Moderate poverty rate (% of the population living on less than $3.10 a day),Percentage of population living under 2011 PPP$ 3.10 per day.,Data for those living under $3.10 a day illustrates that while many people are not in extreme poverty (less than $1.90 a day) they are still very poor.,Development Initiatives based on World Bank PovcalNet,http://iresearch.worldbank.org/PovcalNet/povDuplicateWB.aspx
+data_series.human_hazard,vulnerability,3,orange,index, ,2015,2017,,"1,5, 6, 7, 8,9",,,,,1,Human hazard and exposure score,Human hazard,Index for risk management score for exposure to human hazards (10 = high exposure).,Countries that are at risk of conflict or have high current conflict intensity (Inform index component).,Inform (Index for Risk Management) v 3.0.5.,http://www.inform-index.org/	
+data_series.number_of_un_appeals,vulnerability,5,orange,index,,2000,2016,,"1, 5, 9, 14",,,,,1,Number of UN-coordinated appeals,Number of UN-coordinated appeals per country since 2000,Number of UN-coordinated appeals per country since 2000.,Number of UN-coordinated appeals per country since 2000,Development Initiatives based on UN OCHA's FTS.,https://fts.unocha.org/
+data_series.natural_hazard,vulnerability,4,orange,index, ,2015,2017,,"1,5, 6, 7, 8, 9",,,,,1,Natural hazard and exposure score,Natural hazard,Index for risk management score for exposure to natural hazards (10 = high exposure).,"Countries that are exposed to, or are vulnerable to natural hazards (INFORM index component).",Inform (Index for Risk Management) v 3.0.5.,
+data_series.forgotten_crisis,vulnerability,6,orange,index, ,2004,2017,,"1, 3, 6, 9",,,,,1,Number of appearances on ECHO's Forgotten Crisis Assessment index,Forgotten crises,EC's department of Humanitarian Aid and Civil Protection (ECHO) identifies forgotten or so-called 'neglected' emergencies. It has been assembling data for its index since 2004.,EC's department of Humanitarian Aid and Civil Protection (ECHO) identifies forgotten or so-called 'neglected' emergencies. It has been assembling data for its index since 2004. The map shows countries' number of appearances on the index since then.,Development Initiatives based on ECHO Forgotten Crisis Assessment Index.,http://ec.europa.eu/echo/sites/echo-site/files/forgotten_crisis_assessment.pdf
+data_series.fragile_states,vulnerability,1,red,index,,2016,,,,,,,,1,Fragile states,Fragile states,Fragile states categories.,"The OECD Fragiliy Framework identifies countries are fragile or extremely fragile based on 50 indicators across five dimensions (economic, environmental, political, security and societal). It is part of the OECD report 'States of Fragility'.",Development Initiatives based on Fund for Peace Fragile States Index.,http://fsi.fundforpeace.org/
+data_series.climate_vulnerability,vulnerability,2,orange,index, ,2000,2014,,"0.3, 0.4, 0.5, 0.6",,,,,1,Climate vulnerability,Climate vulnerability,"Global adaptation index score of each country's vulnerability to climate change, incorporating exposure, sensitivity and ability to adapt to the negative impacts of climate change. Higher scores indicate higher vulnerability to climate change.","Global adaptation index score of each country's vulnerability to climate change, incorporating exposure, sensitivity and ability to adapt to the negative impacts of climate. Source: Notre Dame Global Adaptation Index (ND-GAIN) vulnerability score.",Notre Dame Global Adaptation Index (ND-GAIN) vulnerability score.,http://index.gain.org/
+data_series.displacement,vulnerability,7,orange, , ,2016,,,"1000, 50000, 100000, 500000, 1000000, 3000000",,,,,1,Number of people displaced due to human hazards by hosting country,Number of displaced people due to human hazards,"Number of people displaced due to human hazards refers to refugees and people in refugee-like situations, internally displaced persons and asylum seekers.","Number of people displaced due to human hazards refers to refugees and people in refugee-like situations, internally displaced persons and asylum seekers",Development Initiatives based on UN High Commissioner for Refugees (UNHCR) and UN Relief and Works Agency for Palestine Refugees in the Near East.,
+fact.ssc_percent_gni,international-official-finance,10,purple,percent,%,2000,2016,,"0.05, 0.10, 0.25, 0.5, 0.7",,,,,1,"Net ODA provided by non-DAC donors, % of GNI","Net ODA provided by non-DAC donors, % of GNI","Net ODA provided by non-DAC donors, % of GNI.","Net ODA provided by countries beyond the OECD Development Assistance Committee (DAC) who do report to the OECD, expressed as a percentage of gross national income",OECD DAC1.,https://stats.oecd.org/DownloadFiles.aspx?DatasetCode=table1
+fact.out_oda_net_2015,international-official-finance,3,purple,constant 2015 US$,US$,2000,2016,,"1000000000, 3000000000, 5000000000, 7000000000, 10000000000",,,1,,1,"Net ODA provided by OECD DAC members, US$","Net ODA provided by OECD DAC members, US$","Net ODA provided by OECD DAC members, US$.","Net official development assistance (ODA) provided by each member of the OECD Development Assistance Committee (DAC). Includes monetary transfers, non-monetary transfers (e.g. food aid, technical cooperation) and ODA that resulted in no additional transfer of resources (e.g. debt relief) minus capital repayments on ODA loans (interest repayments are not subtracted). Data is in constant 2015 prices.",OECD DAC 2A.,https://stats.oecd.org/DownloadFiles.aspx?DatasetCode=table2a
+fact.oda_percent_gni,international-official-finance,5,purple,percent,%,2000,2016,,"0.05, 0.10, 0.25, 0.5, 0.7",,,1,,1,"Net ODA provided by DAC members, % of GNI","Net ODA provided by DAC members, % of GNI","Net ODA provided by DAC members, % of GNI.","Net official development assistance (ODA) provided by members of the OECD Development Assistance Committee (DAC), expressed as a percentage of gross national income (GNI).",OECD DAC 1.,https://stats.oecd.org/DownloadFiles.aspx?DatasetCode=table1
+fact.oda_to_ldcs_percent_gni,international-official-finance,6,purple,percent,%,2000,2016,,"0.02, 0.04, 0.08, 0.15, 0.2",,,1,,1,"Net ODA provided by DAC members to LDCs, % of GNI","Net ODA provided by DAC members to LDCs, % of GNI","Net ODA provided by DAC members to LDCs, % of GNI.","Net official development assistance (ODA) to least-developed countries (LDCs) provided by members of the OECD Development Assistance Committee (DAC), expressed as a percentage of gross national income.","OECD DAC 1, OECD DAC 2A.",https://stats.oecd.org/DownloadFiles.aspx?DatasetCode=table1
+fact.out_oof_net,international-official-finance,8,purple,constant 2015 US$,US$,2000,2016,,"100000000, 200000000, 300000000, 500000000, 1000000000",,,,,1,"Net other official flows and export credits provided, US$","Net other official flows and export credits provided, US$","Net other official flows and export credits provided, US$.","Other official flows (OOFs) are flows to developing countries that do not meet the criteria to count as ODA. These are typically loans at low levels of concessionality. Officially supported export credits are finance that is primarily aimed at facilitating exports from the donor country. Data is in constant 2015 prices.","OECD DAC 2B.","https://stats.oecd.org/DownloadFiles.aspx?DatasetCode=table2b"
+fact.out_ssc_net_2015,international-official-finance,9,purple,constant 2015 US$,US$,2000,2016,,"1000000000, 3000000000, 5000000000, 7000000000, 10000000000",,,,,1,"Net ODA provided by non-DAC donors, US$","Net ODA provided by non-DAC donors, US$","Net ODA provided by non-DAC donors, US$","Net ODA provided by countries beyond the OECD Development Assistance Committee (DAC) who do report to the OECD. Data is in constant 2015 prices.",OECD DAC 2A,https://stats.oecd.org/DownloadFiles.aspx?DatasetCode=table1
+recipient_profile.oda_per_poor_person_2015,international-official-finance,4,purple,constant 2015 US$,US$,2000,2015,,"100, 250, 1000, 5000, 500000",,,,,1,"ODA per person living on under $1.90 a day, US$","ODA per person living on under $1.90 a day, US$","ODA per person living on under $1.90 a day, US$.","Official development assistance (ODA) per poor person, calculated as the total net ODA received by a country divided by the number of people in that country living on less than $1.90 per day. Data is in constant 2015 prices.",ODA shown is provided by DAC donors and multilateral organisations reporting to the OECD DAC; recipients shown include those on the historical and current DAC lists of ODA recipients.,
+fact.in_oda_gross_2015,international-official-finance,1,purple,constant 2015 US$,US$,2000,2016,,"250000000, 500000000, 750000000, 1000000000, 3000000000",,,,,1,"Gross ODA received, US$","Gross ODA received, US$","Gross ODA received, US$.","Gross official development assistance (ODA) includes monetary transfers (e.g. grants and loans to governments and for project-type interventions), non-monetary transfers (e.g. food aid, technical cooperation) and ODA that resulted in no additional transfer of resources (e.g. debt relief). Data is in constant 2015 prices","OECD DAC 2A.","https://stats.oecd.org/DownloadFiles.aspx?DatasetCode=table2a."
+fact.in_oda_net_2015,international-official-finance,2,purple,constant 2015 US$,US$,2000,2016,,"250000000, 500000000, 750000000, 1000000000, 3000000000",,,,,1,"Net ODA received, US$","Net ODA received, US$","Net ODA received, US$.","Net official development assistance (ODA) includes monetary transfers, non-monetary transfers (e.g. food aid, technical cooperation) and ODA that resulted in no additional transfer of resources (e.g. debt relief) minus capital repayments on ODA loans (interest repayments are not subtracted). Data is in constant 2015 prices.","OECD DAC 2B.",https://stats.oecd.org/DownloadFiles.aspx?DatasetCode=table2a
+fact.in_oof_gross_2015,international-official-finance,7,purple,constant 2015 US$,US$,2000,2016,,"250000000, 500000000, 750000000, 1000000000, 3000000000",,,,,1,"Gross long-term other official flows and export credits received, US$","Gross long-term other official flows and export credits received, US$","Gross long-term other official flows and export credits received, US$","Other official flows (OOFs) are flows to developing countries that do not meet the criteria to count as ODA. These are typically loans at low levels of concessionality. Officially supported export credits are finance that is primarily aimed at facilitating exports from the donor country. Data is in constant 2015 prices.",OECD DAC 2B.,"https://stats.oecd.org/DownloadFiles.aspx?DatasetCode=table2b"
+data_series.largest_intl_flow,international-finance,1,,,,2000,2015,,,,,,,,Largest international resource flow,Largest international resource flow,The largest international resource flow to each country in each year.,Largest source of international financing to each developing country,Development Initiatives based on numerous sources (see notes for international resource flows to and from developing countries data).,
+data_series.fdi_pp,international-finance,5,orange,US$ per person,US$,2000,2015,,"50, 150, 500, 1000, 5000",,,,1,1,"Foreign direct investment per person, US$","Foreign direct investment per person, US$","Foreign direct investment per person (note that negative values, which occur when disinvestment exceeds new investments, are excluded).","Volume of financing received from foreign direct investors divided by the country's population (includes equity, loans and reinvested profits). Data is in constant 2015 prices.",Development Initiatives based on UNCTAD Stat and World Bank Development Indicators.,
+data_series.intl_resources_total_percent_gdp,international-finance,2,red,percent,%,2000,2015,,"10, 20, 30, 50, 100",,,,1,1,"Total international resource flows, % of GDP","Total international resource flows, % of GDP","Total international resource flows received by each country divided by the country's GDP, for each year.","The sum of official, commercial and private resource flows received by each developing country, expressed as a percentage of GDP.",Development Initiatives based on numerous sources (see notes for international resource flows to and from developing countries data).,
+data_series.remittances_pp,international-finance,6,blue,constant 2015 US$,US$,2000,2015,,"50, 100, 200, 300, 500",,,,,1,"Remittances received per person, US$","Remittances received per person, US$",Remittances per person.,Volume of remittances received in each country divided by the country's population (includes personal transfers and income of workers employed in an economy where they are not resident). Data is in constant 2015 prices.,Development Initiatives based on World Bank.,
+data_series.oda_percent_intl_resources,international-finance,3,purple,percent,%,2000,2015,,"10, 25, 50, 75, 100",,,,1,1,"ODA, % of international resource flows","ODA, % of international resource flows","Inflows of gross official development assistance (ODA) to each country expressed as a percentage of total international resource flows received by the same country, each year.","ODA received by each developing country, expressed as a percentage of all official, commercial and private international resource inflows.",Development Initiatives based on numerous sources (see notes for international resource flows to and from developing countries data).,
+data_series.fdi_percent_gdp,international-finance,4,orange,percent,%,2000,2015,,"2,5,20.5",,,,1,1,"Foreign direct investment, % of GDP","Foreign direct investment, % of GDP","Inflows of foreign direct investment to each country expressed as a percentage of GDP of the same country, each year.",Inflows of foreign direct investment expressed as a percentage of the country's GDP.,Development Initiatives based on UNCTAD Stat and World Bank Development Indicators.,
+data_series.in_ha,humanitarian-finance,1,blue,constant 2015 US$,US$,2000,2015,,"10000000, 20000000, 50000000, 100000000, 200000000, 500000000",,,,1,1,"Humanitarian assistance, US$",Humanitarian assistance,Humanitarian assistance to each country (including humanitarian assistance reported as ODA).,Humanitarian assistance refers to the financial resources for humanitarian action. It is delivered during and in the aftermath of man-made crises and disasters caused by natural hazards.,"Development Initiatives based on OECD DAC,UN OCHA FTS and UN CERF.",
+data_series.iati_budgets_gb,forward-looking-oda,1,purple,US$,US$,2016,2020,2016,"10000000, 20000000, 50000000, 100000000, 250000000",,,,1,1,"UK, DFID planned budgets, US$",UK Forward-looking Budgets,The data shows forward looking budget data reported to the International Aid Transparency Initiative (IATI) by the UK for existing or committed projects spanning multiple years. Budget data is displayed for the Department for International Development only. This visualisation shows only project financing for specific countries: Regional and unspecified funding is excluded.,UK DFID forward-looking budgets for each country based on activities reported through IATI.,Development Initaitives based on UK DFID data downloaded via the IATI Registry on 15 December 2016.,
+data_series.iati_budgets_ca,forward-looking-oda,2,purple,US$,US$,2016,2020,2016,"1000000, 5000000, 10000000, 20000000, 50000000",,,,1,1,"Canada, Global Affairs planned budgets, US$",Canada Forward-looking Budgets,The data shows forward looking budget data reported to the International Aid Transparency Initiative (IATI) by Canada for existing or committed projects spanning multiple years. Budget data is displayed for Global Affairs Canada only. This visualisation shows only project financing for specific countries: Regional and unspecified funding is excluded.,Canada Global Affairs forward-looking budgets for each country based on activities reported through IATI.,Development Initaitives based on Canada Global Affairs data downloaded via the IATI Registry on 15 December 2016.,
+data_series.iati_budgets_be,forward-looking-oda,5,purple,US$,US$,2016,2020,2016,"1000000, 5000000, 10000000, 20000000, 50000000",,,,1,1,"Belgian Development Cooperation planned budgets, US$",Belgian Forward-looking Budgets,The data shows forward looking budget data reported to the International Aid Transparency Initiative (IATI) by Belgium for existing or committed projects spanning multiple years. Budget data is displayed for the Directorate-General for Development only. This visualisation shows only project financing for specific countries: Regional and unspecified funding is excluded.,Belgian Development Cooperation forward-looking budgets for each country based on activities reported through IATI.,Development Initaitives based on Belgian DG Development data downloaded via the IATI Registry on 15 December 2016.,
+data_series.iati_budgets_nl,forward-looking-oda,4,purple,US$,US$,2016,2020,2016,"1000000, 5000000, 10000000, 20000000, 50000000",,,,1,1,"Netherlands, Foreign Affairs planned budgets, US$",Netherlands Forward-looking Budgets,The data shows forward looking budget data reported to the International Aid Transparency Initiative (IATI) by the Netherlands for existing or committed projects spanning multiple years. Budget data is displayed for the Ministry of Foreign Affairs only. This visualisation shows only project financing for specific countries: Regional and unspecified funding is excluded.,Netherlands Foreign Affairs forward-looking budgets for each country based on activities reported through IATI.,Development Initaitives based on Netherlands Ministry of Foreign Affairs data downloaded via the IATI Registry on 15 December 2016.,
+data_series.iati_budgets_dk,forward-looking-oda,3,purple,US$,US$,2016,2020,2016,"1000000, 5000000, 10000000, 20000000, 50000000",,,,1,1,"Denmark, DANIDA and Foreign Affairs planned budgets, US$",Denmark Forward-looking Budgets,The data shows forward looking budget data reported to the International Aid Transparency Initiative (IATI) by Denmark for existing or committed projects spanning multiple years. Budget data is displayed for DANIDA and the Ministry of Foreign Affairs. This visualisation shows only project financing for specific countries: Regional and unspecified funding is excluded.,Denmark DANIDA and Foreign Affairs forward-looking budgets for each country based on activities reported through IATI.,Development Initaitives based on Denmark Ministry of Foreign Affairs data downloaded via the IATI Registry on 15 December 2016.,
+data_series.agricultural_census,data-revolution,4, , , ,2015,,,,,,,,1,Latest (planned) agricultural census,Latest (planned) agricultural census (Africa only)	,The year of the last agricultural (crop and/or livestock) census or survey.,The year of the last agricultural (crop and/or livestock) census or survey,FAO World Programme for the Census of Agriculture (WCA): www.fao.org/economic/ess/ess-wca/en/; World Bank World Development Indicators Metadata.,www.fao.org/economic/ess/ess-wca/en/
+data_series.number_of_surveys,data-revolution,3, , , ,2015,,,,,,,,1,Number of poverty surveys in past 10 years,Number of poverty surveys in past 10 years (Africa only),"Poverty surveys collect data on household income, consumption and expenditure, including income in kind. They typically include income, expenditure, and consumption surveys, household budget surveys, Integrated Surveys, Living Standard Measuring Surveys, and other poverty related surveys.","Poverty surveys collect data on household income, consumption and expenditure, including income in kind. They typically include income, expenditure, and consumption surveys, household budget surveys, Integrated Surveys, Living Standard Measuring Surveys, and other poverty related surveys",World Bank Statistical Capacity Indicators (2014).,
+data_series.civil_reg_births,data-revolution,5, , , ,2015,,,,,,,,1,Vital statistics from civil registration (births),Vital statistics from civil registration (births) (Africa only),The percentage of births reported in vital statistics where the data is derived from the Civil Registration system.,The percentage of births reported in vital statistics where the data is derived from the Civil Registration system,UNDESA Population and Vital Statistics Report. Data as available at Jan 2014; UNSD Coverage of Birth and Death Registration.,
+data_series.civil_reg_deaths,data-revolution,6, , , ,2015,,,,,,,,1,Vital statistics from civil registration (deaths),Vital statistics from civil registration (deaths) (Africa only),The percentage of deaths reported in vital statistics where the data is derived from the Civil Registration system.,The percentage of deaths reported in vital statistics where the data is derived from the Civil Registration system,WHO African Health Observatory-Civil registration and vital statistics systems.,
+data_series.educ_mis,data-revolution,9, , , ,2015,,,,,,,,1,Education management information system,Education management information system (Africa only),"A national administrative system recording data from all education facilities on staff, logistics, performance etc.","A national administrative system recording data from all education facilities on staff, logistics, performance etc",UNICEF Country Annual Reports: www.unicef.org/about/annualreport/index_82089.html; UIS Data Quality Assessment Framework (DQAF) output: www.poledakar.com/dqaf/index.php?title=DQAF_Events.,'www.unicef.org/about/annualreport/index_82089.html; www.poledakar.com/dqaf/index.php?title=DQAF_Events'
+data_series.latest_census,data-revolution,1, , , ,2015,,,,,,,,1,Latest (planned) population census,Latest (planned) population census (Africa only),The year of the last population census.,The year of the last population census.,UNDESA Population and Vital Statistics Report. Data as available at January 2014.,
+data_series.stat_capacity,data-revolution,10, , , ,2015,,,,,,,,1,Statistical capacity,World Bank statistical capacity indicator (overall average 2014) (Africa only),"The Statistical Capacity Indicator provides an overview of the capacity of a country's national statistical system based on a diagnostic framework thereby assessing three dimensions: methodology, source data, and periodicity and timeliness.","The Statistical Capacity Indicator provides an overview of the capacity of a country's national statistical system based on a diagnostic framework thereby assessing three dimensions: methodology, source data, and periodicity and timeliness",World Bank Statistical Capacity Indicators.,
+data_series.latest_hh_survey,data-revolution,2, , , ,2015,,,,,,,,1,Latest (planned) household survey,Latest (planned) household survey (Africa only),The year and type of the last national household survey. Standard survey types: Demographic & Health Survey (DHS); Multiple Indicator Cluster Survey (MICS); Household Income & Expenditure Survey (HIES); National Survey (NS).,The year and type of the last national household survey. Standard survey types: Demographic & Health Survey (DHS); Multiple Indicator Cluster Survey (MICS); Household Income & Expenditure Survey (HIES); National Survey (NS),IHSN Survey Catalog; USAID DHS Program.,
+data_series.health_mis,data-revolution,8, , , ,2015,,,,,,,,1,Health management information system,Health management information system (Africa only ),"A national administrative system recording data from all health facilities on staff, logistics, performance, morbidity etc.","A national administrative system recording data from all health facilities on staff, logistics, performance, morbidity etc","Various, including system providers such as DHIS.",
+data_series.non_grant_revenue_ppp_pc,government-finance,1,blue,2015 PPP$,PPP$,1999,2021,2015,"200, 500, 1000, 1500, 2000, 10000",,1,,,1,"Government revenue per person (excluding grants), 2015 PPP$","Government revenue per person (excluding grants), 2015 constant PPP$","Government revenue per person (excluding grants), 2015 PPP$.","Average revenue raised per person by the government, including tax and non-tax revenue (grants and borrowing are excluded). Figures are displayed in 2015 constant purchasing power parity (PPP)$. (Data series is from 1999-2021, where available. The hover function details whether the data point is an actual or a projected figure.)",Development Initiatives based on IMF Article IV publications and World Economic Outlook.,
+data_series.total_revenue_ppp_pc,government-finance,2,blue,2015 PPP$,PPP$,1999,2021,2015,"200, 500, 1000, 1500, 2000, 10000",,1,,,1,"Government revenue per person (including grants), 2015 PPP$","Government revenue per person (including grants), 2015 constant PPP$","Government revenue per person (including grants), 2015 PPP$.","Average revenue raised per person by the government, including tax, non-tax revenue and grants (borrowing is excluded). Figures are displayed in 2015 constant purchasing power parity (PPP)$. (Data series is from 1999-2021, where available. The hover function details whether the data point is an actual or a projected figure.)",Development Initiatives based on IMF Article IV publications and World Economic Outlook.,
+data_series.govt_revenue_pc_gdp,government-finance,3,blue,percent,%,1999,2021,2015,"15, 20, 25, 30, 40",,1,,,1,"Government revenue (excluding grants), % of GDP","Government revenue (excluding grants), % of GDP","Government revenue (excluding grants), % of GDP","Revenue raised as a proportion of national income (GDP) by the government, including tax and non-tax revenue (grants and borrowing are excluded). (Data series is from 1999-2021, where available. The hover function details whether the data point is an actual or a projected figure.)",Development Initiatives based on IMF Article IV publications and World Economic Outlook.,
+data_series.total_revenue_percent_gdp,government-finance,4,blue,percent,%,1999,2021,2015,"15, 20, 25, 30, 40",,1,,,1,"Government revenue (including grants), % of GDP","Government revenue (including grants), % of GDP","Government revenue (including grants), % of GDP.","Revenue raised as a proportion of national income (GDP) by the government, including tax, non-tax revenue and grants (borrowing is excluded). (Data series is from 1999-2021, where available. The hover function details whether the data point is an actual or a projected figure.)",Development Initiatives based on IMF Article IV publications.,
+data_series.grants_percent_total_revenue,government-finance,5,blue,percent,%,1999,2021,2015,"1, 5, 7.5, 10, 20",,,,,1,"Grants, % of government revenue","Grants, % of government revenue","Grants, % of government revenue.","Grants from international donors as a proportion of government revenue (including grants). (Data series is from 1999-2021, where available. The hover function details whether the data point is an actual or a projected figure.)",Development Initiatives based on IMF Article IV publications and World Economic Outlook.,
+data_series.govt_spend_pc,government-finance,6,blue,2015 PPP$,PPP$,1999,2021,2015,"200, 500, 1000, 1500, 2000, 10000",,1,,,1,"Government spending per person, 2015 PPP$","Government spending per person, 2015 constant PPP$","Government spending per person, 2015 PPP$. Data is for 2015 or most recent year prior.","Total expenditure by the government divided by the total population. Figures are displayed in 2015 constant purchasing power parity (PPP)$. (Data series is from 1999-2021, where available. The hover function details whether the data point is an actual or a projected figure.)",Development Initiatives based on IMF Article IV publications and World Economic Outlook.,
+,,,,,,,,,,,,,,,,,,,,

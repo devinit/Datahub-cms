@@ -1,0 +1,22 @@
+level,name,color
+1,Expenditure,blue-lighter
+1,Revenue,blue-lighter
+2,Administration,purple-darker
+2,Community Based Services,orange-light
+2,Conditional Government Transfers,orange-dark
+2,Discretionary Government Transfers,orange-dark
+2,Donor Funding,blue-lighter
+2,Education,purple-lighter
+2,Finance,purple-light
+2,Health,red-darker
+2,Internal Audit,yellow-lighter
+2,Local Development Grant,orange-darker
+2,Locally Raised Revenues,red-darker
+2,Multi Sectoral Transfers To Llgs,blue-lighter
+2,Natural Resources,orange-light
+2,Other Government Transfers,orange-darker
+2,Planning,red-light
+2,Production and Marketing,yellow-light
+2,Roads and Engineering,yellow-darker
+2,Statutory Bodies,red-lighter
+2,Water,blue-light

@@ -1,0 +1,15 @@
+level,name,color
+1,Expenditure,blue-lighter
+1,Revenue,blue-lighter
+2,Education,purple-lighter
+2,Donor Funding,red
+2,"Environment, Water, Energy And Natural Resources",blue
+2,"Agriculture, Livestock, Fisheries And Forestry",green
+2,"Youth, Gender, Children, Social Services And Special Programs",orange
+2,Health,red-darker
+2,Locally Generated Revenue,red-darker
+2,Balance Brought Forward,yellow-darker
+2,Government Transfers,orange-darker
+2,Administration,purple-darker
+2,"Trade, Culture, Industrialization, Co-Operative  Development And Tourism",green
+2,"Infrastructure, Lands, Physical Planning, Housing And Urban Development",yellow

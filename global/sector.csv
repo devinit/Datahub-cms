@@ -1,0 +1,17 @@
+id,name,color
+agriculture-and-food-security,Agriculture and food security,red
+banking-and-business,Banking and business,pink-light
+debt-relief,Debt relief,red-darker
+education,Education,red
+environment,Environment,orange-light
+general-budget-support,General budget support,purple
+governance-and-security,Governance and security,orange
+governance-security-and-civil-society,"Governance, security and civil society",orange-dark
+health,Health,green-dark
+humanitarian,Humanitarian,red-dark
+industry-and-trade,Industry and trade,blue-light
+infrastructure,Infrastructure,orange-light
+other,Other,purple-dark
+other-social-services,Other social services,purple
+water-and-sanitation,Water and sanitation,blue
+other-sectors-grouped,Other sectors (grouped),grey-dark
