@@ -7,5 +7,6 @@ ngo-donor,NGO (donor-country based),pink
 ngo-recipient,NGO (recipient-country based),red-light
 public-private-partnership,Public private partnership,orange
 multilateral,Multilateral,purple-light
+ppps-and-networks,Public private partnership and Networks,orange-light
 other,"Other (private sector, think-tank, etc.)",blue-light
 unspecified,Unspecified,grey
