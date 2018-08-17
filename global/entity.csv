@@ -10,11 +10,11 @@ DZ,country,Algeria,north-of-sahara,umics,algeria,recipient,1,Algeria,
 all-donors-total,,"All Donors, Total",,,all-donors-total,,,"All Donors, Total",
 america,region,"America, regional",,,america-regional,region,,"America, regional",
 AS,,American Samoa,oceania,,american-samoa,,,American Samoa,
-AD,country,Andorra,europe,,andorra,,,Andorra,
+AD,country,Andorra,europe,,andorra,,,Andorra,true
 AO,country,Angola,south-of-sahara,ldcs,angola,recipient,1,Angola,
-AI,country,Anguilla,north-central-america,umics,anguilla,recipient,,Anguilla,
+AI,country,Anguilla,north-central-america,umics,anguilla,recipient,,Anguilla,true
 AQ,,Antarctica,unspecified,,antarctica,,,Antarctica,
-AG,country,Antigua and Barbuda,north-central-america,umics,antigua-and-barbuda,recipient,1,Antigua & Barbuda,
+AG,country,Antigua and Barbuda,north-central-america,umics,antigua-and-barbuda,recipient,1,Antigua & Barbuda,true
 badea,organisation,Arab Bank for Economic Development in Africa (BADEA),,,badea,multilateral,,Arab Bank for Economic Development in Africa (BADEA),
 afesd,organisation,Arab Fund (AFESD),,,afesd,multilateral,,Arab Fund (AFESD),
 arab-fund-afesd,organisation,Arab Fund (AFESD),,,arab-fund-afesd,multilateral,,Arab Fund (AFESD),
@@ -31,7 +31,7 @@ AZ,country,Azerbaijan,south-central-asia,umics,azerbaijan,recipient,1,Azerbaijan
 BS,,Bahamas,north-central-america,,bahamas,,,Bahamas,
 BH,country,Bahrain,middle-east,,bahrain,recipient,,Bahrain,
 BD,country,Bangladesh,south-central-asia,ldcs,bangladesh,recipient,1,Bangladesh,
-BB,country,Barbados,north-central-america,,barbados,recipient,,Barbados,
+BB,country,Barbados,north-central-america,,barbados,recipient,,Barbados,true
 BY,country,Belarus,europe,umics,belarus,recipient,1,Belarus,
 BE,country,Belgium,europe,,belgium,donor,,Belgium,
 BZ,country,Belize,north-central-america,lmics,belize,recipient,1,Belize,
@@ -42,7 +42,7 @@ bilateral-unspecified,region,"Bilateral, unspecified",,,bilateral-unspecified,re
 bmgf,organisation,Bill & Melinda Gates Foundation,,,bmgf,,,Bill & Melinda Gates Foundation,
 BO,country,"Bolivia, Plurinational State of",south-america,lmics,bolivia,recipient,1,Bolivia,
 BQ,,"Bonaire, Sint Eustatius and Saba",north-central-america,,bes-islands,,,BES Islands,
-BA,country,Bosnia and Herzegovina,europe,umics,bosnia-and-herzegovina,recipient,1,Bosnia & Herzegovina,
+BA,country,Bosnia and Herzegovina,europe,umics,bosnia-and-herzegovina,recipient,1,Bosnia & Herzegovina,true
 BW,country,Botswana,south-of-sahara,umics,botswana,recipient,1,Botswana,
 BV,,Bouvet Island,unspecified,,bouvet-island,,,Bouvet Island,
 BR,country,Brazil,south-america,umics,brazil,recipient,1,Brazil,
@@ -71,11 +71,11 @@ CG,country,Congo,south-of-sahara,lmics,congo,recipient,1,Congo,
 CD,country,"Congo, the Democratic Republic of the",south-of-sahara,ldcs,drc,recipient,1,DRC,
 CK,country,Cook Islands,oceania,umics,cook-islands,recipient,,Cook Islands,
 CR,country,Costa Rica,north-central-america,umics,costa-rica,recipient,1,Costa Rica,
-CI,country,Côte d'Ivoire,south-of-sahara,lmics,cote-divoire,recipient,1,Côte d'Ivoire,
+CI,country,Côte d'Ivoire,south-of-sahara,lmics,cote-divoire,recipient,1,Côte d'Ivoire,true
 ceb,organisation,Council of Europe Development Bank (CEB),,,ceb,multilateral,,Council of Europe Development Bank (CEB),
 country-unspecified,,"Country, unspecified",unspecified,,country-unspecified,crossover,,Country not specified,
 HR,country,Croatia,europe,,croatia,donor,,Croatia,1
-CU,country,Cuba,north-central-america,umics,cuba,recipient,,Cuba,
+CU,country,Cuba,north-central-america,umics,cuba,recipient,,Cuba,true
 CW,,Curaçao,north-central-america,,curacao,,,Curacao,
 CY,country,Cyprus,europe,,cyprus,donor,,Cyprus,1
 CZ,country,Czech Republic,europe,,czech-republic,donor,,Czech Republic,
@@ -191,7 +191,7 @@ MH,country,Marshall Islands,oceania,lmics,marshall-islands,recipient,1,Marshall 
 MQ,,Martinique,north-central-america,,martinique,,,Martinique,
 MR,country,Mauritania,south-of-sahara,ldcs,mauritania,recipient,1,Mauritania,
 MU,country,Mauritius,south-of-sahara,umics,mauritius,recipient,1,Mauritius,
-YT,country,Mayotte,south-of-sahara,,mayotte,recipient,,Mayotte,
+YT,country,Mayotte,south-of-sahara,,mayotte,recipient,,Mayotte,true
 private-donors-total,,"Memo: Private Donors, Total",,,private-donors-total,,,"Memo: Private Donors, Total",
 MX,country,Mexico,north-central-america,umics,mexico,recipient,1,Mexico,
 FM,country,"Micronesia, Federated States of",oceania,lmics,micronesia,recipient,1,Micronesia,
@@ -201,13 +201,13 @@ MC,,Monaco,europe,,monaco,,,Monaco,
 MN,country,Mongolia,far-east-asia,lmics,mongolia,recipient,1,Mongolia,
 ME,country,Montenegro,europe,umics,montenegro,recipient,1,Montenegro,
 montreal-protocol,organisation,Montreal Protocol,,,montreal-protocol,multilateral,,Montreal Protocol,
-MS,country,Montserrat,north-central-america,umics,montserrat,recipient,,Montserrat,
+MS,country,Montserrat,north-central-america,umics,montserrat,recipient,,Montserrat,true
 MA,country,Morocco,north-of-sahara,lmics,morocco,recipient,1,Morocco,
 MZ,country,Mozambique,south-of-sahara,ldcs,mozambique,recipient,1,Mozambique,
 multilateral-total,,"Multilateral, Total",,,multilateral-total,,,"Multilateral, Total",
 MM,country,Myanmar,south-central-asia,ldcs,myanmar,recipient,1,Myanmar,
 NA,country,Namibia,south-of-sahara,umics,namibia,recipient,1,Namibia,
-NR,country,Nauru,oceania,umics,nauru,recipient,,Nauru,
+NR,country,Nauru,oceania,umics,nauru,recipient,,Nauru,true
 NP,country,Nepal,south-central-asia,ldcs,nepal,recipient,1,Nepal,
 NL,country,Netherlands,europe,,netherlands,donor,,Netherlands,
 ANHH,,Netherlands Antilles,,,netherlands-antilles,,,Netherlands Antilles,
@@ -216,7 +216,7 @@ NZ,country,New Zealand,oceania,,new-zealand,donor,,New Zealand,
 NI,country,Nicaragua,north-central-america,lmics,nicaragua,recipient,1,Nicaragua,
 NE,country,Niger,south-of-sahara,ldcs,niger,recipient,1,Niger,
 NG,country,Nigeria,south-of-sahara,lmics,nigeria,recipient,1,Nigeria,
-NU,country,Niue,oceania,umics,niue,recipient,,Niue,
+NU,country,Niue,oceania,umics,niue,recipient,,Niue,true
 non-dac-countries-total,,"Non-DAC Countries, Total",,,non-dac-countries-total,,,"Non-DAC Countries, Total",
 nordic-dev-fund,organisation,Nordic Development Fund (NDF),,,nordic-dev-fund,multilateral,,Nordic Development Fund (NDF),
 NF,,Norfolk Island,oceania,,norfolk-island,,,Norfolk Island,
@@ -225,7 +225,7 @@ north-of-sahara,region,"North of Sahara, regional",north-of-sahara,,north-of-sah
 MP,,Northern Mariana Islands,oceania,,northern-mariana-islands,,,Northern Mariana Islands,
 NO,country,Norway,europe,,norway,donor,,Norway,
 oceania,region,"Oceania, regional",oceania,,oceania-regional,region,,"Oceania, regional",
-OM,country,Oman,middle-east,,oman,recipient,,Oman,
+OM,country,Oman,middle-east,,oman,recipient,,Oman,true
 ofid,organisation,OPEC Fund for International Development (OFID),,,ofid,multilateral,,OPEC Fund for International Development (OFID),
 organisation-unspecified,organisation,"Organisation, unspecified",unspecified,,organisation-unspecified,multilateral,,Organisation unspecified,
 osce,organisation,Organization for Security and Co-operation in Europe (OSCE),,,osce,multilateral,,Organization for Security and Co-operation in Europe (OSCE),
@@ -235,7 +235,7 @@ PK,country,Pakistan,south-central-asia,lmics,pakistan,recipient,1,Pakistan,
 PW,country,Palau,oceania,umics,palau,recipient,1,Palau,
 PS,country,"Palestine, State of",middle-east,lmics,palestine,recipient,,Palestine,
 PA,country,Panama,north-central-america,umics,panama,recipient,1,Panama,
-PG,country,Papua New Guinea,oceania,lmics,papua-new-guinea,recipient,1,Papua New Guinea,
+PG,country,Papua New Guinea,oceania,lmics,papua-new-guinea,recipient,1,Papua New Guinea,true
 PY,country,Paraguay,south-america,lmics,paraguay,recipient,1,Paraguay,
 PE,country,Peru,south-america,umics,peru,recipient,1,Peru,
 PH,country,Philippines,far-east-asia,lmics,philippines,recipient,1,Philippines,
@@ -251,14 +251,14 @@ RU,country,Russian Federation,europe,,russian-federation,donor,,Russian Federati
 RW,country,Rwanda,south-of-sahara,ldcs,rwanda,recipient,1,Rwanda,
 BL,,Saint Barthélemy,north-central-america,,saint-barthelemy,,,Saint Barthelemy,
 SH,,"Saint Helena, Ascension and Tristan da Cunha",south-of-sahara,umics,saint-helena-ascension-and-tristan-da-cunha,recipient,,"Saint Helena, Ascension & Tristan da Cunha",
-KN,country,Saint Kitts and Nevis,north-central-america,umics,saint-kitts-and-nevis,recipient,1,Saint Kitts and Nevis,
+KN,country,Saint Kitts and Nevis,north-central-america,umics,saint-kitts-and-nevis,recipient,1,Saint Kitts and Nevis,true
 LC,country,Saint Lucia,north-central-america,umics,saint-lucia,recipient,1,Saint Lucia,
 MF,,Saint Martin (French part),north-central-america,,saint-martin,,,Saint Martin,
 PM,,Saint Pierre and Miquelon,north-central-america,,saint-pierre-and-miquelon,,,Saint Pierre & Miquelon,
 VC,country,Saint Vincent and the Grenadines,north-central-america,umics,saint-vincent-and-the-grenadines,recipient,1,Saint Vincent & the Grenadines,
 WS,country,Samoa,oceania,ldcs,samoa,recipient,1,Samoa,
 SM,,San Marino,europe,,san-marino,,,San Marino,
-ST,country,Sao Tome and Principe,south-of-sahara,ldcs,sao-tome-and-principe,recipient,1,Sao Tome & Principe,
+ST,country,Sao Tome and Principe,south-of-sahara,ldcs,sao-tome-and-principe,recipient,1,Sao Tome & Principe,true
 SA,country,Saudi Arabia,middle-east,,saudi-arabia,donor,,Saudi Arabia,1
 SN,country,Senegal,south-of-sahara,ldcs,senegal,recipient,1,Senegal,
 RS,country,Serbia,europe,umics,serbia,recipient,1,Serbia,
@@ -266,10 +266,10 @@ SC,country,Seychelles,south-of-sahara,umics,seychelles,recipient,1,Seychelles,
 SL,country,Sierra Leone,south-of-sahara,ldcs,sierra-leone,recipient,1,Sierra Leone,
 SG,,Singapore,south-central-asia,,singapore,,,Singapore,
 SX,,Sint Maarten (Dutch part),north-central-america,,sint-maarten-dutch-part,,,Sint Maarten (Dutch part),
-SK,country,Slovak Republic,europe,,slovakia,donor,,Slovak Republic,
+SK,country,Slovak Republic,europe,,slovakia,donor,,Slovak Republic,true
 SI,country,Slovenia,europe,,slovenia,donor,,Slovenia,
 SB,country,Solomon Islands,oceania,ldcs,solomon-islands,recipient,1,Solomon Islands,
-SO,country,Somalia,south-of-sahara,ldcs,somalia,recipient,,Somalia,
+SO,country,Somalia,south-of-sahara,ldcs,somalia,recipient,,Somalia,true
 south-central-asia,region,"South & Central Asia, regional",south-central-asia,,south-central-asia-regional,region,,"South & Central Asia, regional",
 ZA,country,South Africa,south-of-sahara,umics,south-africa,recipient,1,South Africa,
 south-america,region,"South America, regional",south-america,,south-america-regional,region,,"South America, regional",
@@ -290,16 +290,16 @@ SY,country,Syrian Arab Republic,middle-east,lmics,syria,recipient,,Syria,
 TW,country,"Taiwan, Province of China",far-east-asia,,taiwan,donor,,Taiwan,1
 TJ,country,Tajikistan,south-central-asia,other-lics,tajikistan,recipient,1,Tajikistan,
 TZ,country,"Tanzania, United Republic of",south-of-sahara,ldcs,tanzania,recipient,1,Tanzania,
-TH,country,Thailand,far-east-asia,umics,thailand,crossover,1,Thailand,
+TH,country,Thailand,far-east-asia,umics,thailand,crossover,1,Thailand,true
 TL,country,Timor-Leste,far-east-asia,ldcs,timor-leste,crossover,1,Timor-Leste,
 TG,country,Togo,south-of-sahara,ldcs,togo,recipient,1,Togo,
-TK,country,Tokelau,oceania,lmics,tokelau,recipient,,Tokelau,
+TK,country,Tokelau,oceania,lmics,tokelau,recipient,,Tokelau,true
 TO,country,Tonga,oceania,lmics,tonga,recipient,1,Tonga,
-TT,country,Trinidad and Tobago,north-central-america,,trinidad-and-tobago,recipient,,Trinidad & Tobago,
+TT,country,Trinidad and Tobago,north-central-america,,trinidad-and-tobago,recipient,,Trinidad & Tobago,true
 TN,country,Tunisia,north-of-sahara,umics,tunisia,recipient,1,Tunisia,
 TR,country,Turkey,europe,umics,turkey,crossover,1,Turkey,
 TM,country,Turkmenistan,south-central-asia,lmics,turkmenistan,recipient,,Turkmenistan,
-TC,country,Turks and Caicos Islands,north-central-america,,turks-and-caicos-islands,recipient,,Turks & Caicos Islands,
+TC,country,Turks and Caicos Islands,north-central-america,,turks-and-caicos-islands,recipient,,Turks & Caicos Islands,true
 TV,country,Tuvalu,oceania,ldcs,tuvalu,recipient,1,Tuvalu,
 UG,country,Uganda,south-of-sahara,ldcs,uganda,recipient,1,Uganda,
 GB,country,United Kingdom,europe,,united-kingdom,donor,,United Kingdom,
@@ -324,9 +324,9 @@ VE,country,"Venezuela, Bolivarian Republic of",south-america,umics,venezuela,rec
 VN,country,Viet Nam,far-east-asia,lmics,viet-nam,recipient,1,Viet Nam,
 VG,,"Virgin Islands, British",north-central-america,,virgin-islands-gb,,,Virgin Islands (GB),
 VI,,"Virgin Islands, U.S.",north-central-america,,virgin-islands-us,,,Virgin Islands (US),
-WF,country,Wallis and Futuna,oceania,umics,wallis-and-futuna,recipient,,Wallis & Futuna,
+WF,country,Wallis and Futuna,oceania,umics,wallis-and-futuna,recipient,,Wallis & Futuna,true
 west-indies,region,"West Indies, regional",,,west-indies-regional,region,,"West Indies, regional",
-EH,country,Western Sahara,north-of-sahara,,western-sahara,,,Western Sahara,
+EH,country,Western Sahara,north-of-sahara,,western-sahara,,,Western Sahara,true
 wfp,organisation,World Food Programme (WFP),,,wfp,multilateral,,World Food Programme (WFP),
 who,organisation,World Health Organization (WHO),,,who,multilateral,,World Health Organization (WHO),
 YE,country,Yemen,middle-east,ldcs,yemen,recipient,1,Yemen,
