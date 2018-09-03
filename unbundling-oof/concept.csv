@@ -1,2 +1,2 @@
 id,theme,name,description,color,uom,uom_display,start_year,end_year
-fact.oof_2015,official,Other official flows,Gross OOF.,,constant 2015 US$,US$,2006,2016
+fact.oof_constant,official,Other official flows,Gross OOF.,,constant 2015 US$,US$,2006,2016
