@@ -20,12 +20,12 @@ net-portfolio-equity-in,Portfolio equity,Net inflows,commercial,Portfolio equity
 oda-capital-payments-out,Capital repayments on ODA loans,Capital repayments,official,ODA,data_series.oda_capital_repayments,1,out,recipient,,1,red,,1,OECD DAC
 oda-capital-repay,Capital repayments on ODA loans,Capital repayments,official,ODA,data_series.oda_capital_repayments,1,in,donor,1,,red,Receipt of capital repayments on ODA loans,1,OECD DAC
 oda-grants,ODA grants,ODA grants,official,ODA,,,out,donor,,,red-light,This is a type of ODA flow,0,OECD DAC
-oda-in,Official development assistance,Gross disbursements,official,ODA,fact.oda_2015,1,in,recipient,1,,red,,1,OECD DAC
+oda-in,Official development assistance,Gross disbursements,official,ODA,fact.oda_constant,1,in,recipient,1,,red,,1,OECD DAC
 oda-individual-devcountries,Official development assistance,Gross disbursements by developing country,official,ODA,,,out,donor,,,red,Official development assistance to individual developing countries,,OECD DAC
 oda-interest,Interest payments on ODA loans,Interest payments,official,ODA,data_series.oda_interest_payments,1,in,donor,2,,red-lighter,Receipt of interest payments on ODA loans,1,OECD DAC
 oda-interest-payments-out,Interest payments on ODA loans,Interest payments,official,ODA,data_series.oda_interest_payments,1,out,recipient,,2,red,,1,OECD DAC
 oda-loans-equity-investments,ODA loans & equity investments,ODA loans & equity investments,official,ODA,,,out,donor,,,red,Two types of ODA flows grouped together,,OECD DAC
-oda-out,Official development assistance,Gross disbursements,official,ODA,fact.oda_2015,1,out,donor,,1,red,Official development assistance,1,OECD DAC
+oda-out,Official development assistance,Gross disbursements,official,ODA,fact.oda_constant,1,out,donor,,1,red,Official development assistance,1,OECD DAC
 oda-regions,Official development assistance,Gross disbursements to regions,official,ODA,,,out,donor,,,red,Official development assistance to regions,,OECD DAC
 oofs-capital-payments-out,Capital repayments on OOFs loans,Capital repayments,official,OOFs,data_series.intl_flows_recipients,2,out,recipient,,1,blue-light,,1,OECD DAC
 oofs-capital-repay,Capital repayments on OOFs loans,Capital repayments,official,OOFs,data_series.intl_flows_donors,2,in,donor,1,,blue-light,Receipt of capital repayments on OOF loans,1,OECD DAC
