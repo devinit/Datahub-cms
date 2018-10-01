@@ -16,7 +16,7 @@ long-debt-disbursement-in,Long-term debt (commercial sources),Disbursements,comm
 long-debt-net-official-in,Long-term debt (official sources),Disbursements,official,Long term debt,data_series.intl_flows_recipients,4,in,recipient,1,,purple-light,"Disbursments of long-term debt from official creditors, excluding disbursements reported as ODA or OOFs",1,World Bank International Debt Statistics
 long-debt-off-amt-out,Capital repayments on long-term debt (official sources),Capital repayments,official,Long term debt,,4,out,recipient,,1,purple-light,Capital repayments on long-term debt from official sources,0,World Bank International Debt Statistics; OECD DAC Table 2a; OECD DAC Table 2b
 long-debt-off-int-out,Interest payments on long-term debt (official sources),Interest payments,official,Long term debt,,4,out,recipient,,2,purple-light,Interest payments on long-term debt from official sources,0,World Bank International Debt Statistics; OECD DAC Table 2a; OECD DAC Table 2b
-net-portfolio-equity-in,Portfolio equity,Net inflows,commercial,Portfolio equity,data_series.intl_flows_recipients,6,in,recipient,1,,yellow-light,,1,
+net-portfolio-equity-in,Portfolio equity,Net inflows,commercial,Portfolio equity,data_series.intl_flows_recipients,13,in,recipient,1,,yellow-light,,1,
 oda-capital-payments-out,Capital repayments on ODA loans,Capital repayments,official,ODA,data_series.oda_capital_repayments,1,out,recipient,,1,red,,1,OECD DAC
 oda-capital-repay,Capital repayments on ODA loans,Capital repayments,official,ODA,data_series.oda_capital_repayments,1,in,donor,1,,red,Receipt of capital repayments on ODA loans,1,OECD DAC
 oda-grants,ODA grants,ODA grants,official,ODA,,,out,donor,,,red-light,This is a type of ODA flow,0,OECD DAC
