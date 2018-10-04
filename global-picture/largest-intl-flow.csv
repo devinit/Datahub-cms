@@ -1,9 +1,12 @@
 id,flow-name,name,color
 1,oda-in,Official development assistance,red
-2,net-portfolio-equity-in,Portfolio equity,yellow
-3,oofs-in,Other official flows,red-lighter
+2,net-portfolio-equity-in,Portfolio equity,yellow-lighter
+3,oofs-in,Other official flows,blue-lighter
 4,fdi-in,Foreign direct investment,orange
-5,remittances-in,Remittances,green
-6,long-debt-disbursement-in,Long-term debt (commercial sources),blue-dark
-7,short-debt-net-flow-in,Short-term debt,purple
-8,long-debt-net-official-in,Long-term debt (official sources),blue-light
+5,remittances-in,Remittances,pink
+6,long-debt-disbursement-in,Long-term debt (commercial sources),blue-darker
+7,short-debt-net-flow-in,Short-term debt,green
+8,long-debt-net-official-in,Long-term debt (official sources),purple-light
+9,export-credits-in,Export credits,green-lighter
+10,tourism,Tourism,yellow
+11,finance-mobilised-in,Blended Finance,grey
