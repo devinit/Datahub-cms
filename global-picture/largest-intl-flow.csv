@@ -8,5 +8,5 @@ id,flow-name,name,color
 7,short-debt-net-flow-in,Short-term debt,green
 8,long-debt-net-official-in,Long-term debt (official sources),purple-light
 9,export-credits-in,Export credits,green-lighter
-10,tourism,Tourism,yellow
+10,tourism-in,Tourism,yellow
 11,finance-mobilised-in,Blended Finance,grey
