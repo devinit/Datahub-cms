@@ -1,9 +1,9 @@
 id,name,default_indicator,position
-poverty,Poverty,data_series.poor_people_190,1
-vulnerability,Vulnerability,data_series.fragile_states,2
-government-finance,Government finance,data_series.non_grant_revenue_ppp_pc,3
-international-finance,International finance,data_series.largest_intl_flow,4
-international-official-finance,International official finance,fact.in_oda_gross_constant,5
+poverty,Poverty,data_series.poor_people_190,5
+vulnerability,Vulnerability,data_series.fragile_states,3
+government-finance,Government finance,data_series.non_grant_revenue_ppp_pc,4
+international-finance,International finance,data_series.largest_intl_flow,2
+international-official-finance,International official finance,fact.in_oda_gross_constant,1
 humanitarian-finance,Humanitarian finance,data_series.in_ha,6
 data-revolution,Data revolution,data_series.latest_census,7
 forward-looking-oda,Forward looking ODA,data_series.iati_budgets_gb,8
