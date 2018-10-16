@@ -233,7 +233,7 @@ other-donor-countries,,Other donor countries,,,other-donor-countries,,,Other don
 other-multilaterals,,Other Multilaterals,,,other-multilaterals,,,Other Multilaterals,
 PK,country,Pakistan,south-central-asia,lmics,pakistan,recipient,1,Pakistan,
 PW,country,Palau,oceania,umics,palau,recipient,1,Palau,
-PS,country,"Palestine, State of",middle-east,lmics,palestine,recipient,1,Palestine,
+PS,country,"Palestine, State of",middle-east,lmics,palestine,recipient,,Palestine,
 PA,country,Panama,north-central-america,umics,panama,recipient,1,Panama,
 PG,country,Papua New Guinea,oceania,lmics,papua-new-guinea,recipient,1,Papua New Guinea,true
 PY,country,Paraguay,south-america,lmics,paraguay,recipient,1,Paraguay,
@@ -247,7 +247,7 @@ QA,,Qatar,middle-east,,qatar,,,Qatar,1
 region-unspecified,region,"Region, unspecified",unspecified,,region-unspecified,region,,"Region, unspecified",
 RE,,Réunion,south-of-sahara,,réunion,,,Reunion,
 RO,country,Romania,europe,,romania,donor,,Romania,1
-RU,country,Russian Federation,europe,,russian-federation,donor,1,Russian Federation,1
+RU,country,Russian Federation,europe,,russian-federation,donor,,Russian Federation,1
 RW,country,Rwanda,south-of-sahara,ldcs,rwanda,recipient,1,Rwanda,
 BL,,Saint Barthélemy,north-central-america,,saint-barthelemy,,,Saint Barthelemy,
 SH,,"Saint Helena, Ascension and Tristan da Cunha",south-of-sahara,umics,saint-helena-ascension-and-tristan-da-cunha,recipient,,"Saint Helena, Ascension & Tristan da Cunha",
@@ -305,7 +305,7 @@ UG,country,Uganda,south-of-sahara,ldcs,uganda,recipient,1,Uganda,
 GB,country,United Kingdom,europe,,united-kingdom,donor,,United Kingdom,
 UA,country,Ukraine,europe,lmics,ukraine,recipient,1,Ukraine,
 un-agencies,,UN Agencies,,,un-agencies,multilateral,,UN Agencies,
-AE,country,United Arab Emirates,middle-east,,uae,donor,1,UAE,1
+AE,country,United Arab Emirates,middle-east,,uae,donor,,UAE,1
 unicef,organisation,United Nations Children's Fund (UNICEF),,,unicef,multilateral,,United Nations Children's Fund (UNICEF),
 undp,organisation,United Nations Development Programme (UNDP),,,undp,multilateral,,United Nations Development Programme (UNDP),
 unece,organisation,United Nations Economic Commission for Europe (UNECE),,,unece,multilateral,,United Nations Economic Commission for Europe (UNECE),
