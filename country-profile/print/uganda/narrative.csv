@@ -1,0 +1,5 @@
+key,type,value,next
+page1_intro,string,"Extreme poverty (defined in notes) in Uganda has declined since 2002; however, according to latest available estimates (from 2013), over a third of the population still lives below the international poverty line."
+page1_intro_bullet1,list,"At US$1.7 billion, ODA accounted for 39% of all international financing in 2015",page1_intro_bullet2
+page1_intro_bullet2,list,"In 2015 spending by the Uganda government equated to PPP$365 per person, among the lowest in the world",page1_intro_bullet3
+page1_intro_bullet3,list,"27% of ODA is delivered as loans and equity, 18% as grants and 11% as technical cooperation",
