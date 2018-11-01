@@ -52,9 +52,9 @@ total-oda,Total ODA,Total ODA,official,ODA,,,out,donor,,,red-lighter,Total ODA,,
 trade-mispricing-out,Trade mispricing,Outflows,illicit ,Trade mispricing,,,out,recipient,,1,red-light,,,Global Financial Integrity program
 export-credits-out-devcountries,Official supported export credits Extended,Gross disbursements,official,Export credits,data_series.intl_flows_donors,6,out,donor,,,green,Official supported export credits Extended to developing country,1,OECD DAC Table 2B
 export-credits-in-devcountries,Official supported export credits Received,Repayments,official,Export credits,data_series.intl_flows_donors,6,in,donor,,,green,Official supported export credits repayments from developing countries,1,OECD DAC Table 2B
-tourism-in,Tourism,Gross disbursements,private,Tourism,data_series.intl_flows_recipients,11,in,recipient,1,,yellow,,1,World Bank
+tourism-in,Tourism,Receipts,private,Tourism,data_series.intl_flows_recipients,11,in,recipient,1,,yellow,,1,World Bank
 export-credits-in,Officially supported export credits,Gross disbursements,official,Export credits,data_series.intl_flows_recipients,10,in,recipient,1,,green-lighter,,1,OECD DAC Table 2B
 export-credits-out,Officially supported export credits,Repayments,official,Export credits,data_series.intl_flows_recipients,10,out,recipient,,1,green-lighter,,1,OECD DAC Table 2B
 finance-mobilised-in,Blended Finance,Gross disbursements,commercial,Blended Finance,data_series.intl_flows_recipients,12,in,recipient,,,grey,,1,OECD
-tourism-out,Tourism,Gross disbursements,private,Tourism,data_series.intl_flows_recipients,11,out,recipient,,1,yellow,,1,World Bank
+tourism-out,Tourism,Expenditures,private,Tourism,data_series.intl_flows_recipients,11,out,recipient,,1,yellow,,1,World Bank
 export-credits-regions,Officially supported export credits,Gross disbursements,official,Export credits,,,out,donor,,,green,Officially supported export credits to regions,,OECD DAC Table 2B
