@@ -3,3 +3,8 @@ page1_intro,string,"Extreme poverty (defined in notes) in Uganda has declined si
 page1_intro_bullet1,list,"At US$1.7 billion, ODA accounted for 39% of all international financing in 2015",page1_intro_bullet2
 page1_intro_bullet2,list,"In 2015 spending by the Uganda government equated to PPP$365 per person, among the lowest in the world",page1_intro_bullet3
 page1_intro_bullet3,list,"27% of ODA is delivered as loans and equity, 18% as grants and 11% as technical cooperation",
+page1_section1_map1_narrative,string,"Although poverty has declined, 35% of the population still live in extreme poverty (2013 data)",
+page1_section1_map1_heading,string,"% of population living on under $1.90 per day",
+page1_section1_map2_narrative,string,"The poorest 20% of the population has 6% of total income",
+page1_section1_map2_heading,string,"2012, share of income by quintile of population",
+page1_section1_map2_footer,string,"Average GDP per capita: US$705 (2015)",
