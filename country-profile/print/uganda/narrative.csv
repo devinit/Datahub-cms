@@ -3,8 +3,11 @@ page1_intro,string,"Extreme poverty (defined in notes) in Uganda has declined si
 page1_intro_bullet1,list,"At US$1.7 billion, ODA accounted for 39% of all international financing in 2015",page1_intro_bullet2
 page1_intro_bullet2,list,"In 2015 spending by the Uganda government equated to PPP$365 per person, among the lowest in the world",page1_intro_bullet3
 page1_intro_bullet3,list,"27% of ODA is delivered as loans and equity, 18% as grants and 11% as technical cooperation",
-page1_section1_map1_narrative,string,"Although poverty has declined, 35% of the population still live in extreme poverty (2013 data)",
-page1_section1_map1_heading,string,"% of population living on under $1.90 per day",
-page1_section1_map2_narrative,string,"The poorest 20% of the population has 6% of total income",
-page1_section1_map2_heading,string,"2012, share of income by quintile of population",
-page1_section1_map2_footer,string,"Average GDP per capita: US$705 (2015)",
+page1_section1_chart1_narrative,string,"Although poverty has declined, 35% of the population still live in extreme poverty (2013 data)",
+page1_section1_chart1_heading,string,"% of population living on under $1.90 per day",
+page1_section1_chart2_narrative,string,"The poorest 20% of the population has 6% of total income",
+page1_section1_chart2_heading,string,"2012, share of income by quintile of population",
+page1_section1_chart2_footer,string,"Average GDP per capita: US$705 (2015)",
+page1_section2_chart1_narrative,string,"While ODA is still the largest inflow, profits on FDI and remittances are the largest outflows",
+page1_section2_chart1_heading,string,"2015, international resource inflows and outflows (US$ billions, constant 2015 prices)",
+page1_footer_narrative,string,"Notes: We define extreme poverty as measured using the 2011PPP$1.90 extreme poverty line. Purchasing power parity (PPP) prices are the rate at which a country's currency would have to be converted into that of another country to buy the same amount of goods and services in each country. PPPs are constructed by comparing the cost of a common basket of goods in different countries. Depth of poverty is a measure of the average gap in incomes for people living below the poverty line spread across the population of the whole country, expressed as a percentage of the PPP$1.90 a day poverty line. Poverty data in the overview boxes is for the year 2013. 'Domestic public resources available' refers to the total non-grant revenue either collected or projected to be collected by the government in the financial year 2015. Data on 'international resources available' also refers to the year 2015. Data on government spending per person is expressed in 2015 PPP$, as estimated by the IMF, and refers to the year 2015 or most recent year prior. Acronyms: GDP: gross domestic product; FDI: foreign direct investment; IMF: International Monetary Fund; ODA: official development assistance.",
